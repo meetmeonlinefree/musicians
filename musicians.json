@@ -2,21 +2,21 @@
     {
         "id": 1,
         "name": "Анвар Ахмедов",
-        "imageUrl": "https://example.com/image.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/anvar_axmedov.jpg"
     },
     {
         "id": 2,
         "name": "Далер Назаров",
-        "imageUrl": "https://example.com/image2.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/daler_nazarov.jpg"
     },
     {
         "id": 3,
         "name": "Шабнами Сурайё",
-        "imageUrl": "https://example.com/image2.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/shabnami_surayo.jpg"
     },
     {
         "id": 4,
         "name": "Чонибек Муродов",
-        "imageUrl": "https://example.com/image2.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/jonibek_murodov.jpg"
     }
 ]
