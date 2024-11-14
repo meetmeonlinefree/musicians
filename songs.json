@@ -1,0 +1,30 @@
+[
+  {
+    "musicianId": 1,
+    "songs": [
+      {
+        "title": "Название песни 1",
+        "album": "Название альбома",
+        "releaseDate": "2022-05-10",
+        "songUrl": "https://example.com/song1.mp3"
+      },
+      {
+        "title": "Название песни 2",
+        "album": "Другой альбом",
+        "releaseDate": "2021-08-22",
+        "songUrl": "https://example.com/song2.mp3"
+      }
+    ]
+  },
+  {
+    "musicianId": 2,
+    "songs": [
+      {
+        "title": "Песня музыканта 2",
+        "album": "Альбом музыканта 2",
+        "releaseDate": "2021-09-10",
+        "songUrl": "https://example.com/song3.mp3"
+      }
+    ]
+  }
+]
