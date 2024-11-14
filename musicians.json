@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Имя Фамилия",
+    "imageUrl": "https://example.com/image.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Другой Музыкант",
+    "imageUrl": "https://example.com/image2.jpg"
+  }
+]
