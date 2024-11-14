@@ -18,5 +18,15 @@
         "id": 4,
         "name": "Чонибек Муродов",
         "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/jonibek_murodov.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Нигина Амонкулова",
+        "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/nigina_amonkulova.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Зулайхо Мамадшоева",
+        "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/zulayxo_mamadshoeva.jpg"
     }
 ]
