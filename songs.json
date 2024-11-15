@@ -12,7 +12,7 @@
         "title": "Название песни 2",
         "album": "Другой альбом",
         "releaseDate": "2021-08-22",
-        "songUrl": "https://example.com/song2.mp3"
+        "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/anvar_axmedov_modar.mp3"
       }
     ]
   },
