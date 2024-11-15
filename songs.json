@@ -6,7 +6,7 @@
         "title": "Название песни 1",
         "album": "Название альбома",
         "releaseDate": "2022-05-10",
-        "songUrl": "https://example.com/song1.mp3"
+        "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/anvar_axmedov_modar.mp3"
       },
       {
         "title": "Название песни 2",
