@@ -26,5 +26,16 @@
         "songUrl": "https://example.com/song3.mp3"
       }
     ]
+  },
+  {
+    "musicianId": 7,
+    "songs": [
+      {
+        "title": "Fayzoboda Shamolosh",
+        "album": "Альбом музыканта 7",
+        "releaseDate": "2024-11-19",
+        "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/umedjoni_burhon.mp3"
+      }
+    ]
   }
 ]
