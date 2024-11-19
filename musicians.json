@@ -28,5 +28,10 @@
         "id": 6,
         "name": "Зулайхо Мамадшоева",
         "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/zulayxo_mamadshoeva.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Umedjoni Burhon",
+        "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/umedjoni_burhon.jpg"
     }
 ]
