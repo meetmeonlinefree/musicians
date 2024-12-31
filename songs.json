@@ -3,7 +3,7 @@
     "musicianId": 1,
     "songs": [
       {
-        "title": "Название песни 1",
+        "title": "Анвар Ахмедов - Модар",
         "album": "Название альбома",
         "releaseDate": "2022-05-10",
         "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/anvar_axmedov_modar.mp3"
