@@ -5,7 +5,8 @@
     "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/shabnami_surayo.jpg",
     "description": "Description",
     "version": "1.0",
-    "date": "09.12.2024"
+    "date": "09.12.2024",
+    "applicationUrl": "https://play.google.com/store/apps/details?id=tj.itservice.matin&hl=ru"
   },
   {
     "application_id": 2,
@@ -13,7 +14,8 @@
     "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/daler_nazarov.jpg",
     "description": "Description",
     "version": "1.0",
-    "date": "09.12.2024"
+    "date": "09.12.2024",
+    "applicationUrl": "https://play.google.com/store/apps/details?id=tj.itservice.matin&hl=ru"
   },
   {
     "application_id": 3,
@@ -21,7 +23,8 @@
     "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/shabnami_surayo.jpg",
     "description": "Description",
     "version": "1.0",
-    "date": "09.12.2024"
+    "date": "09.12.2024",
+    "applicationUrl": "https://play.google.com/store/apps/details?id=tj.itservice.matin&hl=ru"
   },
   {
     "application_id": 4,
@@ -29,6 +32,7 @@
     "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/shabnami_surayo.jpg",
     "description": "Description",
     "version": "1.0",
-    "date": "09.12.2024"
+    "date": "09.12.2024",
+    "applicationUrl": "https://play.google.com/store/apps/details?id=tj.itservice.matin&hl=ru"
   }
 ]
