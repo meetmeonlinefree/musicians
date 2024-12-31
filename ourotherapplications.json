@@ -2,7 +2,7 @@
   {
     "application_id": 1,
     "title": "Hello application",
-    "imageUrl": "https://image.png",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/shabnami_surayo.jpg",
     "description": "Description",
     "version": "1.0",
     "date": "09.12.2024"
@@ -10,7 +10,7 @@
   {
     "application_id": 2,
     "title": "Hello application2",
-    "imageUrl": "https://image.png",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/daler_nazarov.jpg",
     "description": "Description",
     "version": "1.0",
     "date": "09.12.2024"
@@ -18,7 +18,7 @@
   {
     "application_id": 3,
     "title": "Hello application3",
-    "imageUrl": "https://image.png",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/shabnami_surayo.jpg",
     "description": "Description",
     "version": "1.0",
     "date": "09.12.2024"
