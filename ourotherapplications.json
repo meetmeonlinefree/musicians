@@ -1,36 +1,36 @@
 [
   {
     "application_id": 1,
-    "title": "Hello application",
+    "title": "Шабнам Сурайё",
     "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/shabnami_surayo.jpg",
-    "description": "Description",
+    "description": "Все песни Шабнам Сурайё",
     "version": "1.0",
     "date": "09.12.2024",
     "applicationUrl": "https://play.google.com/store/apps/details?id=tj.itservice.matin&hl=ru"
   },
   {
     "application_id": 2,
-    "title": "Hello application2",
+    "title": "Далер Назаров",
     "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/daler_nazarov.jpg",
-    "description": "Description",
+    "description": "Все песни Далер Назаров",
     "version": "1.0",
     "date": "09.12.2024",
     "applicationUrl": "https://play.google.com/store/apps/details?id=tj.itservice.matin&hl=ru"
   },
   {
     "application_id": 3,
-    "title": "Hello application3",
+    "title": "Анвар Ахмедов",
     "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/shabnami_surayo.jpg",
-    "description": "Description",
+    "description": "Все песни Анвар Ахмедов",
     "version": "1.0",
     "date": "09.12.2024",
     "applicationUrl": "https://play.google.com/store/apps/details?id=tj.itservice.matin&hl=ru"
   },
   {
     "application_id": 4,
-    "title": "Hello application4",
+    "title": "Нигина Амонкулова",
     "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/shabnami_surayo.jpg",
-    "description": "Description",
+    "description": "Все песни Нигина Амонкулова",
     "version": "1.0",
     "date": "09.12.2024",
     "applicationUrl": "https://play.google.com/store/apps/details?id=tj.itservice.matin&hl=ru"
