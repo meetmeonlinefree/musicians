@@ -1,4 +1,9 @@
 [
+     {
+        "id": 10,
+        "name": "Фарзона Хуршед",
+        "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/farzona_xurshed.jpg"
+    },
     {
         "id": 9,
         "name": "Мадина Акназарова",
