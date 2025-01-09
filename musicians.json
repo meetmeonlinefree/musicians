@@ -10,6 +10,21 @@
         "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/maxresdefault.jpg"
     },
     {
+        "id": 13,
+        "name": "Нозия Кароматулло",
+        "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/n_karomatullo.jpg"
+    },
+     {
+        "id": 12,
+        "name": "Нигора Холова",
+        "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/nigora_zolova.jpg"
+    },
+     {
+        "id": 11,
+        "name": "Мухаммадрафи Кароматулло",
+        "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/m_karomatullo.jpg"
+    },
+    {
         "id": 1,
         "name": "Анвар Ахмедов",
         "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/anvar_axmedov.jpg"
