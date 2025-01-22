@@ -27,6 +27,39 @@
       }
     ]
   },
+  {
+    "musicianId": 3,
+    "songs": [
+      {
+        "title": "Шабнаб Сурайё",
+        "album": "Шабнаб Сурайё",
+        "releaseDate": "2021-09-10",
+        "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/Shabnam_Surayo_Gijdalla.mp3"
+      }
+    ]
+  },
+  {
+    "musicianId": 4,
+    "songs": [
+      {
+        "title": "Джонибек Муродов",
+        "album": "Джонибек Муродов",
+        "releaseDate": "2021-09-10",
+        "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/Jonibek_Murodov_Yoqut_2024.mp3"
+      }
+    ]
+  },
+    {
+    "musicianId": 5,
+    "songs": [
+      {
+        "title": "Нигина Амонкулова",
+        "album": "Нигина Амонкулова",
+        "releaseDate": "2021-09-10",
+        "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/Nigina_Amonqulova_Bargard.mp3"
+      }
+    ]
+  },
  {
     "musicianId": 6,
     "songs": [
@@ -52,6 +85,83 @@
         "album": "Альбом музыканта 7",
         "releaseDate": "2024-11-19",
         "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/umedjoni_burhon_fayzoboda_shamolosh.mp3"
+      }
+    ]
+  },
+ {
+    "musicianId": 8,
+    "songs": [
+      {
+        "title": "Мехрнигор Рустам",
+        "album": "Мехрнигор Рустам",
+        "releaseDate": "2021-09-10",
+        "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/Mehrnigor_Rustam___Firori___New_Song.mp3"
+      }
+    ]
+  },
+   {
+    "musicianId": 9,
+    "songs": [
+      {
+        "title": "Мадина Акназарова",
+        "album": "Мадина Акназарова",
+        "releaseDate": "2021-09-10",
+        "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/Madina_Aknazarova_Mastam_Az.mp3"
+      }
+    ]
+  },
+ {
+    "musicianId": 10,
+    "songs": [
+      {
+        "title": "Фарзона Хуршед",
+        "album": "Фарзона Хуршед",
+        "releaseDate": "2021-09-10",
+        "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/Farzonai_Khurshed_Sartaroshon.mp3"
+      }
+    ]
+  },
+  {
+    "musicianId": 11,
+    "songs": [
+      {
+        "title": "Мухаммадрафи Кароматулло",
+        "album": "Мухаммадрафи Кароматулло",
+        "releaseDate": "2021-09-10",
+        "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/Muhammadrafi_Karomatullo_Be_Tu.mp3"
+      }
+    ]
+  },
+  {
+    "musicianId": 12,
+    "songs": [
+      {
+        "title": "Нигора Холова",
+        "album": "Нигора Холова",
+        "releaseDate": "2021-09-10",
+        "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/Nigora_Kholova_Bazmoro_2024.mp3"
+      }
+    ]
+  },
+  {
+    "musicianId": 13,
+    "songs": [
+      {
+        "title": "Нозия Кароматулло",
+        "album": "Нозия Кароматулло",
+        "releaseDate": "2021-09-10",
+        "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/2024_Noziya_Karomatullo.mp3"
+      }
+    ]
+  },
+    {
+    "musicianId": 14,
+    "songs": [
+      {
+        "title": "Нодирабегим Усарзода",
+        "album": "Нодирабегим Усарзода",
+        "releaseDate": "2021-09-10",
+        "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/ГУЛЧИН_АЗ_УСТОДОН_Нодирабегим_Усарзода.mp3"
       }
     ]
   }
