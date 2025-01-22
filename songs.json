@@ -20,10 +20,10 @@
     "musicianId": 2,
     "songs": [
       {
-        "title": "Песня музыканта 2",
-        "album": "Альбом музыканта 2",
+        "title": "Далер Назаров",
+        "album": "Далер Назаров",
         "releaseDate": "2021-09-10",
-        "songUrl": "https://example.com/song3.mp3"
+        "songUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/songs/Tojikiston _ Daler Nazarov.mp3"
       }
     ]
   },
