@@ -4,19 +4,19 @@
   "items": [
     {
       "id": "1",
-      "title": "Мадина Акназарова",
+      "title": "Сухани ишк",
       "description": "Мадина Акназарова",
-      "image_url": "h//yt3.googleusercontent.com/BmmgY_TRMYdx5OxpYA_9xfREALn5PvfCZoLME_vmtpPMnnQ-8J4JPAcQe71BPPciIw6nDFI1og=s176-c-k-c0x00ffffff-no-rj-mo",
+      "image_url": "https://yt3.googleusercontent.com/BmmgY_TRMYdx5OxpYA_9xfREALn5PvfCZoLME_vmtpPMnnQ-8J4JPAcQe71BPPciIw6nDFI1og=s176-c-k-c0x00ffffff-no-rj-mo",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/2.mp4",
       "publishedAt": "2026-01-18",
       "durationSec": 215
     },
     {
       "id": "2",
-      "title": "Название",
-      "description": "Описание...",
-      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/shohnoma/refs/heads/main/audio_image/guftori90.avif",
-      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/1ce6489685852810b8f19f6f7c5d86117af3c9a2/videos/a4c7ab88-4b08-4369-ae22-e27cbd46b02f.mp4",
+      "title": "Мастам аз нигохат",
+      "description": "Мадина Акназарова",
+      "image_url": "https://yt3.googleusercontent.com/BmmgY_TRMYdx5OxpYA_9xfREALn5PvfCZoLME_vmtpPMnnQ-8J4JPAcQe71BPPciIw6nDFI1og=s176-c-k-c0x00ffffff-no-rj-mo",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/3.mp4",
       "publishedAt": "2026-01-18",
       "durationSec": 215
     },
