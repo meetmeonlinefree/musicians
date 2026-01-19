@@ -3,9 +3,9 @@
   "updatedAt": "2026-01-19T10:00:00Z",
   "artists": [
     {
-      "id": "a_shabnam",
-      "name": "Шабнами Сурайё",
-      "image_url": "https://i.ytimg.com/vi/C1PgNcOjHxw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLACltRN7YV_HnsHEKRHRaq87vk7EQ"
+      "id": "a_sadriddin",
+      "name": "Садриддин",
+      "image_url": "https://i.ytimg.com/vi/ldJjyyy1yHY/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYTCBbKGUwDw==&rs=AOn4CLBzpw-l-9MGe_nEYJPV1Te9PpsEMg"
     },
     {
       "id": "a_daler",
@@ -16,13 +16,13 @@
   "items": [
     {
       "id": "1",
-      "artistId": "a_shabnam",
-      "title": "Название 1",
-      "description": "Описание...",
-      "image_url": "https://i.ytimg.com/vi/C1PgNcOjHxw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLACltRN7YV_HnsHEKRHRaq87vk7EQ",
+      "artistId": "a_sadriddin",
+      "title": "Sadriddin Gole Man",
+      "description": "Sadriddin ( Gole Man ) ",
+      "image_url": "https://i.ytimg.com/vi/ldJjyyy1yHY/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYTCBbKGUwDw==&rs=AOn4CLBzpw-l-9MGe_nEYJPV1Te9PpsEMg",
       "video_url": "https://yourcdn.com/videos/v_0001.mp4",
       "publishedAt": "2026-01-18",
-      "durationSec": 215
+      "durationSec": 316
     },
     {
       "id": "2",
