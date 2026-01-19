@@ -8,8 +8,8 @@
       "image_url": "https://i.ytimg.com/vi/ldJjyyy1yHY/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYTCBbKGUwDw==&rs=AOn4CLBzpw-l-9MGe_nEYJPV1Te9PpsEMg"
     },
     {
-      "id": "a_daler",
-      "name": "Далер Назаров",
+      "id": "a_yasmina",
+      "name": "Yasmina",
       "image_url": "https://i.ytimg.com/vi/C1PgNcOjHxw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLACltRN7YV_HnsHEKRHRaq87vk7EQ"
     }
   ],
@@ -36,11 +36,11 @@
     },
     {
       "id": "3",
-      "artistId": "a_daler",
-      "title": "Далер — клип",
-      "description": "",
-      "image_url": "https://i.ytimg.com/vi/C1PgNcOjHxw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLACltRN7YV_HnsHEKRHRaq87vk7EQ",
-      "video_url": "https://yourcdn.com/videos/v_0101.mp4",
+      "artistId": "a_yasmina",
+      "title": "Yasmina Anar Anar",
+      "description": "Yasmina",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/yasmina_1.png",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/yasmina_anar.mp4",
       "publishedAt": "2025-12-20",
       "durationSec": 240
     }
