@@ -1,38 +1,38 @@
 [
   {
     "application_id": 1,
-    "title": "Шабнам Сурайё",
-    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/shabnami_surayo.jpg",
-    "description": "Все песни Шабнам Сурайё",
-    "version": "1.0",
-    "date": "09.12.2024",
-    "applicationUrl": "https://play.google.com/store/apps/details?id=com.neuronit.tajikmusician"
+    "title": "Шоҳномаи Фирдавсӣ",
+    "imageUrl": "https://play-lh.googleusercontent.com/rhAU-r-K1CJo5V8TqgjknLhjm_w0UN_GKebb8ouSApdq-SVW_tmGBtXVlhr1mRODugFTJCI7EwohmBo9shD05w=w240-h480-rw",
+    "description": "Шоҳномаи Фирдавсӣ",
+    "version": "1.6",
+    "date": "19.01.2026",
+    "applicationUrl": "https://play.google.com/store/apps/details?id=com.neuronit.shohnoma"
   },
   {
     "application_id": 2,
-    "title": "Далер Назаров",
-    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/daler_nazarov.jpg",
-    "description": "Все песни Далер Назаров",
-    "version": "1.0",
-    "date": "09.12.2024",
-    "applicationUrl": "https://play.google.com/store/apps/details?id=com.neuronit.tajikmusician"
+    "title": "Довталаб 2025",
+    "imageUrl": "https://play-lh.googleusercontent.com/4zRejyORDxuIqhZ8OuuyUQQtDwjpDMwxVUpLPNh5tym2uLRHAtxGBvY5eWUX9oz1NBI=w240-h480-rw",
+    "description": "Довталаб 2025",
+    "version": "2.1",
+    "date": "19.01.2026",
+    "applicationUrl": "https://play.google.com/store/apps/details?id=com.neuronit.dovtalab2025"
   },
   {
     "application_id": 3,
-    "title": "Анвар Ахмедов",
-    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/anvar_axmedov.jpg",
-    "description": "Все песни Анвар Ахмедов",
-    "version": "1.0",
-    "date": "09.12.2024",
-    "applicationUrl": "https://play.google.com/store/apps/details?id=com.neuronit.tajikmusician"
+    "title": "Илм ва Техника",
+    "imageUrl": "https://play-lh.googleusercontent.com/Q443MYxuOIt0796vPaHhN97JMaFh1rmYLiFCsk8N1UgAaY5DnyIBIXAoqw8Ql29xjPwy9cUWYhlyebUATnmkQA=w240-h480-rw",
+    "description": "Илм ва Техника",
+    "version": "1.7",
+    "date": "19.01.2026",
+    "applicationUrl": "https://play.google.com/store/apps/details?id=com.neuronit.ilmvatexnika"
   },
   {
     "application_id": 4,
-    "title": "Нигина Амонкулова",
-    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/nigina_amonkulova.jpg",
-    "description": "Все песни Нигина Амонкулова",
-    "version": "1.0",
-    "date": "09.12.2024",
-    "applicationUrl": "https://play.google.com/store/apps/details?id=com.neuronit.tajikmusician"
+    "title": "Хатсайр",
+    "imageUrl": "https://play-lh.googleusercontent.com/KBf0-uKhycw72SIyl9sH0ELDajyqBQ3Kbc6s7D5czwIwkSqwMtxGMX_i-cOvy2q7v6J6Rv3vhwt9WKG1Zr546A=w240-h480-rw",
+    "description": "Хатсайр",
+    "version": "1.5",
+    "date": "19.01.2026",
+    "applicationUrl": "https://play.google.com/store/apps/details?id=com.neuronit.xatsajruser"
   }
 ]
