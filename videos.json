@@ -27,10 +27,10 @@
     {
       "id": "2",
       "artistId": "a_sadriddin",
-      "title": "Название 2",
+      "title": "Namesha",
       "description": "",
-      "image_url": "https://i.ytimg.com/vi/C1PgNcOjHxw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLACltRN7YV_HnsHEKRHRaq87vk7EQ",
-      "video_url": "https://yourcdn.com/videos/v_0002.mp4",
+      "image_url": "https://i.ytimg.com/vi/KRIzmO1ua-w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBitKM-AFtPLCfLDSXcwnaUKSvQOQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/1.mp4",
       "publishedAt": "2026-01-12",
       "durationSec": 188
     },
