@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-19T10:00:00Z",
+  "items": [
+    {
+      "id": "v_0001",
+      "title": "Название",
+      "description": "Описание...",
+      "image_url": "https://i.ytimg.com/vi/jQKcxXmGVxg/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX4IHWdD0puuPHAuZKSZfUy4l_7Q",
+      "video_url": "https://youtu.be/jQKcxXmGVxg",
+      "publishedAt": "2026-01-18",
+      "durationSec": 215
+    }
+  ]
+}
