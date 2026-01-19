@@ -1,15 +1,48 @@
 {
   "version": 1,
   "updatedAt": "2026-01-19T10:00:00Z",
+  "artists": [
+    {
+      "id": "a_shabnam",
+      "name": "Шабнами Сурайё",
+      "image_url": "https://i.ytimg.com/vi/C1PgNcOjHxw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLACltRN7YV_HnsHEKRHRaq87vk7EQ"
+    },
+    {
+      "id": "a_daler",
+      "name": "Далер Назаров",
+      "image_url": "https://i.ytimg.com/vi/C1PgNcOjHxw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLACltRN7YV_HnsHEKRHRaq87vk7EQ"
+    }
+  ],
   "items": [
     {
-      "id": "v_0001",
-      "title": "Название",
+      "id": "1",
+      "artistId": "a_shabnam",
+      "title": "Название 1",
       "description": "Описание...",
-      "image_url": "https://i.ytimg.com/vi/jQKcxXmGVxg/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX4IHWdD0puuPHAuZKSZfUy4l_7Q",
-      "video_url": "https://youtu.be/jQKcxXmGVxg",
+      "image_url": "https://i.ytimg.com/vi/C1PgNcOjHxw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLACltRN7YV_HnsHEKRHRaq87vk7EQ",
+      "video_url": "https://yourcdn.com/videos/v_0001.mp4",
       "publishedAt": "2026-01-18",
       "durationSec": 215
+    },
+    {
+      "id": "2",
+      "artistId": "a_shabnam",
+      "title": "Название 2",
+      "description": "",
+      "image_url": "https://i.ytimg.com/vi/C1PgNcOjHxw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLACltRN7YV_HnsHEKRHRaq87vk7EQ",
+      "video_url": "https://yourcdn.com/videos/v_0002.mp4",
+      "publishedAt": "2026-01-12",
+      "durationSec": 188
+    },
+    {
+      "id": "3",
+      "artistId": "a_daler",
+      "title": "Далер — клип",
+      "description": "",
+      "image_url": "https://i.ytimg.com/vi/C1PgNcOjHxw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLACltRN7YV_HnsHEKRHRaq87vk7EQ",
+      "video_url": "https://yourcdn.com/videos/v_0101.mp4",
+      "publishedAt": "2025-12-20",
+      "durationSec": 240
     }
   ]
 }
