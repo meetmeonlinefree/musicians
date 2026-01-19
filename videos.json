@@ -43,6 +43,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/yasmina_anar.mp4",
       "publishedAt": "2025-12-20",
       "durationSec": 240
+    },
+    {
+      "id": "4",
+      "artistId": "a_yasmina",
+      "title": "Yasmina Anor Anor",
+      "description": "Yasmina",
+      "image_url": "https://i.ytimg.com/vi/-1kiBRz_uMs/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4AfoJgALQBYoCDAgAEAEYVCBcKGUwDw==&rs=AOn4CLD4S_fRbKYxZkYLbZ_yg4RyNZq_oA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/yasmina_anor.mp4",
+      "publishedAt": "2025-12-20",
+      "durationSec": 240
     }
   ]
 }
