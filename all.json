@@ -13,10 +13,10 @@
     },
     {
       "id": "2",
-      "title": "Название",
-      "description": "Описание...",
-      "image_url": "https://i.ytimg.com/vi/jQKcxXmGVxg/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX4IHWdD0puuPHAuZKSZfUy4l_7Q",
-      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/1ce6489685852810b8f19f6f7c5d86117af3c9a2/videos/a4c7ab88-4b08-4369-ae22-e27cbd46b02f.mp4",
+      "title": "Yasmina Anar Anar",
+      "description": "Yasmina Anar Anar",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/yasmina_1.png",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/yasmina_anar.mp4",
       "publishedAt": "2026-01-18",
       "durationSec": 215
     },
