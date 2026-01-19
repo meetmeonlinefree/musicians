@@ -58,6 +58,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/yasmina_anor.mp4",
       "publishedAt": "2025-12-20",
       "durationSec": 240
+    },
+    {
+      "id": "5",
+      "artistId": "a_zulayxo",
+      "title": "Зулайхо Духтараки Фархори",
+      "description": "Зулайхо Духтараки Фархори",
+      "image_url": "https://i.ytimg.com/vi/-1kiBRz_uMs/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4AfoJgALQBYoCDAgAEAEYVCBcKGUwDw==&rs=AOn4CLD4S_fRbKYxZkYLbZ_yg4RyNZq_oA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/duxtaraki_farxori.mp4",
+      "publishedAt": "2025-12-20",
+      "durationSec": 240
     }
   ]
 }
