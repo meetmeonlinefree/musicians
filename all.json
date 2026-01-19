@@ -4,12 +4,12 @@
   "items": [
     {
       "id": "1",
-      "title": "Название",
-      "description": "Описание...",
-      "image_url": "https://i.ytimg.com/vi/jQKcxXmGVxg/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX4IHWdD0puuPHAuZKSZfUy4l_7Q",
-      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/1ce6489685852810b8f19f6f7c5d86117af3c9a2/videos/89fee514-c45c-4a7f-96ac-49d4b3c4528b.mp4",
+      "title": "Sadriddin ( Gole Man ) by Ramin Mansour",
+      "description": "Sadriddin ( Gole Man ) by Ramin Mansour",
+      "image_url": "https://i.ytimg.com/vi/ldJjyyy1yHY/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYTCBbKGUwDw==&rs=AOn4CLBzpw-l-9MGe_nEYJPV1Te9PpsEMg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/1ce6489685852810b8f19f6f7c5d86117af3c9a2/videos/1.mp4",
       "publishedAt": "2026-01-18",
-      "durationSec": 215
+      "durationSec": 316
     },
     {
       "id": "2",
