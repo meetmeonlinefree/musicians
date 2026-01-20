@@ -3,6 +3,15 @@
   "updatedAt": "2026-01-19T10:00:00Z",
   "items": [
     {
+      "id": "6",
+      "title": "Нигина VS Мадина",
+      "description": "Нигина VS Мадина",
+      "image_url": "https://yt3.googleusercontent.com/BmmgY_TRMYdx5OxpYA_9xfREALn5PvfCZoLME_vmtpPMnnQ-8J4JPAcQe71BPPciIw6nDFI1og=s176-c-k-c0x00ffffff-no-rj-mo",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina.mp4",
+      "publishedAt": "2026-01-18",
+      "durationSec": 215
+    },
+    {
       "id": "1",
       "title": "Сухани ишк",
       "description": "Мадина Акназарова",
