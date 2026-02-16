@@ -16,6 +16,11 @@
       "id": "a_zulayxo",
       "name": "Зулайхо",
       "image_url": "https://i.ytimg.com/vi/PmEW8vxGCKI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC0AA0wuwWHJ_F4QrdwhK67ZklXiQ"
+    },
+    {
+      "id": "a_farahnoz",
+      "name": "Фарахноз Шарафова",
+      "image_url": "https://i.ytimg.com/vi/hPQPnt7qnSE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtPUJUYD5nJRK05naBobileXntgw"
     }
   ],
   "items": [
@@ -67,6 +72,16 @@
       "image_url": "https://i.ytimg.com/vi/PmEW8vxGCKI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC0AA0wuwWHJ_F4QrdwhK67ZklXiQ",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/duxtaraki_farxori.mp4",
       "publishedAt": "2025-12-20",
+      "durationSec": 240
+    },
+    {
+      "id": "6",
+      "artistId": "a_farahnoz",
+      "title": "FARAHNOZ SHARAFOVA - JONAM",
+      "description": "FARAHNOZ SHARAFOVA - JONAM",
+      "image_url": "https://i.ytimg.com/vi/hPQPnt7qnSE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtPUJUYD5nJRK05naBobileXntgw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/farahnoz_sharafova_jonam.mp4",
+      "publishedAt": "2025-02-16",
       "durationSec": 240
     }
   ]
