@@ -2,6 +2,15 @@
   "version": 1,
   "updatedAt": "2026-01-19T10:00:00Z",
   "items": [
+    {
+      "id": "8",
+      "title": "Мехрнигор Рустам - Дили Зор",
+      "description": "Мехрнигор Рустам - Дили Зор",
+      "image_url": "https://i.ytimg.com/vi/SSlgMV_XDCU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDgAhuCTM9NFZsB6MVC1vZeb0AUZA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/mehrnigor_rustam_dili_zor.mp4",
+      "publishedAt": "2026-02-16",
+      "durationSec": 215
+    },
       {
       "id": "7",
       "title": "FARAHNOZ SHARAFOVA - JONAM",
