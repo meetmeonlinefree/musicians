@@ -21,6 +21,11 @@
       "id": "a_farahnoz",
       "name": "Фарахноз Шарафова",
       "image_url": "https://i.ytimg.com/vi/hPQPnt7qnSE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtPUJUYD5nJRK05naBobileXntgw"
+    },
+    {
+      "id": "a_mehrnigor",
+      "name": "Мехрнигор Рустам",
+      "image_url": "https://i.ytimg.com/vi/SSlgMV_XDCU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDgAhuCTM9NFZsB6MVC1vZeb0AUZA"
     }
   ],
   "items": [
@@ -81,6 +86,16 @@
       "description": "FARAHNOZ SHARAFOVA - JONAM",
       "image_url": "https://i.ytimg.com/vi/hPQPnt7qnSE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtPUJUYD5nJRK05naBobileXntgw",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/farahnoz_sharafova_jonam.mp4",
+      "publishedAt": "2025-02-16",
+      "durationSec": 240
+    },
+    {
+      "id": "7",
+      "artistId": "a_mehrnigor",
+      "title": "Мехрнигор Рустам - Дили Зор",
+      "description": "Мехрнигор Рустам - Дили Зор",
+      "image_url": "https://i.ytimg.com/vi/SSlgMV_XDCU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDgAhuCTM9NFZsB6MVC1vZeb0AUZA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/mehrnigor_rustam_dili_zor.mp4",
       "publishedAt": "2025-02-16",
       "durationSec": 240
     }
