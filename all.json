@@ -2,6 +2,15 @@
   "version": 1,
   "updatedAt": "2026-01-19T10:00:00Z",
   "items": [
+      {
+      "id": "7",
+      "title": "FARAHNOZ SHARAFOVA - JONAM",
+      "description": "FARAHNOZ SHARAFOVA - JONAM | Фараҳноз Шарафова - Ҷонам",
+      "image_url": "https://i.ytimg.com/vi/hPQPnt7qnSE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtPUJUYD5nJRK05naBobileXntgw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/farahnoz_sharafova_jonam.mp4",
+      "publishedAt": "2026-02-16",
+      "durationSec": 215
+    },
     {
       "id": "6",
       "title": "Рузе меша бой мешам (Репи точики 2017)",
