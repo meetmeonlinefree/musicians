@@ -31,6 +31,11 @@
       "id": "a_daler",
       "name": "Далер Назаров",
       "image_url": "https://i.ytimg.com/vi/SSlgMV_XDCU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDgAhuCTM9NFZsB6MVC1vZeb0AUZA"
+    },
+    {
+      "id": "a_madina",
+      "name": "Мадина Зехни Сунъи",
+      "image_url": "https://i.ytimg.com/vi/mLk6rNMO798/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAs4FigIMCAAQARhlIFAoOzAP&rs=AOn4CLCaoYvvL9UPs0bcaYAmLnHbSfSytQ"
     }
   ],
   "items": [
@@ -122,6 +127,16 @@
       "image_url": "https://i.ytimg.com/vi/DqEqNyN2Cv8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAYgJtTDQUsulHDaRaT5CCC2k3q0Q",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/holo_ki_man_javonam2.mp4",
       "publishedAt": "2025-02-16",
+      "durationSec": 240
+    },
+    {
+      "id": "9",
+      "artistId": "a_madina",
+      "title": "Суруди Язна 😂 Язнаҷон",
+      "description": "Суруди Язна 😂 Язнаҷон Мадина",
+      "image_url": "https://i.ytimg.com/vi/mLk6rNMO798/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAs4FigIMCAAQARhlIFAoOzAP&rs=AOn4CLCaoYvvL9UPs0bcaYAmLnHbSfSytQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/yazna.mp4",
+      "publishedAt": "2025-02-23",
       "durationSec": 240
     }
   ]
