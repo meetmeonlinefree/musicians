@@ -3,6 +3,15 @@
   "updatedAt": "2026-01-19T10:00:00Z",
   "items": [
     {
+      "id": "11",
+      "title": "Суруди Язна 😂 Язнаҷон",
+      "description": "Суруди Язна 😂 Язнаҷон Мадина",
+      "image_url": "https://i.ytimg.com/vi/mLk6rNMO798/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAs4FigIMCAAQARhlIFAoOzAP&rs=AOn4CLCaoYvvL9UPs0bcaYAmLnHbSfSytQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/yazna.mp4",
+      "publishedAt": "2026-02-23",
+      "durationSec": 215
+    },
+    {
       "id": "10",
       "title": "Ҳоло ки ман ҷавонам",
       "description": "Ҳоло ки ман ҷавонам",
