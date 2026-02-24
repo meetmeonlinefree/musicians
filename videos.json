@@ -36,6 +36,11 @@
       "id": "a_madina",
       "name": "Мадина Зехни Сунъи",
       "image_url": "https://i.ytimg.com/vi/mLk6rNMO798/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAs4FigIMCAAQARhlIFAoOzAP&rs=AOn4CLCaoYvvL9UPs0bcaYAmLnHbSfSytQ"
+    },
+    {
+      "id": "a_rain104",
+      "name": "Rain 104",
+      "image_url": "https://i.ytimg.com/vi/TxAVcyJRzpE/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBDweTf2Uj-CF4AVSpeyaqB57UWsA"
     }
   ],
   "items": [
@@ -136,6 +141,16 @@
       "description": "Суруди Язна 😂 Язнаҷон Мадина",
       "image_url": "https://i.ytimg.com/vi/mLk6rNMO798/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAs4FigIMCAAQARhlIFAoOzAP&rs=AOn4CLCaoYvvL9UPs0bcaYAmLnHbSfSytQ",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/yazna.mp4",
+      "publishedAt": "2025-02-23",
+      "durationSec": 240
+    },
+    {
+      "id": "10",
+      "artistId": "a_rain104",
+      "title": "Рузе меша бой мешам (Репи точики 2017)",
+      "description": "Рузе меша бой мешам (Репи точики 2017)",
+      "image_url": "https://i.ytimg.com/vi/TxAVcyJRzpE/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBDweTf2Uj-CF4AVSpeyaqB57UWsA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/rain104.mp4",
       "publishedAt": "2025-02-23",
       "durationSec": 240
     }
