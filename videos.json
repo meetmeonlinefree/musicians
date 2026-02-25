@@ -41,6 +41,11 @@
       "id": "a_rain104",
       "name": "Rain 104",
       "image_url": "https://i.ytimg.com/vi/TxAVcyJRzpE/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBDweTf2Uj-CF4AVSpeyaqB57UWsA"
+    },
+    {
+      "id": "a_ravshan",
+      "name": "Равшан Анаев",
+      "image_url": "https://i.ytimg.com/vi/BB8C59PmGbA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBpdMoHZFRkuiZlKDmHZMxLw4LVZQ"
     }
   ],
   "items": [
@@ -151,6 +156,16 @@
       "description": "Рузе меша бой мешам (Репи точики 2017)",
       "image_url": "https://i.ytimg.com/vi/TxAVcyJRzpE/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBDweTf2Uj-CF4AVSpeyaqB57UWsA",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/rain104.mp4",
+      "publishedAt": "2025-02-23",
+      "durationSec": 240
+    },
+    {
+      "id": "11",
+      "artistId": "a_ravshan",
+      "title": "Равшан Анаев Хурумта",
+      "description": "Равшан Анаев Хурумта",
+      "image_url": "https://i.ytimg.com/vi/BB8C59PmGbA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBpdMoHZFRkuiZlKDmHZMxLw4LVZQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/xurumta.mp4",
       "publishedAt": "2025-02-23",
       "durationSec": 240
     }
