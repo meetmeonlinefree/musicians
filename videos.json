@@ -168,6 +168,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/xurumta.mp4",
       "publishedAt": "2025-02-23",
       "durationSec": 240
+    },
+    {
+      "id": "12",
+      "artistId": "a_farahnoz",
+      "title": "FARHNOZ - DAR DADI MARA ( New Version )",
+      "description": "FARHNOZ - DAR DADI MARA ( New Version )",
+      "image_url": "https://i.ytimg.com/vi/Wh2siFVTz7M/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLARGPGe4MSk5C51AEfjt4bXYr5nNA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/durie.mp4",
+      "publishedAt": "2025-02-26",
+      "durationSec": 240
     }
   ]
 }
