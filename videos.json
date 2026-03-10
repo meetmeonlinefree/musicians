@@ -46,6 +46,11 @@
       "id": "a_ravshan",
       "name": "Равшан Анаев",
       "image_url": "https://i.ytimg.com/vi/BB8C59PmGbA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBpdMoHZFRkuiZlKDmHZMxLw4LVZQ"
+    },
+    {
+      "id": "a_safarmuhammad",
+      "name": "Safarmuhammad",
+      "image_url": "https://i.ytimg.com/vi/AUGmC3e68lw/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARh_IDcoEzAP&rs=AOn4CLDvpcEWsC6-niRlvHemipMjEGpxMA"
     }
   ],
   "items": [
@@ -177,6 +182,16 @@
       "image_url": "https://i.ytimg.com/vi/Wh2siFVTz7M/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLARGPGe4MSk5C51AEfjt4bXYr5nNA",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/durie.mp4",
       "publishedAt": "2025-02-26",
+      "durationSec": 240
+    },
+    {
+      "id": "13",
+      "artistId": "a_safarmuhammad",
+      "title": "Safarmuhammad - Jonam",
+      "description": "Safarmuhammad - Jonam",
+      "image_url": "https://i.ytimg.com/vi/AUGmC3e68lw/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARh_IDcoEzAP&rs=AOn4CLDvpcEWsC6-niRlvHemipMjEGpxMA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Safarmuhammad_Jonam.mp4",
+      "publishedAt": "2025-03-10",
       "durationSec": 240
     }
   ]
