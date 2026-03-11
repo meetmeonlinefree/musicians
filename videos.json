@@ -218,6 +218,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/shabnam_naya.mp4",
       "publishedAt": "2025-03-11",
       "durationSec": 140
+    },
+    {
+      "id": "16",
+      "artistId": "a_rain104",
+      "title": "RAIN 104 - Ма намегум ки бойм",
+      "description": "RAIN 104 - Ма намегум ки бойм",
+      "image_url": "https://i.ytimg.com/vi/4oMmFp07wTE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD1NtwmvXM2_NK2JCWv-k8Py26JKg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/rain104_boy.mp4",
+      "publishedAt": "2025-03-11",
+      "durationSec": 230
     }
   ]
 }
