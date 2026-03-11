@@ -193,6 +193,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Safarmuhammad_Jonam.mp4",
       "publishedAt": "2025-03-10",
       "durationSec": 240
+    },
+    {
+      "id": "14",
+      "artistId": "a_rain104",
+      "title": "RAIN 104 - Ma миём ай аскари",
+      "description": "RAIN 104 - Ma миём ай аскари",
+      "image_url": "https://i.ytimg.com/vi/whIYWZiveq4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCA294PrCFM9DpkGd3IdyCeIwkPcQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/rain104_askari.mp4",
+      "publishedAt": "2025-03-11",
+      "durationSec": 140
     }
   ]
 }
