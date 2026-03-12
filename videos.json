@@ -56,6 +56,11 @@
       "id": "a_shabnam",
       "name": "Shabnam Surayo",
       "image_url": "https://i.ytimg.com/vi/0iVHCiJc9JI/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARhlIFooSjAP&rs=AOn4CLDwbgC-w9SuiKp32u8pB4LCFghtSw"
+    },
+    {
+      "id": "a_nigina",
+      "name": "Nigina Amonqulova",
+      "image_url": "https://i.ytimg.com/vi/jlzWSeGetyE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD-8nRtOSlvGU9FxTNW0Ho1yhIgVw"
     }
   ],
   "items": [
@@ -228,6 +233,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/rain104_boy.mp4",
       "publishedAt": "2025-03-11",
       "durationSec": 230
+    },
+    {
+      "id": "17",
+      "artistId": "a_nigina",
+      "title": "Nigina Amonqulova - Modar Farishta Bud",
+      "description": "Nigina Amonqulova - Modar Farishta Bud",
+      "image_url": "https://i.ytimg.com/vi/jlzWSeGetyE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD-8nRtOSlvGU9FxTNW0Ho1yhIgVw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina_modar.mp4",
+      "publishedAt": "2025-03-12",
+      "durationSec": 330
     }
   ]
 }
