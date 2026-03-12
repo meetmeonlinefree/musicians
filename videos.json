@@ -243,6 +243,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina_modar.mp4",
       "publishedAt": "2025-03-12",
       "durationSec": 330
+    },
+    {
+      "id": "18",
+      "artistId": "a_yasmina",
+      "title": "Kosh kabutar mebudam",
+      "description": "Kosh kabutar mebudam",
+      "image_url": "https://i.ytimg.com/vi/7Lc_7wzjQMk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCysQSoqMca_Z4vmTFIU4Qgi4jolw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/yasmina_kabutar.mp4",
+      "publishedAt": "2025-03-12",
+      "durationSec": 130
     }
   ]
 }
