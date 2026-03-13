@@ -253,6 +253,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/yasmina_kabutar.mp4",
       "publishedAt": "2025-03-12",
       "durationSec": 130
+    },
+    {
+      "id": "19",
+      "artistId": "a_zulayxo",
+      "title": "Зулайхо Бай Бай",
+      "description": "Зулайхо Бай Бай",
+      "image_url": "https://i.ytimg.com/vi/Iss3A_R7w7c/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTpDxPtZyhZhDysAg1jztPucE6IQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/zulayxo_bye.mp4",
+      "publishedAt": "2025-03-13",
+      "durationSec": 130
     }
   ]
 }
