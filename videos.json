@@ -61,6 +61,11 @@
       "id": "a_nigina",
       "name": "Nigina Amonqulova",
       "image_url": "https://i.ytimg.com/vi/jlzWSeGetyE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD-8nRtOSlvGU9FxTNW0Ho1yhIgVw"
+    },
+    {
+      "id": "a_dnazri",
+      "name": "Давлат Назри",
+      "image_url": "https://i.ytimg.com/vi/UUC5blbBzfw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAgWLcvjM9pXH0_4i3fiDGAK5qtFg"
     }
   ],
   "items": [
@@ -263,6 +268,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/zulayxo_bye.mp4",
       "publishedAt": "2025-03-13",
       "durationSec": 130
+    },
+    {
+      "id": "21",
+      "artistId": "a_dnazri",
+      "title": "Davlat Nazri - Dar Mulki Tojik",
+      "description": "Davlat Nazri - Dar Mulki Tojik",
+      "image_url": "https://i.ytimg.com/vi/UUC5blbBzfw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAgWLcvjM9pXH0_4i3fiDGAK5qtFg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/dnazri_dar_mulki_tojik.mp4",
+      "publishedAt": "2025-03-14",
+      "durationSec": 330
     }
   ]
 }
