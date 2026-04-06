@@ -278,6 +278,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/dnazri_dar_mulki_tojik.mp4",
       "publishedAt": "2025-03-14",
       "durationSec": 330
+    },
+    {
+      "id": "22",
+      "artistId": "a_zulayxo",
+      "title": "Ozoda & Zulaykho - Leyli",
+      "description": "Ozoda & Zulaykho - Leyli",
+      "image_url": "https://i.ytimg.com/vi/-hPXuH4N5dw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAn5pTFW9pOfdod8JXJo2L7nFun9w",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/zulayxo_leyli.mp4",
+      "publishedAt": "2025-04-06",
+      "durationSec": 330
     }
   ]
 }
