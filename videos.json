@@ -288,6 +288,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/zulayxo_leyli.mp4",
       "publishedAt": "2025-04-06",
       "durationSec": 330
+    },
+    {
+      "id": "23",
+      "artistId": "a_nigina",
+      "title": "Nigina Amonqulova - FIREBA",
+      "description": "Nigina Amonqulova - FIREBA",
+      "image_url": "https://i.ytimg.com/vi/vnj7PZwb1zk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzsyX2D_GpyXzF0rxsyIeiCV1bdQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina_fireba.mp4",
+      "publishedAt": "2025-04-06",
+      "durationSec": 330
     }
   ]
 }
