@@ -66,6 +66,11 @@
       "id": "a_dnazri",
       "name": "Давлат Назри",
       "image_url": "https://i.ytimg.com/vi/UUC5blbBzfw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAgWLcvjM9pXH0_4i3fiDGAK5qtFg"
+    },
+    {
+      "id": "a_adis",
+      "name": "Адис Курбонбеков",
+      "image_url": "https://i.ytimg.com/vi/malSG7jBdCM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtin8s9N1kEqSxL16FWOVSjle0dQ"
     }
   ],
   "items": [
@@ -297,6 +302,26 @@
       "image_url": "https://i.ytimg.com/vi/vnj7PZwb1zk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzsyX2D_GpyXzF0rxsyIeiCV1bdQ",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina_fireba.mp4",
       "publishedAt": "2025-04-06",
+      "durationSec": 330
+    },
+    {
+      "id": "24",
+      "artistId": "a_nigina",
+      "title": "Nigina Гул бо руяте",
+      "description": "Nigina Гул бо руяте",
+      "image_url": "https://i.ytimg.com/vi/_NUdbL7vwQQ/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGEsgSShyMA8=&rs=AOn4CLBo1e9hc8E2rHNGjX7YMzogs3e_ag",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina_gul_bo_ruyate.mp4",
+      "publishedAt": "2025-04-07",
+      "durationSec": 330
+    },
+    {
+      "id": "25",
+      "artistId": "a_adis",
+      "title": "Адис Курбонбеков - АЙ КАБГИ ДАРИ",
+      "description": "Адис Курбонбеков - АЙ КАБГИ ДАРИ",
+      "image_url": "https://i.ytimg.com/vi/malSG7jBdCM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtin8s9N1kEqSxL16FWOVSjle0dQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/adis_kurbonbekov_kabki_dari.mp4",
+      "publishedAt": "2025-04-07",
       "durationSec": 330
     }
   ]
