@@ -323,6 +323,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/adis_kurbonbekov_kabki_dari.mp4",
       "publishedAt": "2025-04-07",
       "durationSec": 330
+    },
+    {
+      "id": "26",
+      "artistId": "a_zulayxo",
+      "title": "Зулайхо - Ширинаки ма",
+      "description": "Зулайхо - Ширинаки ма",
+      "image_url": "https://i.ytimg.com/vi/81PPZ0McDhg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDSnSnAWa6bwNVFvCDGCqL1hKstPQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/zulayxo_shirinaki_ma.mp4",
+      "publishedAt": "2025-04-15",
+      "durationSec": 330
     }
   ]
 }
