@@ -3,6 +3,15 @@
   "updatedAt": "2026-01-19T10:00:00Z",
   "items": [
     {
+      "id": "26",
+      "title": "Зулайхо - Ширинаки ма",
+      "description": "Зулайхо - Ширинаки ма",
+      "image_url": "https://i.ytimg.com/vi/81PPZ0McDhg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDSnSnAWa6bwNVFvCDGCqL1hKstPQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/zulayxo_shirinaki_ma.mp4",
+      "publishedAt": "2026-04-15",
+      "durationSec": 330
+    },
+    {
       "id": "25",
       "title": "Адис Курбонбеков - АЙ КАБГИ ДАРИ",
       "description": "Адис Курбонбеков - АЙ КАБГИ ДАРИ",
