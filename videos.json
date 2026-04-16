@@ -333,6 +333,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/zulayxo_shirinaki_ma.mp4",
       "publishedAt": "2025-04-15",
       "durationSec": 330
+    },
+    {
+      "id": "27",
+      "artistId": "a_nigina",
+      "title": "Nigina Amonqulova - Ishqi Man",
+      "description": "Nigina Amonqulova - Ishqi Man",
+      "image_url": "https://i.ytimg.com/vi/q_LpJnr0u0k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDwSATNC2iQUQ1czF966lOEOJicAg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina_ishqi_man.mp4",
+      "publishedAt": "2025-04-16",
+      "durationSec": 330
     }
   ]
 }
