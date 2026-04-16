@@ -3,6 +3,15 @@
   "updatedAt": "2026-01-19T10:00:00Z",
   "items": [
     {
+      "id": "27",
+      "title": "Nigina Amonqulova - Ishqi Man",
+      "description": "Nigina Amonqulova - Ishqi Man",
+      "image_url": "https://i.ytimg.com/vi/q_LpJnr0u0k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDwSATNC2iQUQ1czF966lOEOJicAg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina_ishqi_man.mp4",
+      "publishedAt": "2026-04-16",
+      "durationSec": 330
+    },
+    {
       "id": "26",
       "title": "Зулайхо - Ширинаки ма",
       "description": "Зулайхо - Ширинаки ма",
