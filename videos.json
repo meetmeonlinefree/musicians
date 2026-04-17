@@ -71,6 +71,11 @@
       "id": "a_adis",
       "name": "Адис Курбонбеков",
       "image_url": "https://i.ytimg.com/vi/malSG7jBdCM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtin8s9N1kEqSxL16FWOVSjle0dQ"
+    },
+    {
+      "id": "a_boris",
+      "name": "Boris Jurabekov",
+      "image_url": "https://i.ytimg.com/vi/ub2opxLQucw/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGFAgVihlMA8=&rs=AOn4CLDf5z3pNf1_aCIvl9l8XG0Akc8Mhw"
     }
   ],
   "items": [
@@ -342,6 +347,16 @@
       "image_url": "https://i.ytimg.com/vi/q_LpJnr0u0k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDwSATNC2iQUQ1czF966lOEOJicAg",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina_ishqi_man.mp4",
       "publishedAt": "2025-04-16",
+      "durationSec": 330
+    },
+    {
+      "id": "28",
+      "artistId": "a_boris",
+      "title": "Boris Jurabekov - Baland Sitora",
+      "description": "Boris Jurabekov - Baland Sitora",
+      "image_url": "https://i.ytimg.com/vi/ub2opxLQucw/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGFAgVihlMA8=&rs=AOn4CLDf5z3pNf1_aCIvl9l8XG0Akc8Mhw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/boris_baland.mp4",
+      "publishedAt": "2025-04-17",
       "durationSec": 330
     }
   ]
