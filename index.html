@@ -1,9 +1,639 @@
-<!doctype html>
-<html>
-  <head>
-    <title>TajMusic!</title>
-  </head>
-  <body>
-    <img src="images/photo_2025-04-01_16-32-50.jpg" alt="TajMusic" />
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Tajik Music — Музыкальная культура Таджикистана</title>
+    <!-- Google Fonts + Font Awesome -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700;14..32,800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #fef9f0;
+            color: #1e1a17;
+            line-height: 1.5;
+            scroll-behavior: smooth;
+        }
+
+        /* warm, musical gradient background */
+        .bg-gradient {
+            background: linear-gradient(135deg, #fff5e6 0%, #fae6d4 100%);
+        }
+
+        /* custom container */
+        .container {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 0 32px;
+        }
+
+        /* buttons & cards */
+        .btn-primary {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            background: #c2410c;
+            color: white;
+            font-weight: 700;
+            padding: 14px 32px;
+            border-radius: 60px;
+            text-decoration: none;
+            transition: all 0.25s ease;
+            box-shadow: 0 8px 18px rgba(194, 65, 12, 0.2);
+            border: none;
+            font-size: 1.05rem;
+        }
+
+        .btn-primary i {
+            font-size: 1.3rem;
+        }
+
+        .btn-primary:hover {
+            background: #9a3412;
+            transform: translateY(-3px);
+            box-shadow: 0 14px 26px rgba(194, 65, 12, 0.3);
+        }
+
+        .btn-outline {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: transparent;
+            border: 2px solid #c2410c;
+            color: #c2410c;
+            padding: 10px 24px;
+            border-radius: 60px;
+            font-weight: 600;
+            text-decoration: none;
+            transition: 0.2s;
+        }
+
+        .btn-outline:hover {
+            background: #c2410c10;
+            transform: scale(0.98);
+        }
+
+        /* header nav */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            padding: 24px 0;
+        }
+
+        .logo-area {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+        }
+
+        .logo-icon {
+            width: 52px;
+            height: 52px;
+            background: #ffffffdd;
+            backdrop-filter: blur(4px);
+            border-radius: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+        }
+
+        .logo-icon img {
+            width: 44px;
+            height: 44px;
+            border-radius: 18px;
+            object-fit: cover;
+        }
+
+        .logo-text h1 {
+            font-size: 1.7rem;
+            font-weight: 800;
+            letter-spacing: -0.3px;
+            background: linear-gradient(135deg, #b83b0e, #6b2e05);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+        }
+
+        .logo-text span {
+            font-size: 0.85rem;
+            color: #6b4c3b;
+            font-weight: 500;
+        }
+
+        .nav-links a {
+            margin-left: 28px;
+            text-decoration: none;
+            color: #3a2a21;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        .nav-links a:hover {
+            color: #c2410c;
+        }
+
+        /* hero */
+        .hero {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-between;
+            gap: 48px;
+            padding: 40px 0 60px 0;
+        }
+
+        .hero-content {
+            flex: 1.2;
+        }
+
+        .hero-badge {
+            background: #ffedd5;
+            color: #b45309;
+            padding: 6px 14px;
+            border-radius: 40px;
+            display: inline-block;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-bottom: 24px;
+        }
+
+        .hero-content h2 {
+            font-size: 3.2rem;
+            font-weight: 800;
+            line-height: 1.2;
+            color: #2c1c12;
+            margin-bottom: 20px;
+        }
+
+        .hero-content p {
+            font-size: 1.2rem;
+            color: #4d3a2c;
+            max-width: 540px;
+            margin-bottom: 32px;
+        }
+
+        .hero-stats {
+            display: flex;
+            gap: 28px;
+            margin-top: 16px;
+        }
+
+        .stat-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .stat-number {
+            font-weight: 800;
+            font-size: 1.7rem;
+            color: #c2410c;
+        }
+
+        .hero-image {
+            flex: 0.9;
+            display: flex;
+            justify-content: center;
+        }
+
+        .mockup-card {
+            background: white;
+            border-radius: 48px;
+            padding: 18px 18px 28px 18px;
+            box-shadow: 0 30px 40px -20px rgba(0,0,0,0.2);
+            transform: rotate(2deg);
+            transition: transform 0.2s;
+        }
+
+        .mockup-card img {
+            width: 220px;
+            border-radius: 32px;
+            box-shadow: 0 12px 24px rgba(0,0,0,0.1);
+        }
+
+        /* features section */
+        .features {
+            padding: 80px 0;
+        }
+
+        .section-title {
+            text-align: center;
+            font-size: 2.3rem;
+            font-weight: 700;
+            margin-bottom: 16px;
+            color: #281a10;
+        }
+
+        .section-desc {
+            text-align: center;
+            max-width: 680px;
+            margin: 0 auto 56px auto;
+            color: #5e3e2b;
+            font-size: 1.1rem;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 32px;
+        }
+
+        .feature-card {
+            background: white;
+            padding: 32px 24px;
+            border-radius: 32px;
+            text-align: center;
+            transition: all 0.25s;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.02);
+            border: 1px solid #ffede0;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 20px 30px -12px rgba(0,0,0,0.1);
+            border-color: #fcd5b5;
+        }
+
+        .feature-icon {
+            background: #fff0e4;
+            width: 70px;
+            height: 70px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 30px;
+            margin: 0 auto 24px auto;
+            font-size: 2.2rem;
+            color: #c2410c;
+        }
+
+        .feature-card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 12px;
+            font-weight: 700;
+        }
+
+        .feature-card p {
+            color: #5a3f2e;
+        }
+
+        /* artist spotlight */
+        .artist-spotlight {
+            background: #f7ede3;
+            border-radius: 64px;
+            padding: 56px 48px;
+            margin: 40px 0 80px;
+        }
+
+        .artist-inner {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 48px;
+        }
+
+        .artist-info {
+            flex: 1;
+        }
+
+        .artist-info h3 {
+            font-size: 2rem;
+            font-weight: 800;
+            margin-bottom: 16px;
+        }
+
+        .artist-tag {
+            background: #c2410c20;
+            color: #b13e0c;
+            padding: 6px 14px;
+            border-radius: 100px;
+            display: inline-block;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .artist-quote {
+            font-style: italic;
+            border-left: 4px solid #c2410c;
+            padding-left: 20px;
+            margin: 24px 0;
+            color: #4b2f1d;
+        }
+
+        /* concerts section */
+        .concerts {
+            padding: 20px 0 60px;
+        }
+
+        .event-list {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            max-width: 780px;
+            margin: 0 auto;
+        }
+
+        .event-item {
+            background: white;
+            border-radius: 100px;
+            padding: 12px 20px 12px 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.03);
+            border: 1px solid #ffe1cc;
+        }
+
+        .event-date {
+            background: #fbe9dd;
+            padding: 6px 18px;
+            border-radius: 40px;
+            font-weight: 700;
+            color: #b45309;
+        }
+
+        .event-name {
+            font-weight: 700;
+            font-size: 1.1rem;
+        }
+
+        .event-place {
+            color: #6f4e37;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        /* download banner */
+        .download-banner {
+            background: linear-gradient(105deg, #2c1c12 0%, #4a2c1a 100%);
+            border-radius: 56px;
+            padding: 48px 40px;
+            margin: 70px 0 60px;
+            text-align: center;
+            color: white;
+        }
+
+        .download-banner h3 {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 12px;
+        }
+
+        .download-banner p {
+            max-width: 500px;
+            margin: 0 auto 28px auto;
+            opacity: 0.9;
+        }
+
+        .btn-google {
+            background: white;
+            color: #2c1c12;
+            padding: 12px 36px;
+            border-radius: 60px;
+            text-decoration: none;
+            font-weight: 700;
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            transition: 0.2s;
+        }
+
+        .btn-google:hover {
+            background: #fff1e6;
+            transform: scale(1.02);
+        }
+
+        /* footer */
+        .footer {
+            border-top: 1px solid #f0dfd0;
+            padding: 48px 0 36px;
+            margin-top: 40px;
+            text-align: center;
+            color: #6a4c38;
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 32px;
+            flex-wrap: wrap;
+            margin-bottom: 24px;
+        }
+
+        .footer-links a {
+            text-decoration: none;
+            color: #8b5a3c;
+            font-weight: 500;
+        }
+
+        @media (max-width: 800px) {
+            .container {
+                padding: 0 20px;
+            }
+            .hero-content h2 {
+                font-size: 2.3rem;
+            }
+            .navbar {
+                flex-direction: column;
+                gap: 16px;
+            }
+            .nav-links a {
+                margin: 0 12px;
+            }
+            .event-item {
+                border-radius: 28px;
+                gap: 12px;
+                justify-content: center;
+            }
+            .artist-spotlight {
+                padding: 32px 24px;
+            }
+        }
+    </style>
+</head>
+<body class="bg-gradient">
+
+<div class="container">
+    <!-- Navigation -->
+    <div class="navbar">
+        <div class="logo-area">
+            <div class="logo-icon">
+                <!-- official logo from Google Play (fallback if image fails) -->
+                <img src="https://play-lh.googleusercontent.com/HiR7ESEEh-pFMuPoafqtMoP7GLRc1g7O0799U5PAhUgWfyVj527s41s3Jwgu--HDw_8g0mrBojS_NMLxL3mMlW8=w240-h480-rw" 
+                     alt="Tajik Music Logo" 
+                     onerror="this.onerror=null; this.src='https://via.placeholder.com/96x96?text=🎵';"
+                     style="width:44px; height:44px; border-radius: 16px;">
+            </div>
+            <div class="logo-text">
+                <h1>Таджик Музыка</h1>
+                <span>официальное приложение</span>
+            </div>
+        </div>
+        <div class="nav-links">
+            <a href="#features">Возможности</a>
+            <a href="#concerts">Концерты</a>
+            <a href="#download">Скачать</a>
+        </div>
+    </div>
+
+    <!-- Hero Section with app description -->
+    <div class="hero">
+        <div class="hero-content">
+            <div class="hero-badge">
+                <i class="fas fa-music"></i>  Культура в каждом аккорде
+            </div>
+            <h2>Откройте для себя <br> душу таджикской музыки</h2>
+            <p>Биографии легендарных исполнителей, тысячи песен, афиша концертов и уникальные события — всё в одном приложении.</p>
+            <a href="https://play.google.com/store/apps/details?id=com.neuronit.tajikmusician" target="_blank" class="btn-primary">
+                <i class="fab fa-google-play"></i> Скачать на Google Play
+            </a>
+            <div class="hero-stats">
+                <div class="stat-item"><span class="stat-number">500+</span> <span>песен</span></div>
+                <div class="stat-item"><span class="stat-number">50+</span> <span>исполнителей</span></div>
+                <div class="stat-item"><span class="stat-number">Ежемес.</span> <span>обновления</span></div>
+            </div>
+        </div>
+        <div class="hero-image">
+            <div class="mockup-card">
+                <!-- logo displayed as app mockup / representation -->
+                <img src="https://play-lh.googleusercontent.com/HiR7ESEEh-pFMuPoafqtMoP7GLRc1g7O0799U5PAhUgWfyVj527s41s3Jwgu--HDw_8g0mrBojS_NMLxL3mMlW8=w240-h480-rw" 
+                     alt="Tajik Music App interface" 
+                     onerror="this.src='https://placehold.co/400x800?text=Tajik+Music'">
+            </div>
+        </div>
+    </div>
+
+    <!-- Features Section (based on app description) -->
+    <div id="features" class="features">
+        <h2 class="section-title">Всё для ценителей</h2>
+        <p class="section-desc">Удобный интерфейс, регулярные обновления и полное погружение в музыкальную культуру Таджикистана</p>
+        <div class="features-grid">
+            <div class="feature-card">
+                <div class="feature-icon"><i class="fas fa-user-astronaut"></i></div>
+                <h3>Биографии</h3>
+                <p>Истории известных исполнителей, от классиков до современников, с редкими фото и фактами.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon"><i class="fas fa-headphones"></i></div>
+                <h3>Плейлисты & треки</h3>
+                <p>Прослушивайте любимые хиты, народные мелодии и новые релизы в высоком качестве.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon"><i class="fas fa-calendar-alt"></i></div>
+                <h3>Афиша событий</h3>
+                <p>Актуальная информация о концертах, фестивалях и вечерах таджикской музыки.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon"><i class="fas fa-shield-alt"></i></div>
+                <h3>Безопасность данных</h3>
+                <p>Шифрование при передаче, никаких утечек — ваши данные под надёжной защитой.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Artist Spotlight (inspired by typical Tajik musicians) -->
+    <div class="artist-spotlight">
+        <div class="artist-inner">
+            <div class="artist-info">
+                <div class="artist-tag"><i class="fas fa-microphone-alt"></i> Легендарный голос</div>
+                <h3>Нозанин & <br> ансамбль «Сомониён»</h3>
+                <p>Народная артистка Таджикистана, чьи песни передают глубину горных долин и древние традиции. В приложении эксклюзивное интервью и концертная запись.</p>
+                <div class="artist-quote">
+                    «Музыка — это язык, который понимает каждый. Наше приложение помогает сохранить и приумножить наследие для нового поколения.»
+                </div>
+                <a href="#" class="btn-outline"><i class="fas fa-play-circle"></i> Слушать избранное</a>
+            </div>
+            <div style="flex:0.6; min-width:140px; text-align:center;">
+                <i class="fas fa-drumstick-bite" style="font-size: 6rem; color:#c2865b; opacity:0.7;"></i>
+                <i class="fas fa-violin" style="font-size: 5rem; color:#b46a3a; margin-left: 12px;"></i>
+            </div>
+        </div>
+    </div>
+
+    <!-- Upcoming Concerts Section (inspired by app description: информация о предстоящих концертах) -->
+    <div id="concerts" class="concerts">
+        <h2 class="section-title">🎫 Ближайшие концерты</h2>
+        <p class="section-desc">Не пропустите живые выступления ваших любимых артистов. Регулярно обновляемая афиша внутри приложения.</p>
+        <div class="event-list">
+            <div class="event-item">
+                <div class="event-date"><i class="far fa-calendar-alt"></i> 15 Мая 2026</div>
+                <div class="event-name">Давлатманд Холов & Шашмаком</div>
+                <div class="event-place"><i class="fas fa-map-marker-alt"></i> Душанбе, Кохи Борбад</div>
+                <a href="#" class="btn-outline" style="padding:6px 20px;">Билеты</a>
+            </div>
+            <div class="event-item">
+                <div class="event-date"><i class="far fa-calendar-alt"></i> 28 Мая 2026</div>
+                <div class="event-name">Manija & группа «Диёр»</div>
+                <div class="event-place"><i class="fas fa-map-marker-alt"></i> Худжанд, Театр им. Камола Худжанди</div>
+                <a href="#" class="btn-outline" style="padding:6px 20px;">Афиша</a>
+            </div>
+            <div class="event-item">
+                <div class="event-date"><i class="far fa-calendar-alt"></i> 10 Июня 2026</div>
+                <div class="event-name">Фестиваль «Памира тон»</div>
+                <div class="event-place"><i class="fas fa-map-marker-alt"></i> Хорог, Открытая сцена</div>
+                <a href="#" class="btn-outline" style="padding:6px 20px;">Подробнее</a>
+            </div>
+        </div>
+        <div style="text-align: center; margin-top: 36px;">
+            <a href="https://play.google.com/store/apps/details?id=com.neuronit.tajikmusician" target="_blank" class="btn-primary" style="background:#8b5a3c; box-shadow: none;">
+                <i class="fas fa-music"></i> Все события в приложении
+            </a>
+        </div>
+    </div>
+
+    <!-- Download Banner: data safety highlight from Google Play: encrypted transmission, no data sharing -->
+    <div id="download" class="download-banner">
+        <h3>Приложение Tajik Music</h3>
+        <p>Шифрование данных в пути, никакой передачи личной информации третьим лицам. Регулярные обновления и безопасный интерфейс.</p>
+        <a href="https://play.google.com/store/apps/details?id=com.neuronit.tajikmusician" target="_blank" class="btn-google">
+            <i class="fab fa-google-play fa-lg"></i> Доступно в Google Play
+        </a>
+        <div style="margin-top: 28px; font-size: 0.85rem; opacity: 0.8;">
+            <i class="fas fa-lock"></i>  Безопасность подтверждена • передача данных шифруется
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        <div class="footer-links">
+            <a href="#">О проекте</a>
+            <a href="#">Политика конфиденциальности</a>
+            <a href="#">Контакты</a>
+            <a href="https://play.google.com/store/apps/details?id=com.neuronit.tajikmusician" target="_blank">Google Play</a>
+        </div>
+        <p style="font-size: 0.85rem;">© 2026 Tajik Music — официальное приложение для ценителей таджикской музыкальной культуры. Все права защищены.</p>
+        <p style="font-size: 0.8rem; margin-top: 12px;"><i class="fas fa-head-side-headphones"></i>  Биографии, треки, концерты — ваш личный гид в мир мелодий Таджикистана</p>
+    </div>
+</div>
+
+<!-- subtle back-to-top button (optional) -->
+<script>
+    // simple interactive console greeting + smooth anchor
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function(e) {
+            const href = this.getAttribute('href');
+            if (href === "#" || href === "") return;
+            const target = document.querySelector(href);
+            if (target) {
+                e.preventDefault();
+                target.scrollIntoView({ behavior: 'smooth' });
+            }
+        });
+    });
+    console.log("🎵 Tajik Music — Добро пожаловать в культурное приложение!");
+</script>
+</body>
 </html>
