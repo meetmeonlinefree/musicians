@@ -3,13 +3,22 @@
   "updatedAt": "2026-01-19T10:00:00Z",
   "items": [
     {
+      "id": "29",
+      "title": "Afina Lipush - Baland Sitora",
+      "description": "Afina Lipush - Baland Sitora",
+      "image_url": "https://i.ytimg.com/vi/2ILtkJC-7YI/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGEwgXShlMA8=&rs=AOn4CLB0qY0OQ0HWr6xOAgUPK4HoTxwd4Q",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/afina_baland.mp4",
+      "publishedAt": "2026-04-17",
+      "durationSec": 230
+    },
+    {
       "id": "28",
       "title": "Boris Jurabekov - Baland Sitora",
       "description": "Boris Jurabekov - Baland Sitora",
       "image_url": "https://i.ytimg.com/vi/ub2opxLQucw/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGFAgVihlMA8=&rs=AOn4CLDf5z3pNf1_aCIvl9l8XG0Akc8Mhw",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/boris_baland.mp4",
       "publishedAt": "2026-04-17",
-      "durationSec": 330
+      "durationSec": 230
     },
     {
       "id": "27",
