@@ -76,6 +76,11 @@
       "id": "a_boris",
       "name": "Boris Jurabekov",
       "image_url": "https://i.ytimg.com/vi/ub2opxLQucw/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGFAgVihlMA8=&rs=AOn4CLDf5z3pNf1_aCIvl9l8XG0Akc8Mhw"
+    },
+    {
+      "id": "a_baxa84",
+      "name": "Bakha 84",
+      "image_url": "https://i.ytimg.com/vi/ISe0s7HA8Ro/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLXZkYH22CiqpkRLyOtiR-btZvWg"
     }
   ],
   "items": [
@@ -367,6 +372,16 @@
       "image_url": "https://i.ytimg.com/vi/2ILtkJC-7YI/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGEwgXShlMA8=&rs=AOn4CLB0qY0OQ0HWr6xOAgUPK4HoTxwd4Q",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/afina_baland.mp4",
       "publishedAt": "2025-04-17",
+      "durationSec": 230
+    },
+    {
+      "id": "30",
+      "artistId": "a_baxa84",
+      "title": "Bakha 84 - Zinadagi 2018",
+      "description": "Bakha 84 - Zinadagi 2018",
+      "image_url": "https://i.ytimg.com/vi/ISe0s7HA8Ro/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLXZkYH22CiqpkRLyOtiR-btZvWg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/baxa84_zindagi.mp4",
+      "publishedAt": "2025-04-20",
       "durationSec": 230
     }
   ]
