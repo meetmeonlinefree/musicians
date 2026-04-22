@@ -383,6 +383,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/baxa84_zindagi.mp4",
       "publishedAt": "2025-04-20",
       "durationSec": 230
+    },
+    {
+      "id": "30",
+      "artistId": "a_baxa84",
+      "title": "Bakha 84 I love you my baby",
+      "description": "Bakha 84 I love you my baby",
+      "image_url": "https://i.ytimg.com/vi/hHXT2B-9zlI/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYfyAsKCkwDw==&rs=AOn4CLDJ2mWFJwlM3Bl-ZmebE1bf8lXLDA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/baxa84_i_love_you.mp4",
+      "publishedAt": "2025-04-22",
+      "durationSec": 230
     }
   ]
 }
