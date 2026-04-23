@@ -81,6 +81,11 @@
       "id": "a_baxa84",
       "name": "Bakha 84",
       "image_url": "https://i.ytimg.com/vi/ISe0s7HA8Ro/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLXZkYH22CiqpkRLyOtiR-btZvWg"
+    },
+    {
+      "id": "a_farzona",
+      "name": "Farzonai Khurshed",
+      "image_url": "https://i.ytimg.com/vi/PPxG-GMsJKc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCf9jv-D1rW_FeiwZEIuj78MLYG-w"
     }
   ],
   "items": [
@@ -392,6 +397,16 @@
       "image_url": "https://i.ytimg.com/vi/hHXT2B-9zlI/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYfyAsKCkwDw==&rs=AOn4CLDJ2mWFJwlM3Bl-ZmebE1bf8lXLDA",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/baxa84_i_love_you.mp4",
       "publishedAt": "2025-04-22",
+      "durationSec": 230
+    },
+    {
+      "id": "32",
+      "artistId": "a_farzona",
+      "title": "Farzonai Khurshed - Habibi",
+      "description": "Farzonai Khurshed - Habibi",
+      "image_url": "https://i.ytimg.com/vi/PPxG-GMsJKc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCf9jv-D1rW_FeiwZEIuj78MLYG-w",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/farzona_habibi.mp4",
+      "publishedAt": "2025-04-23",
       "durationSec": 230
     }
   ]
