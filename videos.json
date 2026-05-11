@@ -106,6 +106,11 @@
       "id": "a_carleone",
       "name": "CARLEONE",
       "image_url": "https://i.ytimg.com/vi/0KakKlv7PVo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC7s2F3bYgR_ihFe9fYqLqZ-0QFvQ"
+    },
+    {
+      "id": "a_mino",
+      "name": "MINO",
+      "image_url": "https://i.ytimg.com/vi/4RAUxeFsImA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDk9mSRZ7cj5JBcaGinsL8LYhVbQ"
     }
   ],
   "items": [
@@ -486,6 +491,16 @@
       "description": "MC TAGOI U P - KHUSH OMADI",
       "image_url": "https://i.ytimg.com/vi/3RaxuQkunwU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCGbAIOgZeuJMOf4sazVBZEcthXpQ",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/mctagoi_up_xush_omadi.mp4",
+      "publishedAt": "2025-05-11",
+      "durationSec": 130
+    }},
+    {
+      "id": "39",
+      "artistId": "a_mino",
+      "title": "Mino - Bale Bale",
+      "description": "Mino - Bale Bale",
+      "image_url": "https://i.ytimg.com/vi/4RAUxeFsImA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDk9mSRZ7cj5JBcaGinsL8LYhVbQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/mino_bale_bale.mp4",
       "publishedAt": "2025-05-11",
       "durationSec": 130
     }
