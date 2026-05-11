@@ -91,11 +91,16 @@
       "id": "a_mctagoi",
       "name": "МС 2КИЛО ГУШТ & МС ТАГОИ",
       "image_url": "https://yt3.googleusercontent.com/BmlrYsyPJLz1vlUE_MDAtTIFsRPGBroqqbr6WOvLrsr_HpIzVus4o5K8sCnE_G5RWGwHEMIRww=s176-c-k-c0x00ffffff-no-rj-mo"
-    }
+    },
     {
       "id": "a_zemaxraff",
       "name": "ZEMA x RAFF",
       "image_url": "https://i.ytimg.com/vi/3h8h25l9RXE/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGDEgYShyMA8=&rs=AOn4CLBCNXVV5QF7ZbUFPmbRwjpfydz_Mw"
+    },
+    {
+      "id": "a_bwl",
+      "name": "BWL Music",
+      "image_url": "https://i.ytimg.com/vi/MWkYdIm_zLE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZ88hsdpqOjCZI_SHr9afTIwbyyw"
     }
   ],
   "items": [
@@ -446,6 +451,16 @@
       "description": "ZEMA x RAFF - Звезда Инстаграма",
       "image_url": "https://i.ytimg.com/vi/3h8h25l9RXE/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGDEgYShyMA8=&rs=AOn4CLBCNXVV5QF7ZbUFPmbRwjpfydz_Mw",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/zemaxraff_zvezda_instagrama.mp4",
+      "publishedAt": "2025-05-11",
+      "durationSec": 130
+    },
+    {
+      "id": "35",
+      "artistId": "a_bwl",
+      "title": "TAJIK LONGMIX RAP",
+      "description": "TAJIK LONGMIX RAP",
+      "image_url": "https://i.ytimg.com/vi/MWkYdIm_zLE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZ88hsdpqOjCZI_SHr9afTIwbyyw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/BWL_tajik_longmix_rap.mp4",
       "publishedAt": "2025-05-11",
       "durationSec": 130
     }
