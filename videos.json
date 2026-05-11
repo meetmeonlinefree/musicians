@@ -86,6 +86,11 @@
       "id": "a_farzona",
       "name": "Farzonai Khurshed",
       "image_url": "https://i.ytimg.com/vi/PPxG-GMsJKc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCf9jv-D1rW_FeiwZEIuj78MLYG-w"
+    },
+    {
+      "id": "a_mctagoi",
+      "name": "МС 2КИЛО ГУШТ & МС ТАГОИ",
+      "image_url": "https://yt3.googleusercontent.com/BmlrYsyPJLz1vlUE_MDAtTIFsRPGBroqqbr6WOvLrsr_HpIzVus4o5K8sCnE_G5RWGwHEMIRww=s176-c-k-c0x00ffffff-no-rj-mo"
     }
   ],
   "items": [
@@ -417,6 +422,16 @@
       "image_url": "https://i.ytimg.com/vi/8mRFo5Psjng/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDd9fosvOsHIVppkeYtQFYflsMD-g",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/safarmuhammad_nokujo.mp4",
       "publishedAt": "2025-04-23",
+      "durationSec": 230
+    },
+    {
+      "id": "34",
+      "artistId": "a_mctagoi",
+      "title": "МС 2КИЛО ГУШТ & МС ТАГОИ - UMEDA PARSAEVA",
+      "description": "МС 2КИЛО ГУШТ & МС ТАГОИ - UMEDA PARSAEVA",
+      "image_url": "https://i.ytimg.com/vi/RenQtDqeUeY/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCSWrNe4bS2pPxu6lhPSuiH0DHdkA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/mc_tagoi_udeda_parsaeva.mp4",
+      "publishedAt": "2025-05-11",
       "durationSec": 230
     }
   ]
