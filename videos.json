@@ -478,6 +478,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/corleone_kata_kata.mp4",
       "publishedAt": "2025-05-11",
       "durationSec": 130
+    },
+    {
+      "id": "38",
+      "artistId": "a_mctagoi",
+      "title": "MC TAGOI U P - KHUSH OMADI",
+      "description": "MC TAGOI U P - KHUSH OMADI",
+      "image_url": "https://i.ytimg.com/vi/3RaxuQkunwU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCGbAIOgZeuJMOf4sazVBZEcthXpQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/mctagoi_up_xush_omadi.mp4",
+      "publishedAt": "2025-05-11",
+      "durationSec": 130
     }
   ]
 }
