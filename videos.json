@@ -101,6 +101,11 @@
       "id": "a_bwl",
       "name": "BWL Music",
       "image_url": "https://i.ytimg.com/vi/MWkYdIm_zLE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZ88hsdpqOjCZI_SHr9afTIwbyyw"
+    },
+    {
+      "id": "a_carleone",
+      "name": "CARLEONE",
+      "image_url": "https://i.ytimg.com/vi/0KakKlv7PVo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC7s2F3bYgR_ihFe9fYqLqZ-0QFvQ"
     }
   ],
   "items": [
@@ -455,12 +460,22 @@
       "durationSec": 130
     },
     {
-      "id": "35",
+      "id": "36",
       "artistId": "a_bwl",
       "title": "TAJIK LONGMIX RAP",
       "description": "TAJIK LONGMIX RAP",
       "image_url": "https://i.ytimg.com/vi/MWkYdIm_zLE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZ88hsdpqOjCZI_SHr9afTIwbyyw",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/BWL_tajik_longmix_rap.mp4",
+      "publishedAt": "2025-05-11",
+      "durationSec": 130
+    },
+    {
+      "id": "37",
+      "artistId": "a_carleone",
+      "title": "CORLEONE - КАТА КАТА",
+      "description": "CORLEONE - КАТА КАТА",
+      "image_url": "https://i.ytimg.com/vi/0KakKlv7PVo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC7s2F3bYgR_ihFe9fYqLqZ-0QFvQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/corleone_kata_kata.mp4",
       "publishedAt": "2025-05-11",
       "durationSec": 130
     }
