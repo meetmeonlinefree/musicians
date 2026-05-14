@@ -4,6 +4,15 @@
   "items": [
     {
       "id": "39",
+      "title": "Azizbek Juraev - Zangirum 2",
+      "description": "Azizbek Juraev - Zangirum 2",
+      "image_url": "https://i.ytimg.com/vi/_b-YDkOidkk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD1ebJKZfpg1QoY3xLwWJvn_i2oAg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/azizbek_zangirum2.mp4",
+      "publishedAt": "2026-05-14",
+      "durationSec": 330
+    },
+    {
+      "id": "38",
       "title": "Mino - Bale Bale",
       "description": "Mino - Bale Bale",
       "image_url": "https://i.ytimg.com/vi/4RAUxeFsImA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDk9mSRZ7cj5JBcaGinsL8LYhVbQ",
