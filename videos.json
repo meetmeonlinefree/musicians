@@ -111,6 +111,11 @@
       "id": "a_mino",
       "name": "MINO",
       "image_url": "https://i.ytimg.com/vi/4RAUxeFsImA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDk9mSRZ7cj5JBcaGinsL8LYhVbQ"
+    },
+    {
+      "id": "a_azizbek",
+      "name": "Azizbek Juraev",
+      "image_url": "https://i.ytimg.com/vi/_b-YDkOidkk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD1ebJKZfpg1QoY3xLwWJvn_i2oAg"
     }
   ],
   "items": [
@@ -485,7 +490,7 @@
       "durationSec": 130
     },
     {
-      "id": "39",
+      "id": "38",
       "artistId": "a_mino",
       "title": "Mino - Bale Bale",
       "description": "Mino - Bale Bale",
@@ -493,6 +498,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/mino_bale_bale.mp4",
       "publishedAt": "2025-05-11",
       "durationSec": 130
+    },
+    {
+      "id": "39",
+      "artistId": "a_azizbek",
+      "title": "Azizbek Juraev - Zangirum 2",
+      "description": "Azizbek Juraev - Zangirum 2",
+      "image_url": "https://i.ytimg.com/vi/_b-YDkOidkk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD1ebJKZfpg1QoY3xLwWJvn_i2oAg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/azizbek_zangirum2.mp4",
+      "publishedAt": "2025-05-14",
+      "durationSec": 330
     }
   ]
 }
