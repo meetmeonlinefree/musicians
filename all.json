@@ -3,6 +3,24 @@
   "updatedAt": "2026-01-19T10:00:00Z",
   "items": [
     {
+      "id": "42",
+      "title": "SHABNAM SURAYO - GIJDALA",
+      "description": "SHABNAM SURAYO - GIJDALA",
+      "image_url": "https://i.ytimg.com/vi/XDW9d9kCUts/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8UVgWvdGhv4kYcMtlNzxTpoIpRQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/shabnam_gijdalla.mp4",
+      "publishedAt": "2026-05-15",
+      "durationSec": 230
+    },
+    {
+      "id": "41",
+      "title": "NIGINA AMONQULOVA - NAVRUZ",
+      "description": "NIGINA AMONQULOVA - NAVRUZ",
+      "image_url": "https://i.ytimg.com/vi/g47Kij-yzR4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDg4IxLwbi4JhiKCmd3AIN09wqDog",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina_navruz.mp4",
+      "publishedAt": "2026-05-15",
+      "durationSec": 130
+    },
+    {
       "id": "40",
       "title": "АЗИЗБЕК - СУПЕРКЕЛИН 4",
       "description": "АЗИЗБЕК - СУПЕРКЕЛИН 4",
