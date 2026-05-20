@@ -3,6 +3,15 @@
   "updatedAt": "2026-01-19T10:00:00Z",
   "items": [
     {
+      "id": "43",
+      "title": "Shabnami Tojiddin - Bizan doyra",
+      "description": "Shabnami Tojiddin - Bizan doyra",
+      "image_url": "https://i.ytimg.com/vi/SUMJvkIDw3Y/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCs5q1tCk1FE5ACdFcaUVl_npAbuw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/shabnam_tojiddin_bizan_doyra.mp4",
+      "publishedAt": "2026-05-20",
+      "durationSec": 230
+    },
+    {
       "id": "42",
       "title": "SHABNAM SURAYO - GIJDALA",
       "description": "SHABNAM SURAYO - GIJDALA",
