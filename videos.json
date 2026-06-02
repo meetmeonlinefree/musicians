@@ -121,6 +121,11 @@
       "id": "a_shabnam_t",
       "name": "Shabnami Tojiddin",
       "image_url": "https://i.ytimg.com/vi/SUMJvkIDw3Y/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCs5q1tCk1FE5ACdFcaUVl_npAbuw"
+    },
+    {
+      "id": "a_roxana",
+      "name": "Roxana Mehrin",
+      "image_url": "https://i.ytimg.com/vi/-TjYC-bkuhI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDjAUenZ_O7r3_R-PsUZTX7_TmgTQ"
     }
   ],
   "items": [
@@ -552,6 +557,16 @@
       "image_url": "https://i.ytimg.com/vi/SUMJvkIDw3Y/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCs5q1tCk1FE5ACdFcaUVl_npAbuw",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/shabnam_tojiddin_bizan_doyra.mp4",
       "publishedAt": "2025-05-20",
+      "durationSec": 230
+    },
+    {
+      "id": "44",
+      "artistId": "a_roxana",
+      "title": "Решаи Ман Тоҷик Аст - Roxana Mehrin",
+      "description": "Решаи Ман Тоҷик Аст - Roxana Mehrin",
+      "image_url": "https://i.ytimg.com/vi/-TjYC-bkuhI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDjAUenZ_O7r3_R-PsUZTX7_TmgTQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/roxana_reshai_man_tijik_ast.mp4",
+      "publishedAt": "2026-06-02",
       "durationSec": 230
     }
   ]
