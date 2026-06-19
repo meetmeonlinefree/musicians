@@ -643,6 +643,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/azizbek_jangara.mp4",
       "publishedAt": "2026-06-19",
       "durationSec": 530
+    },
+    {
+      "id": "51",
+      "artistId": "a_azizbek",
+      "title": "БАХОДУР ВА ШАХЛО & АЗИЗБЕК - ОЧА ЗАН НАМЕГИРУМ 2",
+      "description": "БАХОДУР ВА ШАХЛО & АЗИЗБЕК - ОЧА ЗАН НАМЕГИРУМ 2",
+      "image_url": "https://i.ytimg.com/vi/XsWI2VX9jbU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBISJosv_W4evlRfDtlLtHaCOJ1_A",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/azizbek_zan_namegirum_2.mp4",
+      "publishedAt": "2026-06-19",
+      "durationSec": 530
     }
   ]
 }
