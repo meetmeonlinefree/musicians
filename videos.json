@@ -623,6 +623,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Madina_Aknazarova_Meram_Az_In_Shahr.mp4",
       "publishedAt": "2026-06-19",
       "durationSec": 230
+    },
+    {
+      "id": "49",
+      "artistId": "a_azizbek",
+      "title": "АЗИЗБЕК & ЛИЛИЯ – КОНФЕТКА",
+      "description": "АЗИЗБЕК & ЛИЛИЯ – КОНФЕТКА",
+      "image_url": "https://i.ytimg.com/vi/HYZt4hwkhyw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7xm4Reb5uKy2Qa8VAODZPp_O2Hw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/azizbek_konfetka.mp4",
+      "publishedAt": "2026-06-19",
+      "durationSec": 330
     }
   ]
 }
