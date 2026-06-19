@@ -653,6 +653,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/azizbek_zan_namegirum_2.mp4",
       "publishedAt": "2026-06-19",
       "durationSec": 530
+    },
+    {
+      "id": "52",
+      "artistId": "a_azizbek",
+      "title": "НАЗАР АЛИ & ШУКРОНАИ С - ДУХТАР БА НОЗ",
+      "description": "НАЗАР АЛИ & ШУКРОНАИ С - ДУХТАР БА НОЗ",
+      "image_url": "https://i.ytimg.com/vi/ftn32ZpMpXs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCLjlp0nYXO12eHeFDp4l3oeBfGcA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/azizbek_duxtar_ba_noz.mp4",
+      "publishedAt": "2026-06-19",
+      "durationSec": 530
     }
   ]
 }
