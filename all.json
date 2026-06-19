@@ -3,6 +3,15 @@
   "updatedAt": "2026-01-19T10:00:00Z",
   "items": [
     {
+      "id": "50",
+      "title": "АЗИЗБЕК Ч ВА ШУКРОНА - ЧАНГАРА",
+      "description": "АЗИЗБЕК Ч ВА ШУКРОНА - ЧАНГАРА",
+      "image_url": "https://i.ytimg.com/vi/ugZUupJ1b-w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBQ2Wu3zppj8UwUm-Xc4JEl0Zv3Lw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/azizbek_jangara.mp4",
+      "publishedAt": "2026-06-19",
+      "durationSec": 530
+    },
+    {
       "id": "49",
       "title": "АЗИЗБЕК & ЛИЛИЯ – КОНФЕТКА",
       "description": "АЗИЗБЕК & ЛИЛИЯ – КОНФЕТКА",
