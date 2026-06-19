@@ -141,6 +141,11 @@
       "id": "a_m_aknazarova",
       "name": "Madina Aknazarova",
       "image_url": "https://i.ytimg.com/vi/mFRXjLf9X88/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX6c57tWfyQ0YQFY5hOO6Kfo4TNw"
+    },
+    {
+      "id": "a_taxmina",
+      "name": "Тахмина Қурбонова",
+      "image_url": "https://i.ytimg.com/vi/QkkoJEOV4H0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDsejfXu8XtqKDs_2ew69bpbCDCVw"
     }
   ],
   "items": [
@@ -673,6 +678,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/azizbek_superkelin.mp4",
       "publishedAt": "2026-06-19",
       "durationSec": 530
+    },
+    {
+      "id": "54",
+      "artistId": "a_taxmina",
+      "title": "Тоҷикбача - Тахмина Қурбонова (2026)",
+      "description": "Тоҷикбача - Тахмина Қурбонова (2026)",
+      "image_url": "https://i.ytimg.com/vi/QkkoJEOV4H0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDsejfXu8XtqKDs_2ew69bpbCDCVw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/taxmina_tojikbacha.mp4",
+      "publishedAt": "2026-06-19",
+      "durationSec": 130
     }
   ]
 }
