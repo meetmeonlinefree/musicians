@@ -136,6 +136,11 @@
       "id": "a_yosamin",
       "name": "Yosamin Davlatova",
       "image_url": "https://i.ytimg.com/vi/_N9TOc7qJdk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB20DVw6pq5o3c5UyC-t7i1FNECAw"
+    },
+    {
+      "id": "a_m_aknazarova",
+      "name": "Madina Aknazarova",
+      "image_url": "https://i.ytimg.com/vi/mFRXjLf9X88/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX6c57tWfyQ0YQFY5hOO6Kfo4TNw"
     }
   ],
   "items": [
@@ -608,6 +613,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Yosamin_Davlatova_Sharab_jon.mp4",
       "publishedAt": "2026-06-19",
       "durationSec": 330
+    },
+    {
+      "id": "48",
+      "artistId": "a_m_aknazarova",
+      "title": "Madina Aknazarova - Meram Az In Shahr",
+      "description": "Madina Aknazarova - Meram Az In Shahr",
+      "image_url": "https://i.ytimg.com/vi/mFRXjLf9X88/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX6c57tWfyQ0YQFY5hOO6Kfo4TNw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Madina_Aknazarova_Meram_Az_In_Shahr.mp4",
+      "publishedAt": "2026-06-19",
+      "durationSec": 230
     }
   ]
 }
