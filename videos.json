@@ -688,6 +688,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/taxmina_tojikbacha.mp4",
       "publishedAt": "2026-06-19",
       "durationSec": 130
+    },
+    {
+      "id": "55",
+      "artistId": "a_zulayxo",
+      "title": "Zulaykho Mahmadshoeva - Jura",
+      "description": "Зулайхо Махмадшоева - Чура",
+      "image_url": "https://i.ytimg.com/vi/-mIkdjhD1Yw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdt3nhcEhuhgNZWy6Nu6OqHxz6KA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Zulaykho_Mahmadshoeva_Jura.mp4",
+      "publishedAt": "2026-06-20",
+      "durationSec": 240
     }
   ]
 }
