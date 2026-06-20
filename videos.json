@@ -698,6 +698,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Zulaykho_Mahmadshoeva_Jura.mp4",
       "publishedAt": "2026-06-20",
       "durationSec": 240
+    },
+    {
+      "id": "56",
+      "artistId": "a_zulayxo",
+      "title": "Zulaykho Mahmadshoeva - Bad-Bad",
+      "description": "Zulaykho Mahmadshoeva - Bad-Bad",
+      "image_url": "https://i.ytimg.com/vi/lGa6oL9LlqI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAfC_kRQHUp6ImZHFJPNbgvVav79w",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Zulaykho_Mahmadshoeva_Bad_Bad_Tarona.mp4",
+      "publishedAt": "2026-06-20",
+      "durationSec": 140
     }
   ]
 }
