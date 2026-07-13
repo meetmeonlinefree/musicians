@@ -45,6 +45,24 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/1ce6489685852810b8f19f6f7c5d86117af3c9a2/videos/89fee514-c45c-4a7f-96ac-49d4b3c4528b.mp4",
       "publishedAt": "2026-01-18",
       "durationSec": 215
+    },
+    {
+      "id": "6",
+      "title": "Нигина VS Мадина",
+      "description": "Нигина VS Мадина",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/images/videoframe_1861.png",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina.mp4",
+      "publishedAt": "2026-01-20",
+      "durationSec": 20
+    },
+    {
+      "id": "7",
+      "title": "MC TAGOI U P - KHUSH OMADI",
+      "description": "MC TAGOI U P - KHUSH OMADI",
+      "image_url": "https://i.ytimg.com/vi/3RaxuQkunwU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCGbAIOgZeuJMOf4sazVBZEcthXpQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/shorts_mctagoi_up_xush_omadi.mp4",
+      "publishedAt": "2026-05-11",
+      "durationSec": 20
     }
   ]
 }
