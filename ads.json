@@ -14,10 +14,10 @@
     },
     {
       "id": "2",
-      "title": "Новый альбом Sadriddin",
-      "description": "Место для вашей рекламы",
-      "image_url": "https://play-lh.googleusercontent.com/7RY3mCsp4Q8LGvgcUMy4g7qEPp7NissyF2VwaMskFxBG9H1En64AMEIowsCMSStijMK3QhKfwD0xYDx8fZzDEMs=w416-h235-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.neuronit.dovtalab2025",
+      "title": "Китоби ШОҲНОМА",
+      "description": "Шоҳнома-и безаволи Фирдавсӣ (935 - 1020) яке аз шоҳкориҳои адабиёти тоҷик аст. ",
+      "image_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/banner_ads/shohnoma.png",
+      "url": "https://play.google.com/store/apps/details?id=com.neuronit.shohnoma",
       "status": 1,
       "startDate": "2026-07-13",
       "endDate": "2026-09-01"
