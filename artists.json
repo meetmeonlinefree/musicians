@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-01T12:00:00Z",
+  "artists": [
+    {
+      "id": "a_sadriddin",
+      "name": "Садриддин",
+      "image_url": "https://i.ytimg.com/vi/ldJjyyy1yHY/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYTCBbKGUwDw==&rs=AOn4CLBzpw-l-9MGe_nEYJPV1Te9PpsEMg"
+    },
+    {
+      "id": "a_yasmina",
+      "name": "Yasmina",
+      "image_url": "https://i.ytimg.com/vi/C1PgNcOjHxw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLACltRN7YV_HnsHEKRHRaq87vk7EQ"
+    },
+    {
+      "id": "a_zulayxo",
+      "name": "Зулайхо",
+      "image_url": "https://i.ytimg.com/vi/PmEW8vxGCKI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC0AA0wuwWHJ_F4QrdwhK67ZklXiQ"
+    },
+    {
+      "id": "a_farahnoz",
+      "name": "Фарахноз Шарафова",
+      "image_url": "https://i.ytimg.com/vi/hPQPnt7qnSE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtPUJUYD5nJRK05naBobileXntgw"
+    },
+    {
+      "id": "a_mehrnigor",
+      "name": "Мехрнигор Рустам",
+      "image_url": "https://i.ytimg.com/vi/SSlgMV_XDCU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDgAhuCTM9NFZsB6MVC1vZeb0AUZA"
+    },
+    {
+      "id": "a_daler",
+      "name": "Далер Назаров",
+      "image_url": "https://i.ytimg.com/vi/SSlgMV_XDCU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDgAhuCTM9NFZsB6MVC1vZeb0AUZA"
+    },
+    {
+      "id": "a_madina",
+      "name": "Мадина Зехни Сунъи",
+      "image_url": "https://i.ytimg.com/vi/mLk6rNMO798/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAs4FigIMCAAQARhlIFAoOzAP&rs=AOn4CLCaoYvvL9UPs0bcaYAmLnHbSfSytQ"
+    },
+    {
+      "id": "a_rain104",
+      "name": "Rain 104",
+      "image_url": "https://i.ytimg.com/vi/TxAVcyJRzpE/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBDweTf2Uj-CF4AVSpeyaqB57UWsA"
+    },
+    {
+      "id": "a_ravshan",
+      "name": "Равшан Анаев",
+      "image_url": "https://i.ytimg.com/vi/BB8C59PmGbA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBpdMoHZFRkuiZlKDmHZMxLw4LVZQ"
+    },
+    {
+      "id": "a_safarmuhammad",
+      "name": "Safarmuhammad",
+      "image_url": "https://i.ytimg.com/vi/AUGmC3e68lw/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARh_IDcoEzAP&rs=AOn4CLDvpcEWsC6-niRlvHemipMjEGpxMA"
+    },
+    {
+      "id": "a_shabnam",
+      "name": "Shabnam Surayo",
+      "image_url": "https://i.ytimg.com/vi/0iVHCiJc9JI/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARhlIFooSjAP&rs=AOn4CLDwbgC-w9SuiKp32u8pB4LCFghtSw"
+    },
+    {
+      "id": "a_nigina",
+      "name": "Nigina Amonqulova",
+      "image_url": "https://i.ytimg.com/vi/jlzWSeGetyE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD-8nRtOSlvGU9FxTNW0Ho1yhIgVw"
+    },
+    {
+      "id": "a_dnazri",
+      "name": "Давлат Назри",
+      "image_url": "https://i.ytimg.com/vi/UUC5blbBzfw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAgWLcvjM9pXH0_4i3fiDGAK5qtFg"
+    },
+    {
+      "id": "a_adis",
+      "name": "Адис Курбонбеков",
+      "image_url": "https://i.ytimg.com/vi/malSG7jBdCM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtin8s9N1kEqSxL16FWOVSjle0dQ"
+    },
+    {
+      "id": "a_boris",
+      "name": "Boris Jurabekov",
+      "image_url": "https://i.ytimg.com/vi/ub2opxLQucw/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGFAgVihlMA8=&rs=AOn4CLDf5z3pNf1_aCIvl9l8XG0Akc8Mhw"
+    },
+    {
+      "id": "a_baxa84",
+      "name": "Bakha 84",
+      "image_url": "https://i.ytimg.com/vi/ISe0s7HA8Ro/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLXZkYH22CiqpkRLyOtiR-btZvWg"
+    },
+    {
+      "id": "a_farzona",
+      "name": "Farzonai Khurshed",
+      "image_url": "https://i.ytimg.com/vi/PPxG-GMsJKc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCf9jv-D1rW_FeiwZEIuj78MLYG-w"
+    },
+    {
+      "id": "a_mctagoi",
+      "name": "МС 2КИЛО ГУШТ & МС ТАГОИ",
+      "image_url": "https://yt3.googleusercontent.com/BmlrYsyPJLz1vlUE_MDAtTIFsRPGBroqqbr6WOvLrsr_HpIzVus4o5K8sCnE_G5RWGwHEMIRww=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "id": "a_zemaxraff",
+      "name": "ZEMA x RAFF",
+      "image_url": "https://i.ytimg.com/vi/3h8h25l9RXE/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGDEgYShyMA8=&rs=AOn4CLBCNXVV5QF7ZbUFPmbRwjpfydz_Mw"
+    },
+    {
+      "id": "a_bwl",
+      "name": "BWL Music",
+      "image_url": "https://i.ytimg.com/vi/MWkYdIm_zLE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZ88hsdpqOjCZI_SHr9afTIwbyyw"
+    },
+    {
+      "id": "a_carleone",
+      "name": "CARLEONE",
+      "image_url": "https://i.ytimg.com/vi/0KakKlv7PVo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC7s2F3bYgR_ihFe9fYqLqZ-0QFvQ"
+    },
+    {
+      "id": "a_mino",
+      "name": "MINO",
+      "image_url": "https://i.ytimg.com/vi/4RAUxeFsImA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDk9mSRZ7cj5JBcaGinsL8LYhVbQ"
+    },
+    {
+      "id": "a_azizbek",
+      "name": "Azizbek Juraev",
+      "image_url": "https://i.ytimg.com/vi/_b-YDkOidkk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD1ebJKZfpg1QoY3xLwWJvn_i2oAg"
+    },
+    {
+      "id": "a_shabnam_t",
+      "name": "Shabnami Tojiddin",
+      "image_url": "https://i.ytimg.com/vi/SUMJvkIDw3Y/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCs5q1tCk1FE5ACdFcaUVl_npAbuw"
+    },
+    {
+      "id": "a_roxana",
+      "name": "Roxana Mehrin",
+      "image_url": "https://i.ytimg.com/vi/-TjYC-bkuhI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDjAUenZ_O7r3_R-PsUZTX7_TmgTQ"
+    },
+    {
+      "id": "a_noziya",
+      "name": "Noziya Karomatullo",
+      "image_url": "https://i.ytimg.com/vi/vTtJLjBuvX0/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYTSATKH8wDw==&rs=AOn4CLCYIZksjChWVJc5sW03ISj5xxxNoA"
+    },
+    {
+      "id": "a_yosamin",
+      "name": "Yosamin Davlatova",
+      "image_url": "https://i.ytimg.com/vi/_N9TOc7qJdk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB20DVw6pq5o3c5UyC-t7i1FNECAw"
+    },
+    {
+      "id": "a_m_aknazarova",
+      "name": "Madina Aknazarova",
+      "image_url": "https://i.ytimg.com/vi/mFRXjLf9X88/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX6c57tWfyQ0YQFY5hOO6Kfo4TNw"
+    },
+    {
+      "id": "a_taxmina",
+      "name": "Тахмина Қурбонова",
+      "image_url": "https://i.ytimg.com/vi/QkkoJEOV4H0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDsejfXu8XtqKDs_2ew69bpbCDCVw"
+    }
+  ]
+}
