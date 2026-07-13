@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-13T12:00:00Z",
+  "items": [
+    {
+      "id": "1",
+      "title": "Место для вашей рекламы",
+      "image_url": "https://play-lh.googleusercontent.com/Cm6iM9GgJ-FltreqE5q-eFNmqoDBMy1R_Quh7JBQ08_QKP6fLPZGme_xV0VNsMkGLpZ1ETxarJLx2WX5bkYz=w416-h235-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.neuronit.dovtalab2026",
+      "status": 1,
+      "startDate": "2026-07-13",
+      "endDate": "2026-08-13"
+    },
+    {
+      "id": "2",
+      "title": "Новый альбом Sadriddin",
+      "image_url": "https://play-lh.googleusercontent.com/7RY3mCsp4Q8LGvgcUMy4g7qEPp7NissyF2VwaMskFxBG9H1En64AMEIowsCMSStijMK3QhKfwD0xYDx8fZzDEMs=w416-h235-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.neuronit.dovtalab2025",
+      "status": 1,
+      "startDate": "2026-07-20",
+      "endDate": "2026-09-01"
+    },
+    {
+      "id": "3",
+      "title": "Новый альбом Yasmina",
+      "image_url": "https://play-lh.googleusercontent.com/7RY3mCsp4Q8LGvgcUMy4g7qEPp7NissyF2VwaMskFxBG9H1En64AMEIowsCMSStijMK3QhKfwD0xYDx8fZzDEMs=w416-h235-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.neuronit.dovtalab2025",
+      "status": 0,
+      "startDate": "2026-07-20",
+      "endDate": "2026-09-01"
+    }
+  ]
+}
