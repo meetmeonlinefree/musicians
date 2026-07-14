@@ -1,0 +1,58 @@
+{
+  "id": "a_nigina",
+  "name": "Nigina Amonqulova",
+  "image_url": "https://i.ytimg.com/vi/jlzWSeGetyE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD-8nRtOSlvGU9FxTNW0Ho1yhIgVw",
+  "videosCount": 5,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_nigina",
+      "title": "Nigina Amonqulova - Modar Farishta Bud",
+      "description": "Nigina Amonqulova - Modar Farishta Bud",
+      "image_url": "https://i.ytimg.com/vi/jlzWSeGetyE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD-8nRtOSlvGU9FxTNW0Ho1yhIgVw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina_modar.mp4",
+      "publishedAt": "2025-03-12",
+      "durationSec": 330
+    },
+    {
+      "id": "2",
+      "artistId": "a_nigina",
+      "title": "Nigina Amonqulova - FIREBA",
+      "description": "Nigina Amonqulova - FIREBA",
+      "image_url": "https://i.ytimg.com/vi/vnj7PZwb1zk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzsyX2D_GpyXzF0rxsyIeiCV1bdQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina_fireba.mp4",
+      "publishedAt": "2025-04-06",
+      "durationSec": 330
+    },
+    {
+      "id": "3",
+      "artistId": "a_nigina",
+      "title": "Nigina Гул бо руяте",
+      "description": "Nigina Гул бо руяте",
+      "image_url": "https://i.ytimg.com/vi/_NUdbL7vwQQ/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGEsgSShyMA8=&rs=AOn4CLBo1e9hc8E2rHNGjX7YMzogs3e_ag",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina_gul_bo_ruyate.mp4",
+      "publishedAt": "2025-04-07",
+      "durationSec": 330
+    },
+    {
+      "id": "4",
+      "artistId": "a_nigina",
+      "title": "Nigina Amonqulova - Ishqi Man",
+      "description": "Nigina Amonqulova - Ishqi Man",
+      "image_url": "https://i.ytimg.com/vi/q_LpJnr0u0k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDwSATNC2iQUQ1czF966lOEOJicAg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina_ishqi_man.mp4",
+      "publishedAt": "2025-04-16",
+      "durationSec": 330
+    },
+    {
+      "id": "5",
+      "artistId": "a_nigina",
+      "title": "NIGINA AMONQULOVA - NAVRUZ",
+      "description": "NIGINA AMONQULOVA - NAVRUZ",
+      "image_url": "https://i.ytimg.com/vi/g47Kij-yzR4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDg4IxLwbi4JhiKCmd3AIN09wqDog",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/nigina_navruz.mp4",
+      "publishedAt": "2025-05-15",
+      "durationSec": 230
+    }
+  ]
+}
