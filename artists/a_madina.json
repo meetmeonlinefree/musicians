@@ -1,0 +1,18 @@
+{
+  "id": "a_madina",
+  "name": "Мадина Зехни Сунъи",
+  "image_url": "https://i.ytimg.com/vi/mLk6rNMO798/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAs4FigIMCAAQARhlIFAoOzAP&rs=AOn4CLCaoYvvL9UPs0bcaYAmLnHbSfSytQ",
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_madina",
+      "title": "Суруди Язна 😂 Язнаҷон",
+      "description": "Суруди Язна 😂 Язнаҷон Мадина",
+      "image_url": "https://i.ytimg.com/vi/mLk6rNMO798/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAs4FigIMCAAQARhlIFAoOzAP&rs=AOn4CLCaoYvvL9UPs0bcaYAmLnHbSfSytQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/yazna.mp4",
+      "publishedAt": "2025-02-23",
+      "durationSec": 240
+    }
+  ]
+}
