@@ -1,0 +1,18 @@
+{
+  "id": "a_mino",
+  "name": "MINO",
+  "image_url": "https://i.ytimg.com/vi/4RAUxeFsImA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDk9mSRZ7cj5JBcaGinsL8LYhVbQ",
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_mino",
+      "title": "Mino - Bale Bale",
+      "description": "Mino - Bale Bale",
+      "image_url": "https://i.ytimg.com/vi/4RAUxeFsImA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDk9mSRZ7cj5JBcaGinsL8LYhVbQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/mino_bale_bale.mp4",
+      "publishedAt": "2025-05-11",
+      "durationSec": 130
+    }
+  ]
+}
