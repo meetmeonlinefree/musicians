@@ -1,0 +1,18 @@
+{
+  "id": "a_zemaxraff",
+  "name": "ZEMA x RAFF",
+  "image_url": "https://i.ytimg.com/vi/3h8h25l9RXE/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGDEgYShyMA8=&rs=AOn4CLBCNXVV5QF7ZbUFPmbRwjpfydz_Mw",
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_zemaxraff",
+      "title": "ZEMA x RAFF - Звезда Инстаграма",
+      "description": "ZEMA x RAFF - Звезда Инстаграма",
+      "image_url": "https://i.ytimg.com/vi/3h8h25l9RXE/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGDEgYShyMA8=&rs=AOn4CLBCNXVV5QF7ZbUFPmbRwjpfydz_Mw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/zemaxraff_zvezda_instagrama.mp4",
+      "publishedAt": "2025-05-11",
+      "durationSec": 130
+    }
+  ]
+}
