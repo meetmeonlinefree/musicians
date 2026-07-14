@@ -2,7 +2,7 @@
   "id": "a_m_aknazarova",
   "name": "Madina Aknazarova",
   "image_url": "https://i.ytimg.com/vi/mFRXjLf9X88/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX6c57tWfyQ0YQFY5hOO6Kfo4TNw",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -12,6 +12,16 @@
       "image_url": "https://i.ytimg.com/vi/mFRXjLf9X88/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX6c57tWfyQ0YQFY5hOO6Kfo4TNw",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Madina_Aknazarova_Meram_Az_In_Shahr.mp4",
       "publishedAt": "2026-06-19",
+      "durationSec": 230
+    },
+    {
+      "id": "2",
+      "artistId": "a_m_aknazarova",
+      "title": "Madina Aknazarova - Shabi Ruyo (2026)",
+      "description": "Madina Aknazarova - Shabi Ruyo (2026)",
+      "image_url": "https://i.ytimg.com/vi/pHlJV3yV3L4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBxpwhJNaMSRdk0bi91FrdpTFRvGw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Madina_Aknazarova_Shabi_Ruyo_2026.mp4",
+      "publishedAt": "2026-07-14",
       "durationSec": 230
     }
   ]
