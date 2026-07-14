@@ -1,1 +1,68 @@
-[]
+{
+  "id": "a_zulayxo",
+  "name": "Зулайхо",
+  "image_url": "https://i.ytimg.com/vi/PmEW8vxGCKI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC0AA0wuwWHJ_F4QrdwhK67ZklXiQ",
+  "videosCount": 6,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_zulayxo",
+      "title": "Зулайхо Духтараки Фархори",
+      "description": "Зулайхо Духтараки Фархори",
+      "image_url": "https://i.ytimg.com/vi/PmEW8vxGCKI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC0AA0wuwWHJ_F4QrdwhK67ZklXiQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/duxtaraki_farxori.mp4",
+      "publishedAt": "2025-12-20",
+      "durationSec": 240
+    },
+    {
+      "id": "2",
+      "artistId": "a_zulayxo",
+      "title": "Зулайхо Бай Бай",
+      "description": "Зулайхо Бай Бай",
+      "image_url": "https://i.ytimg.com/vi/Iss3A_R7w7c/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTpDxPtZyhZhDysAg1jztPucE6IQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/zulayxo_bye.mp4",
+      "publishedAt": "2025-03-13",
+      "durationSec": 130
+    },
+    {
+      "id": "3",
+      "artistId": "a_zulayxo",
+      "title": "Ozoda & Zulaykho - Leyli",
+      "description": "Ozoda & Zulaykho - Leyli",
+      "image_url": "https://i.ytimg.com/vi/-hPXuH4N5dw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAn5pTFW9pOfdod8JXJo2L7nFun9w",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/zulayxo_leyli.mp4",
+      "publishedAt": "2025-04-06",
+      "durationSec": 330
+    },
+    {
+      "id": "4",
+      "artistId": "a_zulayxo",
+      "title": "Зулайхо - Ширинаки ма",
+      "description": "Зулайхо - Ширинаки ма",
+      "image_url": "https://i.ytimg.com/vi/81PPZ0McDhg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDSnSnAWa6bwNVFvCDGCqL1hKstPQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/zulayxo_shirinaki_ma.mp4",
+      "publishedAt": "2025-04-15",
+      "durationSec": 330
+    },
+    {
+      "id": "5",
+      "artistId": "a_zulayxo",
+      "title": "Zulaykho Mahmadshoeva - Jura",
+      "description": "Зулайхо Махмадшоева - Чура",
+      "image_url": "https://i.ytimg.com/vi/-mIkdjhD1Yw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdt3nhcEhuhgNZWy6Nu6OqHxz6KA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Zulaykho_Mahmadshoeva_Jura.mp4",
+      "publishedAt": "2026-06-20",
+      "durationSec": 240
+    },
+    {
+      "id": "6",
+      "artistId": "a_zulayxo",
+      "title": "Zulaykho Mahmadshoeva - Bad-Bad",
+      "description": "Zulaykho Mahmadshoeva - Bad-Bad",
+      "image_url": "https://i.ytimg.com/vi/lGa6oL9LlqI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAfC_kRQHUp6ImZHFJPNbgvVav79w",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Zulaykho_Mahmadshoeva_Bad_Bad_Tarona.mp4",
+      "publishedAt": "2026-06-20",
+      "durationSec": 140
+    }
+  ]
+}
