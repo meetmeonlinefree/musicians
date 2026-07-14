@@ -1,0 +1,18 @@
+{
+  "id": "a_bwl",
+  "name": "BWL Music",
+  "image_url": "https://i.ytimg.com/vi/MWkYdIm_zLE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZ88hsdpqOjCZI_SHr9afTIwbyyw",
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_bwl",
+      "title": "TAJIK LONGMIX RAP",
+      "description": "TAJIK LONGMIX RAP",
+      "image_url": "https://i.ytimg.com/vi/MWkYdIm_zLE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZ88hsdpqOjCZI_SHr9afTIwbyyw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/BWL_tajik_longmix_rap.mp4",
+      "publishedAt": "2025-05-11",
+      "durationSec": 130
+    }
+  ]
+}
