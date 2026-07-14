@@ -1,0 +1,28 @@
+{
+  "id": "a_shabnam",
+  "name": "Shabnam Surayo",
+  "image_url": "https://i.ytimg.com/vi/0iVHCiJc9JI/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARhlIFooSjAP&rs=AOn4CLDwbgC-w9SuiKp32u8pB4LCFghtSw",
+  "videosCount": 2,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_shabnam",
+      "title": "Shabnam Suraya - Naya Naya",
+      "description": "Shabnam Suraya - Naya Naya",
+      "image_url": "https://i.ytimg.com/vi/0iVHCiJc9JI/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARhlIFooSjAP&rs=AOn4CLDwbgC-w9SuiKp32u8pB4LCFghtSw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/shabnam_naya.mp4",
+      "publishedAt": "2025-03-11",
+      "durationSec": 140
+    },
+    {
+      "id": "2",
+      "artistId": "a_shabnam",
+      "title": "SHABNAM SURAYO - GIJDALA",
+      "description": "SHABNAM SURAYO - GIJDALA",
+      "image_url": "https://i.ytimg.com/vi/XDW9d9kCUts/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8UVgWvdGhv4kYcMtlNzxTpoIpRQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/shabnam_gijdalla.mp4",
+      "publishedAt": "2025-05-15",
+      "durationSec": 130
+    }
+  ]
+}
