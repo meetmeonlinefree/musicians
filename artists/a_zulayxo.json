@@ -2,7 +2,7 @@
   "id": "a_zulayxo",
   "name": "Зулайхо",
   "image_url": "https://i.ytimg.com/vi/PmEW8vxGCKI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC0AA0wuwWHJ_F4QrdwhK67ZklXiQ",
-  "videosCount": 7,
+  "videosCount": 8,
   "videos": [
     {
       "id": "1",
@@ -73,6 +73,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Zulaykho_Mahmadshoeva_ft_S.mp4",
       "publishedAt": "2026-07-14",
       "durationSec": 230
+    },
+    {
+      "id": "8",
+      "artistId": "a_zulayxo",
+      "title": "Zulaykho Mahmadshoeva - Dookhtare Farkhor (2025)",
+      "description": "Zulaykho Mahmadshoeva - Dookhtare Farkhor (2025)",
+      "image_url": "https://i.ytimg.com/vi/4iHIyzAV6l0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8NWa6pH-lo2i9lOeGtqLJ-k0nLQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Zulaykho_Mahmadshoeva_Dookhtare.mp4",
+      "publishedAt": "2026-07-15",
+      "durationSec": 300
     }
   ]
 }
