@@ -2,7 +2,7 @@
   "id": "a_zulayxo",
   "name": "Зулайхо",
   "image_url": "https://i.ytimg.com/vi/PmEW8vxGCKI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC0AA0wuwWHJ_F4QrdwhK67ZklXiQ",
-  "videosCount": 8,
+  "videosCount": 9,
   "videos": [
     {
       "id": "1",
@@ -83,6 +83,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Zulaykho_Mahmadshoeva_Dookhtare.mp4",
       "publishedAt": "2026-07-15",
       "durationSec": 300
+    },
+    {
+      "id": "9",
+      "artistId": "a_zulayxo",
+      "title": "Zulaykho Mahmadshoeva - Mamnunam (2016)",
+      "description": "Zulaykho Mahmadshoeva - Mamnunam (2016)",
+      "image_url": "https://i.ytimg.com/vi/AftKZQQgQbM/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGCsgNCh_MA8=&rs=AOn4CLDbqsiyW7xxwXl_FX8V88gQi054ZA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Zulaykho_Mamnunam.mp4",
+      "publishedAt": "2026-07-16",
+      "durationSec": 163
     }
   ]
 }
