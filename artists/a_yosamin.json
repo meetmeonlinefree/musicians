@@ -2,7 +2,7 @@
   "id": "a_yosamin",
   "name": "Yosamin Davlatova",
   "image_url": "https://i.ytimg.com/vi/_N9TOc7qJdk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB20DVw6pq5o3c5UyC-t7i1FNECAw",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Yosamin_Davlatova_Sharab_jon.mp4",
       "publishedAt": "2026-06-19",
       "durationSec": 330
+    },
+    {
+      "id": "2",
+      "artistId": "a_yosamin",
+      "title": "Yosamin Davlatova - Sevaman seni",
+      "description": "Yosamin Davlatova - Sevaman seni",
+      "image_url": "https://i.ytimg.com/vi/W2GlKw-_vW8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBVsb1Ci_eYDO__wDd0IMdXfsMWdw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Yosamin_Davlatova_1_2_3.mp4",
+      "publishedAt": "2026-07-16",
+      "durationSec": 160
     }
   ]
 }
