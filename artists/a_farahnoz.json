@@ -2,7 +2,7 @@
   "id": "a_farahnoz",
   "name": "Фарахноз Шарафова",
   "image_url": "https://i.ytimg.com/vi/hPQPnt7qnSE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtPUJUYD5nJRK05naBobileXntgw",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/farahnoz_sharafova_nagu_nagu.mp4",
       "publishedAt": "2026-07-17",
       "durationSec": 147
+    },
+    {
+      "id": "2",
+      "artistId": "a_farahnoz",
+      "title": "FARAHNOZ SHARAFOVA - JONAM",
+      "description": "FARAHNOZ SHARAFOVA - JONAM",
+      "image_url": "https://i.ytimg.com/vi/hPQPnt7qnSE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtPUJUYD5nJRK05naBobileXntgw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/farahnoz_sharafova_jonam.mp4",
+      "publishedAt": "2026-07-17",
+      "durationSec": 215
     }
   ]
 }
