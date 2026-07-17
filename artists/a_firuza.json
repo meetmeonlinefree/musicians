@@ -2,7 +2,7 @@
   "id": "a_firuza",
   "name": "Firuza Hafizova",
   "image_url": "https://i.ytimg.com/vi/BZpBtEaDf2E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDO0WZu2AFmEx7r6ZDWhkGsCPE0jg",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Firuza_Hafizova_Sharora_ft_Siyavush.mp4",
       "publishedAt": "2026-07-14",
       "durationSec": 240
+    },
+    {
+      "id": "2",
+      "artistId": "a_firuza",
+      "title": "Firuza - MARA DEVONA KARDI",
+      "description": "Firuza - MARA DEVONA KARDI",
+      "image_url": "https://i.ytimg.com/vi/6llf3yxeuls/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-AoACoAKKAgwIABABGH8gLCgTMA8=&rs=AOn4CLBCnUb7lQqbBUz6whILcG_CCE0bWQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Firuza_MARA_DEVONA_KARDI.mp4",
+      "publishedAt": "2026-07-17",
+      "durationSec": 235
     }
   ]
 }
