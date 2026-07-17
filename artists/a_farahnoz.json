@@ -2,7 +2,7 @@
   "id": "a_farahnoz",
   "name": "Фарахноз Шарафова",
   "image_url": "https://i.ytimg.com/vi/hPQPnt7qnSE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtPUJUYD5nJRK05naBobileXntgw",
-  "videosCount": 3,
+  "videosCount": 4,
   "videos": [
     {
       "id": "1",
@@ -33,6 +33,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Farahnoz_Sharafova_Ramador.mp4",
       "publishedAt": "2026-07-17",
       "durationSec": 240
+    },
+    {
+      "id": "4",
+      "artistId": "a_farahnoz",
+      "title": "Farahnoz Sharafova - Uf uf uf",
+      "description": "Farahnoz Sharafova - Uf uf uf",
+      "image_url": "https://i.ytimg.com/vi/Wg6rwJi8IYI/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGDsgVShlMA8=&rs=AOn4CLDDHBdWFbNnFMc9iE-PUdGCO-b58g",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Farahnoz_Sharafova_Uf_uf_uf.mp4",
+      "publishedAt": "2026-07-17",
+      "durationSec": 186
     }
   ]
 }
