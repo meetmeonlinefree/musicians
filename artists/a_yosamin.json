@@ -2,7 +2,7 @@
   "id": "a_yosamin",
   "name": "Yosamin Davlatova",
   "image_url": "https://i.ytimg.com/vi/_N9TOc7qJdk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB20DVw6pq5o3c5UyC-t7i1FNECAw",
-  "videosCount": 2,
+  "videosCount": 3,
   "videos": [
     {
       "id": "1",
@@ -23,6 +23,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Yosamin_Davlatova_1_2_3.mp4",
       "publishedAt": "2026-07-16",
       "durationSec": 160
+    },
+    {
+      "id": "3",
+      "artistId": "a_yosamin",
+      "title": "Yosamin Davlatova - June Jonum",
+      "description": "Yosamin Davlatova - June Jonum",
+      "image_url": "https://i.ytimg.com/vi/NrUUjKdySIc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA4dz0LPpUPxOpZiddcFvakNLEGhA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Yosamin_Davlatova_June_Jonum.mp4",
+      "publishedAt": "2026-07-20",
+      "durationSec": 179
     }
   ]
 }
