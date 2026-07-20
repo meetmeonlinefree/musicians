@@ -2,7 +2,7 @@
   "id": "a_zulayxo",
   "name": "Зулайхо",
   "image_url": "https://i.ytimg.com/vi/PmEW8vxGCKI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC0AA0wuwWHJ_F4QrdwhK67ZklXiQ",
-  "videosCount": 9,
+  "videosCount": 10,
   "videos": [
     {
       "id": "1",
@@ -93,6 +93,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Zulaykho_Mamnunam.mp4",
       "publishedAt": "2026-07-16",
       "durationSec": 163
+    },
+    {
+      "id": "10",
+      "artistId": "a_zulayxo",
+      "title": "Zulaykho Mahmadshoeva ft. Battoz - Dil Vale (2026)",
+      "description": "Zulaykho Mahmadshoeva ft. Battoz - Dil Vale (2026)",
+      "image_url": "https://i.ytimg.com/vi/MUqN3w_44kA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAOmvAbo6Q9mrlMTlBspleMUaJtRg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Zulaykho_Mahmadshoeva_ft.mp4",
+      "publishedAt": "2026-07-20",
+      "durationSec": 175
     }
   ]
 }
