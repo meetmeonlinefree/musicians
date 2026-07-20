@@ -2,7 +2,7 @@
   "id": "a_shabnam",
   "name": "Shabnam Surayo",
   "image_url": "https://i.ytimg.com/vi/0iVHCiJc9JI/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARhlIFooSjAP&rs=AOn4CLDwbgC-w9SuiKp32u8pB4LCFghtSw",
-  "videosCount": 2,
+  "videosCount": 3,
   "videos": [
     {
       "id": "1",
@@ -23,6 +23,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/shabnam_gijdalla.mp4",
       "publishedAt": "2025-05-15",
       "durationSec": 130
+    },
+    {
+      "id": "3",
+      "artistId": "a_shabnam",
+      "title": "Shabnam Surayo - The Queens Remix",
+      "description": "Shabnam Surayo - The Queens Remix",
+      "image_url": "https://sun9-27.userapi.com/s/v1/ig2/CQLSPgfmU55kOgAGCjxpNPwLdhVVwVq_TIy-8abbQ0Ui5cVga8VrfVKaUJynFSuOnqdawa-UVz4Q6550FMmEBI7q.jpg?quality=95&size=320x180",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Shabnam_Surayo_The_Queens_Remix.mp4",
+      "publishedAt": "2026-07-20",
+      "durationSec": 200
     }
   ]
 }
