@@ -6,45 +6,57 @@ on:
       - "**/*.json"
 
 jobs:
+
   notify:
+
     runs-on: ubuntu-latest
 
     permissions:
       contents: read
 
     steps:
+
+      # Получаем код репозитория
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
+
+      # Авторизация Firebase через Service Account
       - name: Authenticate to Google Cloud
         uses: google-github-actions/auth@v2
         with:
           credentials_json: '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}'
-          
+
+
+      # Устанавливаем Google Cloud SDK
       - name: Setup Google Cloud SDK
         uses: google-github-actions/setup-gcloud@v2
 
-      - name: Get Access Token
-        id: auth
+
+      # Получаем токен для Firebase HTTP v1
+      - name: Get Firebase Access Token
         run: |
+
           ACCESS_TOKEN=$(gcloud auth application-default print-access-token)
+
           echo "ACCESS_TOKEN=$ACCESS_TOKEN" >> $GITHUB_ENV
 
-      - name: Send Push Notification
+
+      # Устанавливаем Python зависимости
+      - name: Install Python dependencies
         run: |
-          curl -X POST \
-          -H "Authorization: Bearer $ACCESS_TOKEN" \
-          -H "Content-Type: application/json; UTF-8" \
-          https://fcm.googleapis.com/v1/projects/${{ secrets.FIREBASE_PROJECT_ID }}/messages:send \
-          -d '{
-            "message": {
-              "topic": "new_music",
-              "notification": {
-                "title": "🎵 Tajik Musician",
-                "body": "В приложении появились новые данные!"
-              },
-              "android": {
-                "priority": "HIGH"
-              }
-            }
-          }'
+
+          pip install requests
+
+
+      # Запускаем анализ изменений и отправку Push
+      - name: Send Push Notification
+        env:
+          FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
+          ACCESS_TOKEN: ${{ env.ACCESS_TOKEN }}
+
+        run: |
+
+          python scripts/send_push.py
