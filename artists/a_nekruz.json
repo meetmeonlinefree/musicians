@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nekruz_Niyozov_Gar_buvad_umr_2021.mp4",
       "publishedAt": "2026-07-20",
       "durationSec": 196
+    },
+    {
+      "id": "2",
+      "artistId": "a_nekruz",
+      "title": "Nekruz Niyozov dukhtari tojik",
+      "description": "Nekruz Niyozov dukhtari tojik",
+      "image_url": "https://i.ytimg.com/vi/pwSmfmWpeWI/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYfyAkKEAwDw==&rs=AOn4CLBbc_jLUR-dWNkn8HoaN7dFgQm2lw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nekruz_Niyozov_dukhtari_tojik.mp4",
+      "publishedAt": "2026-07-20",
+      "durationSec": 159
     }
   ]
 }
