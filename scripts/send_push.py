@@ -73,7 +73,7 @@ def create_notification(files):
 
                 body = (
                     f"Вышла новая версия "
-                    f"Tajik Musician {version}. "
+                    f"Tajik Music {version}. "
                     "Пожалуйста, обновите приложение."
                 )
 
