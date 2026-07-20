@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-20T10:49:43.247Z",
+  "updatedAt": "2026-07-20T11:47:17.253Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -156,6 +156,11 @@
       "id": "a_muboriz",
       "name": "Muboriz Usmonov",
       "image_url": "https://yt3.googleusercontent.com/GX4pV04p6wF4LK1fFIhg8Q4JRhrzK6hnYAmPZsaNQjOeLmfQUPmg_MNSE7thr5zvoo8zf68_vQ=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "id": "a_nekruz",
+      "name": "Nekruz Niyozov",
+      "image_url": "https://i.ytimg.com/vi/bOtZwW_E8N8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAdWfTHn5ql2k97bJeItanuZA7gVQ"
     }
   ]
 }
