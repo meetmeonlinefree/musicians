@@ -2,7 +2,7 @@
   "id": "a_m_aknazarova",
   "name": "Madina Aknazarova",
   "image_url": "https://i.ytimg.com/vi/mFRXjLf9X88/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX6c57tWfyQ0YQFY5hOO6Kfo4TNw",
-  "videosCount": 2,
+  "videosCount": 3,
   "videos": [
     {
       "id": "1",
@@ -23,6 +23,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/Madina_Aknazarova_Shabi_Ruyo_2026.mp4",
       "publishedAt": "2026-07-14",
       "durationSec": 230
+    },
+    {
+      "id": "3",
+      "artistId": "a_m_aknazarova",
+      "title": "Madina Aknazarova - Afsus",
+      "description": "Madina Aknazarova - Afsus",
+      "image_url": "https://i.ytimg.com/vi/6pMksKp98-o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCwLqJJc6U70B6QH-LzgOziOWVm1w",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Madina_Aknazarova_Afsus_Audio_2021.mp4",
+      "publishedAt": "2026-07-20",
+      "durationSec": 188
     }
   ]
 }
