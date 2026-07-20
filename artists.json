@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-20T04:17:47.526Z",
+  "updatedAt": "2026-07-20T04:22:13.127Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -151,6 +151,11 @@
       "id": "a_a_axmedov",
       "name": "Anvar Axmedov",
       "image_url": "https://yt3.ggpht.com/L-_FcammwXDclRxmMrV_ZhWXG1_ljRf8F3nPkFY00Der2vwiqeEh7GM70vyZ7clmXrvivKNPGWY=s176-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "a_muboriz",
+      "name": "Muboriz Usmonov",
+      "image_url": "https://yt3.googleusercontent.com/GX4pV04p6wF4LK1fFIhg8Q4JRhrzK6hnYAmPZsaNQjOeLmfQUPmg_MNSE7thr5zvoo8zf68_vQ=s176-c-k-c0x00ffffff-no-rj-mo"
     }
   ]
 }
