@@ -59,19 +59,51 @@ def create_notification(files):
 
         # Новый исполнитель
         if file.startswith("artists/") and file.endswith(".json"):
-
+        
             data = load_json(file)
-
+        
             if data:
-
+        
                 name = data.get(
                     "name",
-                    "Новый исполнитель"
+                    "Исполнитель"
                 )
-
-                title = "🎤 Новый исполнитель"
-                body = f"{name} добавлен в Tajik Musician"
-
+        
+                videos = data.get(
+                    "videos",
+                    []
+                )
+        
+        
+                # Если у исполнителя есть видео
+                if videos:
+        
+                    last_video = videos[-1]
+        
+                    video_title = last_video.get(
+                        "title",
+                        "Новое видео"
+                    )
+        
+        
+                    title = "🎵 Новое видео от исполнителя"
+        
+                    body = (
+                        f"{name}: {video_title} "
+                        "добавлено в приложение Tajik Music"
+                    )
+        
+        
+                else:
+        
+                    title = "🎤 Новый исполнитель"
+        
+                    body = (
+                        f"{name} добавлен "
+                        "в приложение Tajik Music"
+                    )
+        
+        
                 break
 
 
