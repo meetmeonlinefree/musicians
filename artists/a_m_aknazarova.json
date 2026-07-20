@@ -2,7 +2,7 @@
   "id": "a_m_aknazarova",
   "name": "Madina Aknazarova",
   "image_url": "https://i.ytimg.com/vi/mFRXjLf9X88/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX6c57tWfyQ0YQFY5hOO6Kfo4TNw",
-  "videosCount": 4,
+  "videosCount": 5,
   "videos": [
     {
       "id": "1",
@@ -41,6 +41,16 @@
       "description": "Muboriz ft. Madina - Dust Nadori",
       "image_url": "https://i.ytimg.com/vi/6a7t6rMLt_I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCWSHQq_k1HaZ3V0G4RVy2nTRFCvA",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Muboriz_ft_Madina.mp4",
+      "publishedAt": "2026-07-20",
+      "durationSec": 252
+    },
+    {
+      "id": "5",
+      "artistId": "a_m_aknazarova",
+      "title": "Madina Aknazarova - Dil Ba Dil (2020)",
+      "description": "Madina Aknazarova - Dil Ba Dil (2020)",
+      "image_url": "https://i.ytimg.com/vi/b34JBxYxhUQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB22A9l5IalghjegUmMExpxXpheJQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Madina_Aknazarova_Dil_Ba_Dil_2020.mp4",
       "publishedAt": "2026-07-20",
       "durationSec": 252
     }
