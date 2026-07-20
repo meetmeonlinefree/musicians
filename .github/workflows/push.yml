@@ -1,0 +1,34 @@
+name: Send Push Notification
+
+
+on:
+  push:
+    paths:
+      - "*.json"
+
+
+jobs:
+
+  notify:
+
+    runs-on: ubuntu-latest
+
+
+    steps:
+
+    - name: Send FCM
+      run: |
+
+        curl \
+        -X POST \
+        -H "Authorization: key=${{ secrets.FCM_KEY }}" \
+        -H "Content-Type: application/json" \
+        https://fcm.googleapis.com/fcm/send \
+        -d '
+        {
+          "to": "/topics/new_music",
+          "notification": {
+            "title":"🎵 Tajik Musician",
+            "body":"Добавлены новые песни!"
+          }
+        }'
