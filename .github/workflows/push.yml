@@ -1,34 +1,47 @@
-name: Send Push Notification
-
+name: Send Firebase Push
 
 on:
   push:
     paths:
-      - "*.json"
-
+      - "**/*.json"
 
 jobs:
-
   notify:
-
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: read
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Send FCM
-      run: |
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}'
 
-        curl \
-        -X POST \
-        -H "Authorization: key=${{ secrets.FCM_KEY }}" \
-        -H "Content-Type: application/json" \
-        https://fcm.googleapis.com/fcm/send \
-        -d '
-        {
-          "to": "/topics/new_music",
-          "notification": {
-            "title":"🎵 Tajik Musician",
-            "body":"Добавлены новые песни!"
-          }
-        }'
+      - name: Get Access Token
+        id: auth
+        run: |
+          ACCESS_TOKEN=$(gcloud auth application-default print-access-token)
+          echo "ACCESS_TOKEN=$ACCESS_TOKEN" >> $GITHUB_ENV
+
+      - name: Send Push Notification
+        run: |
+          curl -X POST \
+          -H "Authorization: Bearer $ACCESS_TOKEN" \
+          -H "Content-Type: application/json; UTF-8" \
+          https://fcm.googleapis.com/v1/projects/${{ secrets.FIREBASE_PROJECT_ID }}/messages:send \
+          -d '{
+            "message": {
+              "topic": "new_music",
+              "notification": {
+                "title": "🎵 Tajik Musician",
+                "body": "В приложении появились новые данные!"
+              },
+              "android": {
+                "priority": "HIGH"
+              }
+            }
+          }'
