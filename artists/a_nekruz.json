@@ -3,5 +3,26 @@
   "name": "Nekruz Niyozov",
   "image_url": "https://yt3.googleusercontent.com/TdbLqYqDqgEhnBEb3ckDoB1r9OP3jiWElEPMwNHb6TXrSxdE_Zw8Iccrz-m6HwcXu40NEJzloQ=s160-c-k-c0x00ffffff-no-rj",
   "videosCount": 0,
-  "videos": []
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_nekruz",
+      "title": "Nekruz Niyozov - Gar buvad umr",
+      "description": "Nekruz Niyozov - Gar buvad umr",
+      "image_url": "https://i.ytimg.com/vi/bOtZwW_E8N8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAdWfTHn5ql2k97bJeItanuZA7gVQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nekruz_Niyozov_Gar_buvad_umr_2021.mp4",
+      "publishedAt": "2026-07-20",
+      "durationSec": 196
+    },
+    {
+      "id": "2",
+      "artistId": "a_nekruz",
+      "title": "Nekruz Niyozov dukhtari tojik",
+      "description": "Nekruz Niyozov dukhtari tojik",
+      "image_url": "https://i.ytimg.com/vi/pwSmfmWpeWI/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYfyAkKEAwDw==&rs=AOn4CLBbc_jLUR-dWNkn8HoaN7dFgQm2lw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nekruz_Niyozov_dukhtari_tojik.mp4",
+      "publishedAt": "2026-07-20",
+      "durationSec": 159
+    }
+  ]
 }
