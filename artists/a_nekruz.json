@@ -2,7 +2,7 @@
   "id": "a_nekruz",
   "name": "Nekruz Niyozov",
   "image_url": "https://yt3.googleusercontent.com/TdbLqYqDqgEhnBEb3ckDoB1r9OP3jiWElEPMwNHb6TXrSxdE_Zw8Iccrz-m6HwcXu40NEJzloQ=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 2,
+  "videosCount": 3,
   "videos": [
     {
       "id": "1",
@@ -23,6 +23,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nekruz_Niyozov_dukhtari_tojik.mp4",
       "publishedAt": "2026-07-20",
       "durationSec": 159
+    },
+    {
+      "id": "3",
+      "artistId": "a_nekruz",
+      "title": "Некруз Ниёзов - Новый Памирский песня 2018",
+      "description": "Некруз Ниёзов - Новый Памирский песня 2018",
+      "image_url": "https://i.ytimg.com/vi/coqf8wk9pTk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDubyYJ1568rTOmlUgI1OhgrSbpBQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nekruz_New_pamir_song.mp4",
+      "publishedAt": "2026-07-21",
+      "durationSec": 205
     }
   ]
 }
