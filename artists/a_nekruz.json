@@ -2,7 +2,7 @@
   "id": "a_nekruz",
   "name": "Nekruz Niyozov",
   "image_url": "https://yt3.googleusercontent.com/TdbLqYqDqgEhnBEb3ckDoB1r9OP3jiWElEPMwNHb6TXrSxdE_Zw8Iccrz-m6HwcXu40NEJzloQ=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 5,
+  "videosCount": 6,
   "videos": [
     {
       "id": "1",
@@ -53,6 +53,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nekruz_Niyozov_osta_osta_2021.mp4",
       "publishedAt": "2026-07-21",
       "durationSec": 218
+    },
+    {
+      "id": "6",
+      "artistId": "a_nekruz",
+      "title": "Mehrnigor Rustam - Nekruz Niyozov - 2019 - Raks Bikun",
+      "description": "Mehrnigor Rustam - Nekruz Niyozov - 2019 - Raks Bikun",
+      "image_url": "https://i.ytimg.com/vi/IMHhwDwo0N4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC5BOR9Uz-pKKQVW07gMvsvIY9DWQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Mehrnigor_Nekruz_Raqs_bikun.mp4",
+      "publishedAt": "2026-07-21",
+      "durationSec": 192
     }
   ]
 }
