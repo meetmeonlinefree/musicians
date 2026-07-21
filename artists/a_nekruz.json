@@ -2,7 +2,7 @@
   "id": "a_nekruz",
   "name": "Nekruz Niyozov",
   "image_url": "https://yt3.googleusercontent.com/TdbLqYqDqgEhnBEb3ckDoB1r9OP3jiWElEPMwNHb6TXrSxdE_Zw8Iccrz-m6HwcXu40NEJzloQ=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 3,
+  "videosCount": 4,
   "videos": [
     {
       "id": "1",
@@ -33,6 +33,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nekruz_New_pamir_song.mp4",
       "publishedAt": "2026-07-21",
       "durationSec": 205
+    },
+    {
+      "id": "4",
+      "artistId": "a_nekruz",
+      "title": "Nekruz Niyozov & Daler Nazarov - Dukhtari dehqon",
+      "description": "Nekruz Niyozov & Daler Nazarov - Dukhtari dehqon",
+      "image_url": "https://i.ytimg.com/vi/g4wB4YvmjmI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCLW2r1-MIZ2Dq0HQjmG6jAvW8hBA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nekruz_Niyozov_Daler_Nazarov_Duxtari_Dehqot.mp4",
+      "publishedAt": "2026-07-21",
+      "durationSec": 414
     }
   ]
 }
