@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T04:31:29.038Z",
+  "updatedAt": "2026-07-22T10:30:21.702Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -161,6 +161,11 @@
       "id": "a_nekruz",
       "name": "Nekruz Niyozov",
       "image_url": "https://yt3.googleusercontent.com/TdbLqYqDqgEhnBEb3ckDoB1r9OP3jiWElEPMwNHb6TXrSxdE_Zw8Iccrz-m6HwcXu40NEJzloQ=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "a_rusram",
+      "name": "Rustam Azimi",
+      "image_url": "https://yt3.googleusercontent.com/HP4LJpIVmbxNNSTjyhoEgJ05_8anG7DJsNWeRpGVvV-20_8fR6jmX3LJyVFxhDWDL1FegI_bHA=s160-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
