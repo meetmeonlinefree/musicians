@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T10:40:07.896Z",
+  "updatedAt": "2026-07-22T11:01:40.374Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -166,6 +166,11 @@
       "id": "a_rusram",
       "name": "Rustam Azimi",
       "image_url": "https://yt3.googleusercontent.com/HP4LJpIVmbxNNSTjyhoEgJ05_8anG7DJsNWeRpGVvV-20_8fR6jmX3LJyVFxhDWDL1FegI_bHA=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "a_farahmand",
+      "name": "Farahmand Karimov",
+      "image_url": "https://i.ytimg.com/vi/E4jfmBSlvac/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD2mx13M_3Ij6kpUAjeY3jAaFVLCA"
     }
   ]
 }
