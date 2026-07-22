@@ -2,7 +2,7 @@
   "id": "a_rusram",
   "name": "Rustam Azimi",
   "image_url": "https://yt3.googleusercontent.com/HP4LJpIVmbxNNSTjyhoEgJ05_8anG7DJsNWeRpGVvV-20_8fR6jmX3LJyVFxhDWDL1FegI_bHA=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -11,6 +11,16 @@
       "description": "Rustam Azimi - Kabki Dari (2022)",
       "image_url": "https://i.ytimg.com/vi/47VD1i4bxuY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBuf0uStl6r3o4Tqjjg5uSEHhIhZA",
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Rustam_Azimi_Kabki_Dari_2022.mp4",
+      "publishedAt": "2026-07-22",
+      "durationSec": 212
+    },
+    {
+      "id": "2",
+      "artistId": "a_rusram",
+      "title": "Rustam Azimi - Leyla (2020)",
+      "description": "Rustam Azimi - Leyla (2020)",
+      "image_url": "https://i.ytimg.com/vi/Jaay28GD0Pk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtO03k1X597TmbrtB4JuWniamWrw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Rustam_Azimi_Leyla_2020.mp4",
       "publishedAt": "2026-07-22",
       "durationSec": 212
     }
