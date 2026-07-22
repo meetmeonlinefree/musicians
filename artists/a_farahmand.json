@@ -2,6 +2,17 @@
   "id": "a_farahmand",
   "name": "Farahmand Karimov",
   "image_url": "https://i.ytimg.com/vi/E4jfmBSlvac/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD2mx13M_3Ij6kpUAjeY3jAaFVLCA",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_farahmand",
+      "title": "Farahmand Karimov Ohi dil 2018",
+      "description": "Farahmand Karimov Ohi dil 2018",
+      "image_url": "https://i.ytimg.com/vi/gMV2VhJ66uU/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgVChKMA8=&rs=AOn4CLBAojB0mMU1yoW3FRIggVhaYuWutQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Farahmand_Karimov_Ohi_dil_2018.mp4",
+      "publishedAt": "2026-07-22",
+      "durationSec": 272
+    }
+  ]
 }
