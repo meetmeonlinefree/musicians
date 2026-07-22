@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T11:03:52.761Z",
+  "updatedAt": "2026-07-22T11:06:28.447Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -171,6 +171,11 @@
       "id": "a_farahmand",
       "name": "Farahmand Karimov",
       "image_url": "https://i.ytimg.com/vi/E4jfmBSlvac/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD2mx13M_3Ij6kpUAjeY3jAaFVLCA"
+    },
+    {
+      "id": "a_komronjon",
+      "name": "Komronjon Safarov",
+      "image_url": "https://i.ytimg.com/vi/01ZCccyFc8g/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAFpwowqYAUeT7DyQUwxqZY_PGCkw"
     }
   ]
 }
