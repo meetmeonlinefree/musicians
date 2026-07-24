@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T11:11:00.706Z",
+  "updatedAt": "2026-07-24T12:11:33.735Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -176,6 +176,11 @@
       "id": "a_komronjon",
       "name": "Komronjon Safarov",
       "image_url": "https://i.ytimg.com/vi/2eWlU-ud7gs/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGBMgGih_MA8=&rs=AOn4CLBtY9h_JjyIsJSJZpHIpVgw54HZFQ"
+    },
+    {
+      "id": "a_parem",
+      "name": "Parem",
+      "image_url": "https://i.ytimg.com/vi/lVTIJeFTVOk/hqdefault.jpg?sqp=-oaymwFBCOADEI4CSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGE8gRChyMA8=&rs=AOn4CLDhstHLSZNUVcHgHGJx7NmelkSIIw"
     }
   ]
 }
