@@ -2,7 +2,7 @@
   "id": "a_bwl",
   "name": "BWL Music",
   "image_url": "https://i.ytimg.com/vi/MWkYdIm_zLE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZ88hsdpqOjCZI_SHr9afTIwbyyw",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/BWL_tajik_longmix_rap.mp4",
       "publishedAt": "2025-05-11",
       "durationSec": 130
+    },
+    {
+      "id": "2",
+      "artistId": "a_bwl",
+      "title": "Jimmy Jimmy Tajik Remix – Noziya Karomatullo, Rustam Azimi, Zulaykho, OSIYA, Madina Aknazarova",
+      "description": "Jimmy Jimmy Tajik Remix – Noziya Karomatullo, Rustam Azimi, Zulaykho, OSIYA, Madina Aknazarova",
+      "image_url": "https://i.ytimg.com/vi/zDtuHfAzcz0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDhZEIo4pnUOafErdLh8aZ5E1gjMQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Jimmy_Jimmy_Tajik_Remix.mp4",
+      "publishedAt": "2026-07-29",
+      "durationSec": 186
     }
   ]
 }
