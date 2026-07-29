@@ -2,7 +2,7 @@
   "id": "a_shabnam",
   "name": "Shabnam Surayo",
   "image_url": "https://i.ytimg.com/vi/0iVHCiJc9JI/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARhlIFooSjAP&rs=AOn4CLDwbgC-w9SuiKp32u8pB4LCFghtSw",
-  "videosCount": 3,
+  "videosCount": 4,
   "videos": [
     {
       "id": "1",
@@ -33,6 +33,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Shabnam_Surayo_The_Queens_Remix.mp4",
       "publishedAt": "2026-07-20",
       "durationSec": 200
+    },
+    {
+      "id": "4",
+      "artistId": "a_shabnam",
+      "title": "Shabnam Surayo ft. Corleone, Battoz - Bebaht",
+      "description": "Shabnam Surayo ft. Corleone, Battoz - Bebaht",
+      "image_url": "https://i.ytimg.com/vi/YjwXRly17oI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCNHVZojk6czJjCO2yZSCCpidHHbg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Shabnam_Surayo_Bebaht_2026 Remix.mp4",
+      "publishedAt": "2026-07-29",
+      "durationSec": 238
     }
   ]
 }
