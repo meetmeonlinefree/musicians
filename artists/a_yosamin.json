@@ -2,7 +2,7 @@
   "id": "a_yosamin",
   "name": "Yosamin Davlatova",
   "image_url": "https://i.ytimg.com/vi/_N9TOc7qJdk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB20DVw6pq5o3c5UyC-t7i1FNECAw",
-  "videosCount": 3,
+  "videosCount": 4,
   "videos": [
     {
       "id": "1",
@@ -33,6 +33,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Yosamin_Davlatova_June_Jonum.mp4",
       "publishedAt": "2026-07-20",
       "durationSec": 179
+    },
+    {
+      "id": "4",
+      "artistId": "a_yosamin",
+      "title": "Yosamin Davlatova - Ey Khudo Megum",
+      "description": "Yosamin Davlatova - Ey Khudo Megum",
+      "image_url": "https://i.ytimg.com/vi/skLDmGdyMxM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA2KF5_WkRNuHzXNqIG8Jm3qKkHTw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Yosamin_Davlatova_Ey_Khudo_Megum.mp4",
+      "publishedAt": "2026-07-29",
+      "durationSec": 287
     }
   ]
 }
