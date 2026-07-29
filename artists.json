@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T06:17:17.456Z",
+  "updatedAt": "2026-07-29T06:24:15.361Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -181,6 +181,11 @@
       "id": "a_parem",
       "name": "Parem",
       "image_url": "https://i.ytimg.com/vi/lVTIJeFTVOk/hqdefault.jpg?sqp=-oaymwFBCOADEI4CSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGE8gRChyMA8=&rs=AOn4CLDhstHLSZNUVcHgHGJx7NmelkSIIw"
+    },
+    {
+      "id": "a_osiya",
+      "name": "OSIYA",
+      "image_url": "https://i.ytimg.com/vi/H1LlvdIWWEE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCvjTBFe-v5HJeVqN3VLiy9lQD44Q"
     }
   ]
 }
