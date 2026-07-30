@@ -2,7 +2,7 @@
   "id": "a_osiya",
   "name": "OSIYA",
   "image_url": "https://i.ytimg.com/vi/H1LlvdIWWEE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCvjTBFe-v5HJeVqN3VLiy9lQD44Q",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/OSIYA_Yorijon_2026.mp4",
       "publishedAt": "2026-07-29",
       "durationSec": 204
+    },
+    {
+      "id": "2",
+      "artistId": "a_osiya",
+      "title": "Osiya -Joni jonum",
+      "description": "Osiya -Joni jonum",
+      "image_url": "https://i.ytimg.com/vi/eF24geY9Jr0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBadx32g2xpNRvp3a99jw_X0x0jag",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Osiya_Joni_jonum2024.mp4",
+      "publishedAt": "2026-07-30",
+      "durationSec": 234
     }
   ]
 }
