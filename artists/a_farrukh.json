@@ -2,6 +2,17 @@
   "id": "a_farrukh",
   "name": "Farrukh Hasanov",
   "image_url": "https://yt3.ggpht.com/BoR0XDh1FRIkgN5k2l4DDdc8hTQASgPuVy35QPZeKI77wRNlLKPrwRVKIf1o50mUSU6Ai1na=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_farrukh",
+      "title": "HASANOV - Бек Исраилов - Иллюзия - 2025",
+      "description": "HASANOV - Бек Исраилов - Иллюзия - 2025",
+      "image_url": "https://i.ytimg.com/vi/SRbhE0YLHLY/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gEygaMA8=&rs=AOn4CLAxFprZsykjksST0QdEhSGpNYmctg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/HASANOV_Illusion_2025.mp4",
+      "publishedAt": "2026-08-02",
+      "durationSec": 207
+    }
+  ]
 }
