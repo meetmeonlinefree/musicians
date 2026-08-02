@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T15:45:43.876Z",
+  "updatedAt": "2026-08-02T15:57:51.050Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -196,6 +196,11 @@
       "id": "a_zolushka",
       "name": "Zolushka",
       "image_url": "https://i.ytimg.com/vi/cEVTem0Ah_o/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgSihHMA8=&rs=AOn4CLChBZQFQiO0Kogxh9l-aU1bJRccJg"
+    },
+    {
+      "id": "a_shabnam_s",
+      "name": "Shabnami Sobiri",
+      "image_url": "https://i.ytimg.com/vi/uwtJVBJ-VJM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB5creoUf-iLNgF6UMb5HBgRm_N6Q"
     }
   ]
 }
