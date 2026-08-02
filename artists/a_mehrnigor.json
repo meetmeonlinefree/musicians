@@ -2,7 +2,7 @@
   "id": "a_mehrnigor",
   "name": "Мехрнигор Рустам",
   "image_url": "https://i.ytimg.com/vi/SSlgMV_XDCU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDgAhuCTM9NFZsB6MVC1vZeb0AUZA",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/mehrnigor_rustam_dili_zor.mp4",
       "publishedAt": "2025-02-16",
       "durationSec": 240
+    },
+    {
+      "id": "2",
+      "artistId": "a_mehrnigor",
+      "title": "Мехрнигор Рустам - Духтари Хатлон",
+      "description": "Мехрнигор Рустам - Духтари Хатлон",
+      "image_url": "https://i.ytimg.com/vi/-_OH3i_pWKw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDCn-IwXWuLzxg95oKQ_X3OffkaMA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Mehrnigor_Rustam_Dukhtari_Khatlon.mp4",
+      "publishedAt": "2026-08-02",
+      "durationSec": 250
     }
   ]
 }
