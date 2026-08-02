@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T15:13:04.245Z",
+  "updatedAt": "2026-08-02T15:30:46.039Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -191,6 +191,11 @@
       "id": "a_farrukh",
       "name": "Farrukh Hasanov",
       "image_url": "https://yt3.ggpht.com/BoR0XDh1FRIkgN5k2l4DDdc8hTQASgPuVy35QPZeKI77wRNlLKPrwRVKIf1o50mUSU6Ai1na=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "id": "a_zolushka",
+      "name": "Zolushka",
+      "image_url": "https://i.ytimg.com/vi/cEVTem0Ah_o/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgSihHMA8=&rs=AOn4CLChBZQFQiO0Kogxh9l-aU1bJRccJg"
     }
   ]
 }
