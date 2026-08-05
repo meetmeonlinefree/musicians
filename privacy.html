@@ -1,99 +1,547 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Политика конфиденциальности - TajMusic</title>
-
-    <style>
-        body {
-            font-family: "Segoe UI", Tahoma, sans-serif;
-            margin: 0;
-            padding: 0;
-            background: #f3f3f3;
-            color: #222;
-            line-height: 1.7;
-        }
-
-        .container {
-            max-width: 900px;
-            margin: 40px auto;
-            background: #fff;
-            padding: 30px 40px;
-            border-radius: 12px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
-        }
-
-        h1 {
-            font-size: 28px;
-            margin-bottom: 10px;
-            color: #333;
-        }
-
-        .date {
-            color: #777;
-            font-size: 14px;
-            margin-bottom: 25px;
-        }
-
-        p {
-            margin: 10px 0;
-        }
-
-        b, strong {
-            color: #000;
-        }
-
-        .section-title {
-            font-size: 20px;
-            font-weight: bold;
-            margin-top: 25px;
-            margin-bottom: 10px;
-            color: #444;
-        }
-
-        ul {
-            padding-left: 20px;
-        }
-
-        li {
-            margin-bottom: 8px;
-        }
-    </style>
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5">
+  <title>Privacy Policy | WORLD MUSIC: Videos & Songs</title>
+  <meta name="description" content="Privacy Policy for WORLD MUSIC: Videos & Songs (com.neuronit.tajikmusician) by Neuron IT. Bilingual English & Russian.">
+  <style>
+    /* ----- Reset & Base ----- */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      background: #f8fafc;
+      color: #1e293b;
+      line-height: 1.6;
+      padding: 2rem 1rem;
+    }
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      background: white;
+      border-radius: 2rem;
+      box-shadow: 0 20px 40px -12px rgba(0,0,0,0.1);
+      padding: 2rem 1.5rem;
+    }
+    @media (min-width: 640px) {
+      body { padding: 3rem 1.5rem; }
+      .container { padding: 2.5rem 2.5rem; }
+    }
+    a {
+      color: #2563eb;
+      text-decoration: none;
+      word-break: break-word;
+    }
+    a:hover { text-decoration: underline; }
+    h1, h2, h3, h4 {
+      font-weight: 600;
+      line-height: 1.3;
+      letter-spacing: -0.01em;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 0.25rem;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .badge {
+      font-size: 0.7rem;
+      font-weight: 500;
+      background: #e2e8f0;
+      padding: 0.2rem 0.7rem;
+      border-radius: 999px;
+      color: #1e293b;
+      letter-spacing: 0.3px;
+      display: inline-block;
+    }
+    .badge-en { background: #dbeafe; color: #1e4a8f; }
+    .badge-ru { background: #f1f5f9; color: #334155; }
+    .subhead {
+      color: #475569;
+      margin-bottom: 2rem;
+      border-left: 4px solid #3b82f6;
+      padding-left: 1rem;
+      font-size: 0.95rem;
+    }
+    hr {
+      border: 0;
+      border-top: 1px solid #e2e8f0;
+      margin: 2rem 0;
+    }
+    /* ----- TOC & sticky nav ----- */
+    .toc {
+      background: #f1f5f9;
+      border-radius: 1.5rem;
+      padding: 1.5rem 1.5rem 1rem;
+      margin: 2rem 0 2rem;
+    }
+    .toc h2 {
+      font-size: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: #475569;
+      margin-bottom: 0.75rem;
+    }
+    .toc-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.3rem 0.8rem;
+    }
+    .toc a {
+      font-size: 0.9rem;
+      background: white;
+      padding: 0.2rem 0.9rem;
+      border-radius: 20px;
+      border: 1px solid #d1d9e6;
+      transition: 0.1s ease;
+      color: #1e293b;
+    }
+    .toc a:hover {
+      background: #2563eb;
+      color: white;
+      border-color: #2563eb;
+      text-decoration: none;
+    }
+    /* ----- Cards / sections ----- */
+    .policy-section {
+      background: white;
+      border-radius: 1.5rem;
+      padding: 1.5rem 1.25rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.02);
+      border: 1px solid #eef2f6;
+      transition: 0.2s;
+      scroll-margin-top: 1.5rem;
+    }
+    .policy-section:hover {
+      border-color: #cbd5e1;
+    }
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+      border-bottom: 2px solid #eef2f6;
+      padding-bottom: 0.5rem;
+    }
+    .section-header h2 {
+      font-size: 1.4rem;
+    }
+    .section-header span { font-size: 1.6rem; }
+    .lang-block {
+      margin-top: 1.2rem;
+    }
+    .lang-block:first-of-type { margin-top: 0.2rem; }
+    .lang-label {
+      display: inline-block;
+      font-size: 0.7rem;
+      font-weight: 600;
+      background: #eef2f6;
+      padding: 0.1rem 0.7rem;
+      border-radius: 30px;
+      margin-bottom: 0.3rem;
+      letter-spacing: 0.3px;
+      color: #334155;
+    }
+    .lang-label.en { background: #dbeafe; color: #1e3a8a; }
+    .lang-label.ru { background: #f1f5f9; color: #1e293b; }
+    .lang-content {
+      margin-left: 0.25rem;
+      padding-left: 0.5rem;
+      border-left: 3px solid #e2e8f0;
+    }
+    .lang-content p {
+      margin: 0.7rem 0;
+    }
+    ul, ol {
+      padding-left: 1.5rem;
+      margin: 0.5rem 0 1rem;
+    }
+    li {
+      margin-bottom: 0.3rem;
+    }
+    .highlight-box {
+      background: #f8fafc;
+      border-radius: 1rem;
+      padding: 1rem 1.2rem;
+      margin: 1rem 0;
+      border-left: 4px solid #2563eb;
+    }
+    .contact-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0.5rem;
+      background: #f8fafc;
+      padding: 1rem 1.2rem;
+      border-radius: 1rem;
+      margin: 1rem 0;
+    }
+    @media (min-width: 480px) {
+      .contact-grid { grid-template-columns: 1fr 1fr; }
+    }
+    /* back to top */
+    .back-top {
+      display: inline-block;
+      margin-top: 2rem;
+      background: #eef2f6;
+      padding: 0.5rem 1.5rem;
+      border-radius: 40px;
+      font-weight: 500;
+      font-size: 0.9rem;
+      color: #1e293b;
+      border: 1px solid #d1d9e6;
+      transition: 0.2s;
+    }
+    .back-top:hover {
+      background: #2563eb;
+      color: white;
+      border-color: #2563eb;
+      text-decoration: none;
+    }
+    footer {
+      margin-top: 2.5rem;
+      font-size: 0.85rem;
+      text-align: center;
+      color: #64748b;
+      border-top: 1px solid #e2e8f0;
+      padding-top: 1.5rem;
+    }
+    .footer-links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.5rem 1.2rem;
+      margin: 0.5rem 0;
+    }
+    /* print */
+    @media print {
+      body { background: white; padding: 0.5rem; }
+      .container { box-shadow: none; padding: 1rem; }
+      .toc { background: #f1f5f9; break-inside: avoid; }
+      .policy-section { break-inside: avoid; border: 1px solid #ccc; }
+      .back-top { display: none; }
+    }
+    /* accessibility */
+    :focus-visible {
+      outline: 3px solid #2563eb;
+      outline-offset: 2px;
+    }
+  </style>
 </head>
 <body>
+<div class="container" id="top">
 
-<div class="container">
-    <h1>Политика конфиденциальности  - TajMusic</h1>
-    <div class="date">Дата: 2025-11-25</div>
+  <!-- header -->
+  <header>
+    <h1>
+      <span>📋 Privacy Policy</span>
+      <span class="badge badge-en">EN</span>
+      <span class="badge badge-ru">RU</span>
+    </h1>
+    <div class="subhead">
+      <strong>WORLD MUSIC: Videos &amp; Songs</strong> · <span id="packageName">com.neuronit.tajikmusician</span><br>
+      <span>Effective: August 5, 2026 · Last updated: August 5, 2026</span>
+    </div>
+  </header>
 
-    <p>Мы ценим вашу конфиденциальность и гарантируем, что не собираем и не обрабатываем никакие персональные данные при использовании нашего приложения.</p>
+  <!-- TOC sticky -->
+  <nav class="toc" aria-label="Table of contents">
+    <h2>📑 Contents</h2>
+    <div class="toc-grid">
+      <a href="#intro">1. Intro</a>
+      <a href="#app-id">2. App ID</a>
+      <a href="#dev-id">3. Developer</a>
+      <a href="#info-collect">4. Info collected</a>
+      <a href="#permissions">5. Permissions</a>
+      <a href="#downloaded">6. Downloaded videos</a>
+      <a href="#thirdparty">7. Third‑party</a>
+      <a href="#children">8. Children</a>
+      <a href="#security">9. Security</a>
+      <a href="#international">10. International</a>
+      <a href="#changes">11. Changes</a>
+      <a href="#contact">12. Contact</a>
+    </div>
+  </nav>
 
-    <div class="section-title">1. Сбор данных</div>
-    <ul>
-        <li>Наше приложение не собирает личную информацию пользователей. Мы не требуем регистрации, ввода данных или любых действий, ведущих к сбору персональной информации.</li>
-    </ul>
+  <!-- ==================== SECTION 1 ==================== -->
+  <section class="policy-section" id="intro">
+    <div class="section-header"><span>📌</span><h2>1. Introduction</h2></div>
+    <div class="lang-block">
+      <span class="lang-label en">🇬🇧 English</span>
+      <div class="lang-content">
+        <p><strong>Neuron IT</strong> (“we”, “our”, “us”) respects your privacy. This Privacy Policy describes how we handle information when you use the <strong>WORLD MUSIC: Videos &amp; Songs</strong> application (the “App”). By using the App, you agree to this policy.</p>
+        <p>This policy applies exclusively to the App and its services, not to any third‑party websites or platforms linked therein.</p>
+      </div>
+    </div>
+    <div class="lang-block">
+      <span class="lang-label ru">🇷🇺 Русский</span>
+      <div class="lang-content">
+        <p><strong>Neuron IT</strong> («мы», «наш», «нас») уважает вашу конфиденциальность. Настоящая Политика конфиденциальности описывает, как мы обрабатываем информацию при использовании приложения <strong>WORLD MUSIC: Videos &amp; Songs</strong> (далее — «Приложение»). Используя Приложение, вы соглашаетесь с данной политикой.</p>
+        <p>Эта политика применяется исключительно к Приложению и его сервисам, а не к сторонним веб-сайтам или платформам, на которые есть ссылки.</p>
+      </div>
+    </div>
+  </section>
 
-    <div class="section-title">2. Использование данных</div>
-    <ul>
-        <li>Мы не используем и не обрабатываем персональные данные пользователей, поскольку приложение предоставляет доступ к музыке без необходимости передачи информации о пользователе.</li>
-    </ul>
+  <!-- ==================== SECTION 2 ==================== -->
+  <section class="policy-section" id="app-id">
+    <div class="section-header"><span>📱</span><h2>2. Application Identification</h2></div>
+    <div class="lang-block">
+      <span class="lang-label en">🇬🇧 English</span>
+      <div class="lang-content">
+        <p><strong>Application Name:</strong> WORLD MUSIC: Videos &amp; Songs</p>
+        <p><strong>Package Name:</strong> com.neuronit.tajikmusician</p>
+        <p>This Privacy Policy applies specifically to the application <strong>WORLD MUSIC: Videos &amp; Songs</strong> (com.neuronit.tajikmusician) developed and published by <strong>Neuron IT</strong>.</p>
+      </div>
+    </div>
+    <div class="lang-block">
+      <span class="lang-label ru">🇷🇺 Русский</span>
+      <div class="lang-content">
+        <p><strong>Название приложения:</strong> WORLD MUSIC: Videos &amp; Songs</p>
+        <p><strong>Имя пакета:</strong> com.neuronit.tajikmusician</p>
+        <p>Настоящая Политика конфиденциальности применяется именно к приложению <strong>WORLD MUSIC: Videos &amp; Songs</strong> (com.neuronit.tajikmusician), разработанному и опубликованному <strong>Neuron IT</strong>.</p>
+      </div>
+    </div>
+  </section>
 
-    <div class="section-title">3. Cookies и аналитика</div>
-    <ul>
-        <li>Приложение не использует cookies или любые инструменты для анализа поведения пользователей.</li>
-    </ul>
+  <!-- ==================== SECTION 3 ==================== -->
+  <section class="policy-section" id="dev-id">
+    <div class="section-header"><span>👤</span><h2>3. Developer Identification</h2></div>
+    <div class="lang-block">
+      <span class="lang-label en">🇬🇧 English</span>
+      <div class="lang-content">
+        <p><strong>Developer:</strong> Neuron IT</p>
+        <p><strong>Contact Email:</strong> <a href="mailto:meetmeonlinefree@gmail.com">meetmeonlinefree@gmail.com</a></p>
+        <p><strong>Website:</strong> <a href="https://tajmusic.vercel.app">https://tajmusic.vercel.app</a></p>
+        <p>This Privacy Policy is published by Neuron IT and applies to the App published under the developer name <strong>Neuron IT</strong>.</p>
+      </div>
+    </div>
+    <div class="lang-block">
+      <span class="lang-label ru">🇷🇺 Русский</span>
+      <div class="lang-content">
+        <p><strong>Разработчик:</strong> Neuron IT</p>
+        <p><strong>Электронная почта:</strong> <a href="mailto:meetmeonlinefree@gmail.com">meetmeonlinefree@gmail.com</a></p>
+        <p><strong>Веб-сайт:</strong> <a href="https://tajmusic.vercel.app">https://tajmusic.vercel.app</a></p>
+        <p>Настоящая Политика конфиденциальности опубликована Neuron IT и применяется к Приложению, опубликованному под именем разработчика <strong>Neuron IT</strong>.</p>
+      </div>
+    </div>
+  </section>
 
-    <div class="section-title">4. Изменения в Политике</div>
-    <p>Мы оставляем за собой право изменять Политику конфиденциальности. При значительных изменениях мы уведомим пользователей через приложение.</p>
+  <!-- ==================== SECTION 4 ==================== -->
+  <section class="policy-section" id="info-collect">
+    <div class="section-header"><span>🔍</span><h2>4. Information We Collect</h2></div>
+    <div class="lang-block">
+      <span class="lang-label en">🇬🇧 English</span>
+      <div class="lang-content">
+        <p><strong>No user registration is required.</strong> The App does not collect, store, or transmit any personal information such as name, email, phone number, or location.</p>
+        <p>The App itself does not collect analytics, crash logs, or usage data. However, Google Play Services, the Android operating system, and YouTube (when accessing video content) may collect certain data as described in their respective privacy policies. We do not control those services.</p>
+        <p>We do not access or store files on your device except for videos you explicitly choose to download (see Section 6).</p>
+      </div>
+    </div>
+    <div class="lang-block">
+      <span class="lang-label ru">🇷🇺 Русский</span>
+      <div class="lang-content">
+        <p><strong>Регистрация не требуется.</strong> Приложение не собирает, не хранит и не передаёт личную информацию, такую как имя, адрес электронной почты, номер телефона или местоположение.</p>
+        <p>Само Приложение не собирает аналитику, логи сбоев или данные об использовании. Однако Google Play Services, операционная система Android и YouTube (при доступе к видеоконтенту) могут собирать определённые данные в соответствии со своими политиками конфиденциальности. Мы не контролируем эти сервисы.</p>
+        <p>Мы не получаем доступ и не храним файлы на вашем устройстве, кроме видео, которые вы явно решите загрузить (см. Раздел 6).</p>
+      </div>
+    </div>
+  </section>
 
-    <div class="section-title">5. Контакты</div>
-    <p>Если у вас есть вопросы или замечания, свяжитесь с нами через наш meetmeonlinefree@gmail.com.</p>
+  <!-- ==================== SECTION 5 ==================== -->
+  <section class="policy-section" id="permissions">
+    <div class="section-header"><span>🔐</span><h2>5. Permissions Used</h2></div>
+    <div class="lang-block">
+      <span class="lang-label en">🇬🇧 English</span>
+      <div class="lang-content">
+        <ul>
+          <li><strong>Storage permission (READ_EXTERNAL_STORAGE / WRITE_EXTERNAL_STORAGE):</strong> Used solely to save downloaded videos to your device’s local storage when you choose to download them. The App does not read other files.</li>
+          <li><strong>Internet permission (INTERNET):</strong> Required to fetch video content from YouTube and display it within the App. No other network activity is performed.</li>
+          <li>No other permissions are requested or used.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="lang-block">
+      <span class="lang-label ru">🇷🇺 Русский</span>
+      <div class="lang-content">
+        <ul>
+          <li><strong>Разрешение на хранилище (READ_EXTERNAL_STORAGE / WRITE_EXTERNAL_STORAGE):</strong> Используется исключительно для сохранения загруженных видео на локальное хранилище вашего устройства, когда вы решаете их скачать. Приложение не читает другие файлы.</li>
+          <li><strong>Разрешение на доступ к Интернету (INTERNET):</strong> Необходимо для получения видеоконтента с YouTube и его отображения в Приложении. Другая сетевая активность не выполняется.</li>
+          <li>Другие разрешения не запрашиваются и не используются.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
 
-    <div class="section-title">6. Согласие</div>
-    <p>Используя наше приложение, вы соглашаетесь с условиями этой Политики конфиденциальности. Если вы не согласны, пожалуйста, прекратите использование приложения.</p>
+  <!-- ==================== SECTION 6 ==================== -->
+  <section class="policy-section" id="downloaded">
+    <div class="section-header"><span>📥</span><h2>6. Downloaded Videos</h2></div>
+    <div class="lang-block">
+      <span class="lang-label en">🇬🇧 English</span>
+      <div class="lang-content">
+        <p>When you download a video, the file is stored in a dedicated folder on your device’s internal storage (or external SD card, depending on your settings). The App does not upload or share downloaded videos with any server or third party.</p>
+        <p>Downloaded videos remain on your device until you manually delete them. You are solely responsible for managing these files.</p>
+      </div>
+    </div>
+    <div class="lang-block">
+      <span class="lang-label ru">🇷🇺 Русский</span>
+      <div class="lang-content">
+        <p>Когда вы загружаете видео, файл сохраняется в специальную папку во внутреннем хранилище вашего устройства (или на внешней SD-карте, в зависимости от настроек). Приложение не загружает и не передаёт загруженные видео на какой-либо сервер или третьим лицам.</p>
+        <p>Загруженные видео остаются на вашем устройстве до тех пор, пока вы не удалите их вручную. Вы несёте полную ответственность за управление этими файлами.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== SECTION 7 ==================== -->
+  <section class="policy-section" id="thirdparty">
+    <div class="section-header"><span>🌐</span><h2>7. Third‑party Services</h2></div>
+    <div class="lang-block">
+      <span class="lang-label en">🇬🇧 English</span>
+      <div class="lang-content">
+        <p>The App integrates with the following third‑party services, each governed by its own privacy policy:</p>
+        <ul>
+          <li><strong>Google Play Services</strong> – <a href="https://policies.google.com/privacy" target="_blank">Google Privacy Policy</a></li>
+          <li><strong>YouTube API / YouTube</strong> – <a href="https://policies.google.com/privacy" target="_blank">YouTube/Google Privacy Policy</a></li>
+          <li><strong>Android OS</strong> – <a href="https://www.android.com/privacy" target="_blank">Android Privacy Policy</a></li>
+        </ul>
+        <p>We do not control how these platforms process your data. Please review their policies.</p>
+      </div>
+    </div>
+    <div class="lang-block">
+      <span class="lang-label ru">🇷🇺 Русский</span>
+      <div class="lang-content">
+        <p>Приложение интегрируется со следующими сторонними сервисами, каждый из которых регулируется собственной политикой конфиденциальности:</p>
+        <ul>
+          <li><strong>Google Play Services</strong> – <a href="https://policies.google.com/privacy" target="_blank">Политика конфиденциальности Google</a></li>
+          <li><strong>YouTube API / YouTube</strong> – <a href="https://policies.google.com/privacy" target="_blank">Политика конфиденциальности YouTube/Google</a></li>
+          <li><strong>Android OS</strong> – <a href="https://www.android.com/privacy" target="_blank">Политика конфиденциальности Android</a></li>
+        </ul>
+        <p>Мы не контролируем обработку ваших данных этими платформами. Пожалуйста, ознакомьтесь с их политиками.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== SECTION 8 ==================== -->
+  <section class="policy-section" id="children">
+    <div class="section-header"><span>🧒</span><h2>8. Children's Privacy</h2></div>
+    <div class="lang-block">
+      <span class="lang-label en">🇬🇧 English</span>
+      <div class="lang-content">
+        <p>The App does not knowingly collect personal information from children under the age of 13 (or under the applicable age in your jurisdiction). If you believe we have inadvertently collected such information, contact us so we can delete it.</p>
+      </div>
+    </div>
+    <div class="lang-block">
+      <span class="lang-label ru">🇷🇺 Русский</span>
+      <div class="lang-content">
+        <p>Приложение не собирает заведомо личную информацию от детей младше 13 лет (или младше применимого возраста в вашей юрисдикции). Если вы считаете, что мы непреднамеренно собрали такую информацию, свяжитесь с нами, чтобы мы могли её удалить.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== SECTION 9 ==================== -->
+  <section class="policy-section" id="security">
+    <div class="section-header"><span>🛡️</span><h2>9. Data Security</h2></div>
+    <div class="lang-block">
+      <span class="lang-label en">🇬🇧 English</span>
+      <div class="lang-content">
+        <p>Since the App does not collect or transmit personal data, we do not store any user information on our servers. Any downloaded videos remain on your device, and you are responsible for their security.</p>
+        <p>We follow industry best practices to protect the App from vulnerabilities, but no system is 100% secure.</p>
+      </div>
+    </div>
+    <div class="lang-block">
+      <span class="lang-label ru">🇷🇺 Русский</span>
+      <div class="lang-content">
+        <p>Поскольку Приложение не собирает и не передаёт личные данные, мы не храним информацию пользователей на наших серверах. Все загруженные видео остаются на вашем устройстве, и вы несёте ответственность за их безопасность.</p>
+        <p>Мы следуем отраслевым стандартам для защиты Приложения от уязвимостей, но ни одна система не является абсолютно безопасной.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== SECTION 10 ==================== -->
+  <section class="policy-section" id="international">
+    <div class="section-header"><span>🌍</span><h2>10. International Users</h2></div>
+    <div class="lang-block">
+      <span class="lang-label en">🇬🇧 English</span>
+      <div class="lang-content">
+        <p>The App is available worldwide. We do not process or store personal data, so data transfer regulations (such as GDPR) do not apply to our operations. However, third‑party services (Google, YouTube) may process data in accordance with their own policies.</p>
+      </div>
+    </div>
+    <div class="lang-block">
+      <span class="lang-label ru">🇷🇺 Русский</span>
+      <div class="lang-content">
+        <p>Приложение доступно по всему миру. Мы не обрабатываем и не храним личные данные, поэтому правила передачи данных (например, GDPR) не применяются к нашей деятельности. Однако сторонние сервисы (Google, YouTube) могут обрабатывать данные в соответствии со своими политиками.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== SECTION 11 ==================== -->
+  <section class="policy-section" id="changes">
+    <div class="section-header"><span>📅</span><h2>11. Changes to this Privacy Policy</h2></div>
+    <div class="lang-block">
+      <span class="lang-label en">🇬🇧 English</span>
+      <div class="lang-content">
+        <p>We may update this Privacy Policy from time to time. The “Last updated” date at the top of this page indicates when changes were made. We encourage you to review this policy periodically.</p>
+      </div>
+    </div>
+    <div class="lang-block">
+      <span class="lang-label ru">🇷🇺 Русский</span>
+      <div class="lang-content">
+        <p>Мы можем время от времени обновлять эту Политику конфиденциальности. Дата «Последнее обновление» в верхней части страницы указывает, когда были внесены изменения. Мы рекомендуем вам периодически пересматривать эту политику.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== SECTION 12 ==================== -->
+  <section class="policy-section" id="contact">
+    <div class="section-header"><span>📬</span><h2>12. Contact Information</h2></div>
+    <div class="lang-block">
+      <span class="lang-label en">🇬🇧 English</span>
+      <div class="lang-content">
+        <div class="contact-grid">
+          <div><strong>Developer:</strong> Neuron IT</div>
+          <div><strong>Application:</strong> WORLD MUSIC: Videos &amp; Songs</div>
+          <div><strong>Email:</strong> <a href="mailto:meetmeonlinefree@gmail.com">meetmeonlinefree@gmail.com</a></div>
+          <div><strong>Website:</strong> <a href="https://tajmusic.vercel.app">tajmusic.vercel.app</a></div>
+        </div>
+        <p>For any questions or concerns about this Privacy Policy, please contact us via email.</p>
+      </div>
+    </div>
+    <div class="lang-block">
+      <span class="lang-label ru">🇷🇺 Русский</span>
+      <div class="lang-content">
+        <div class="contact-grid">
+          <div><strong>Разработчик:</strong> Neuron IT</div>
+          <div><strong>Приложение:</strong> WORLD MUSIC: Videos &amp; Songs</div>
+          <div><strong>Email:</strong> <a href="mailto:meetmeonlinefree@gmail.com">meetmeonlinefree@gmail.com</a></div>
+          <div><strong>Веб-сайт:</strong> <a href="https://tajmusic.vercel.app">tajmusic.vercel.app</a></div>
+        </div>
+        <p>Если у вас есть вопросы или предложения по данной Политике конфиденциальности, свяжитесь с нами по электронной почте.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- back to top -->
+  <div style="text-align: right;">
+    <a href="#top" class="back-top">⬆ Back to top</a>
+  </div>
+
+  <!-- footer -->
+  <footer>
+    <p><strong>WORLD MUSIC: Videos &amp; Songs</strong> · <span id="footerPackage">com.neuronit.tajikmusician</span></p>
+    <p>© 2026 <strong>Neuron IT</strong>. All rights reserved.</p>
+    <div class="footer-links">
+      <a href="https://tajmusic.vercel.app">Website</a>
+      <a href="mailto:meetmeonlinefree@gmail.com">Contact</a>
+      <a href="#top">Privacy Policy</a>
+    </div>
+  </footer>
+
 </div>
-
+<!-- end container -->
 </body>
 </html>
