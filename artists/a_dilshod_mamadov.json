@@ -2,6 +2,17 @@
   "id": "a_dilshod_mamadov",
   "name": "DILSHOD MAMADOV",
   "image_url": "https://i.ytimg.com/vi/zbrD8rBuyqA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBfQD7s_EVs722I02VMtjncCuCqwQ",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_dilshod_mamadov",
+      "title": "DILSHOD MAMADOV - VATAN",
+      "description": "DILSHOD MAMADOV - VATAN",
+      "image_url": "https://i.ytimg.com/vi/zbrD8rBuyqA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBfQD7s_EVs722I02VMtjncCuCqwQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/DILSHOD_MAMADOV_VATAN.mp4",
+      "publishedAt": "2026-08-06",
+      "durationSec": 204
+    }
+  ]
 }
