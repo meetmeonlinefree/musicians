@@ -1,0 +1,15 @@
+{
+  "page": 6,
+  "count": 1,
+  "items": [
+    {
+      "id": "101",
+      "title": "Ravshan - Ganjina - Murumtae khurumta",
+      "description": "Ravshan - Ganjina - Murumtae khurumta",
+      "image_url": "https://i.ytimg.com/vi/BB8C59PmGbA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBpdMoHZFRkuiZlKDmHZMxLw4LVZQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Ravshan_Ganjina_Khurumta.mp4",
+      "publishedAt": "2026-08-06",
+      "durationSec": 177
+    }
+  ]
+}
