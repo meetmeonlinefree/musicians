@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-06T05:44:32.266Z",
+  "updatedAt": "2026-08-07T04:14:56.120Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -211,6 +211,11 @@
       "id": "a_ravshan_anaev",
       "name": "Ravshan Anaev",
       "image_url": "https://i.ytimg.com/vi/BB8C59PmGbA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBpdMoHZFRkuiZlKDmHZMxLw4LVZQ"
+    },
+    {
+      "id": "a_alisher_nabiev",
+      "name": "Alisher Nabiev",
+      "image_url": "https://yt3.googleusercontent.com/m95Wfi4JVCudcZNFkBatfWWh7Tr5m-ZPVBJg28Ef90sDa-rIR04DoHpJGfWWEjX5JAuCdei6=s176-c-k-c0x00ffffff-no-rj-mo"
     }
   ]
 }
