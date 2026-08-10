@@ -2,7 +2,7 @@
   "id": "a_yasmina",
   "name": "Yasmina",
   "image_url": "https://yt3.googleusercontent.com/Zn-7DBlGgDY9oLO1IEmPZMiVGAozKAsoMUePdBsZ1Ld8ugl_OdhVes2OQorIN7ef9fGRjJHZ7A=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 5,
+  "videosCount": 6,
   "videos": [
     {
       "id": "1",
@@ -53,6 +53,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Ay_Kabke_Kheraman___Yasmina.mp4",
       "publishedAt": "2026-08-10",
       "durationSec": 237
+    },
+    {
+      "id": "6",
+      "artistId": "a_yasmina",
+      "title": "Yasmina - Khiromon",
+      "description": "Yasmina - Khiromon",
+      "image_url": "https://i.ytimg.com/vi/9gWDpXnDGlw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB_NIAwQ0VsD_Vqv5D1spv0xui11Q",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Yasmina_Khiromon_Xit_Music_2025.mp4",
+      "publishedAt": "2026-08-10",
+      "durationSec": 194
     }
   ]
 }
