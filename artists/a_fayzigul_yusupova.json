@@ -2,6 +2,17 @@
   "id": "a_fayzigul_yusupova",
   "name": "Fayzigul Yusupova",
   "image_url": "https://yt3.ggpht.com/_MTdVh-8bxSVtTyhPHNuLUhUlk38NFtBiMh2QtWpGLE1gI6fbX1nFoBYrFmkoZYP8v2x-iVL=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_fayzigul_yusupova",
+      "title": "Fayzigul Yusupova - Khazon dida",
+      "description": "Fayzigul Yusupova - Khazon dida",
+      "image_url": "https://i.ytimg.com/vi/lPcE994qgSI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAkxcBjuJWqSr80XP73svDgi571ew",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Fayzigul_Yusupova_Khazon_dida.mp4",
+      "publishedAt": "2026-08-10",
+      "durationSec": 276
+    }
+  ]
 }
