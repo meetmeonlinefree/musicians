@@ -2,7 +2,7 @@
   "id": "a_yasmina",
   "name": "Yasmina",
   "image_url": "https://yt3.googleusercontent.com/Zn-7DBlGgDY9oLO1IEmPZMiVGAozKAsoMUePdBsZ1Ld8ugl_OdhVes2OQorIN7ef9fGRjJHZ7A=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 6,
+  "videosCount": 7,
   "videos": [
     {
       "id": "1",
@@ -63,6 +63,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Yasmina_Khiromon_Xit_Music_2025.mp4",
       "publishedAt": "2026-08-10",
       "durationSec": 194
+    },
+    {
+      "id": "7",
+      "artistId": "a_yasmina",
+      "title": "Yasmina - Zulfi Kajat",
+      "description": "Yasmina - Zulfi Kajat",
+      "image_url": "https://i.ytimg.com/vi/hrcnaldilyU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCJEcPyuM7JqIivD9KXW8Jy-Xy7hA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Yasmina_Zulfi_Kajat_Cover_2026.mp4",
+      "publishedAt": "2026-08-10",
+      "durationSec": 220
     }
   ]
 }
