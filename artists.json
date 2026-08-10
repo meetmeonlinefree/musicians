@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T10:45:31.271Z",
+  "updatedAt": "2026-08-10T10:49:29.532Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -216,6 +216,11 @@
       "id": "a_alisher_nabiev",
       "name": "Alisher Nabiev",
       "image_url": "https://yt3.googleusercontent.com/m95Wfi4JVCudcZNFkBatfWWh7Tr5m-ZPVBJg28Ef90sDa-rIR04DoHpJGfWWEjX5JAuCdei6=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "id": "a_fayzigul_yusupova",
+      "name": "Fayzigul Yusupova",
+      "image_url": "https://yt3.ggpht.com/_MTdVh-8bxSVtTyhPHNuLUhUlk38NFtBiMh2QtWpGLE1gI6fbX1nFoBYrFmkoZYP8v2x-iVL=s176-c-k-c0x00ffffff-no-rj-mo"
     }
   ]
 }
