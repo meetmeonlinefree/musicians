@@ -2,7 +2,7 @@
   "id": "a_yasmina",
   "name": "Yasmina",
   "image_url": "https://yt3.googleusercontent.com/Zn-7DBlGgDY9oLO1IEmPZMiVGAozKAsoMUePdBsZ1Ld8ugl_OdhVes2OQorIN7ef9fGRjJHZ7A=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 7,
+  "videosCount": 8,
   "videos": [
     {
       "id": "1",
@@ -73,6 +73,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Yasmina_Zulfi_Kajat_Cover_2026.mp4",
       "publishedAt": "2026-08-10",
       "durationSec": 220
+    },
+    {
+      "id": "8",
+      "artistId": "a_yasmina",
+      "title": "Yasmina - Khazon dida",
+      "description": "Yasmina - Khazon dida",
+      "image_url": "https://i.ytimg.com/vi/Jgn7Ycc-b-c/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBJAkXUNy1xGevv_egCxYiRdWFGDw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Yasmina_Khazon_dida_Fayzigul_Yusupova.mp4",
+      "publishedAt": "2026-08-10",
+      "durationSec": 268
     }
   ]
 }
