@@ -2,7 +2,7 @@
   "id": "a_yasmina",
   "name": "Yasmina",
   "image_url": "https://yt3.googleusercontent.com/Zn-7DBlGgDY9oLO1IEmPZMiVGAozKAsoMUePdBsZ1Ld8ugl_OdhVes2OQorIN7ef9fGRjJHZ7A=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 4,
+  "videosCount": 5,
   "videos": [
     {
       "id": "1",
@@ -43,6 +43,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Yasmina_Nozanin_Cover_2025.mp4",
       "publishedAt": "2026-08-10",
       "durationSec": 290
+    },
+    {
+      "id": "5",
+      "artistId": "a_yasmina",
+      "title": "Yasmina - Ay Kabke Kheraman",
+      "description": "Yasmina - Ay Kabke Kheraman",
+      "image_url": "https://i.ytimg.com/vi/YzkzIesPabQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBjve1v_oIFE0ILUFWwCn149c0ywQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Ay_Kabke_Kheraman___Yasmina.mp4",
+      "publishedAt": "2026-08-10",
+      "durationSec": 237
     }
   ]
 }
