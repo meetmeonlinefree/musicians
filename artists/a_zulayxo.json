@@ -2,7 +2,7 @@
   "id": "a_zulayxo",
   "name": "Зулайхо",
   "image_url": "https://i.ytimg.com/vi/PmEW8vxGCKI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC0AA0wuwWHJ_F4QrdwhK67ZklXiQ",
-  "videosCount": 12,
+  "videosCount": 13,
   "videos": [
     {
       "id": "1",
@@ -123,6 +123,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Zulaykho_Kavgak_2016.mp4",
       "publishedAt": "2026-08-08",
       "durationSec": 291
+    },
+    {
+      "id": "13",
+      "artistId": "a_zulayxo",
+      "title": "Yasmina - Ay Kabke Kheraman",
+      "description": "Yasmina - Ay Kabke Kheraman",
+      "image_url": "https://i.ytimg.com/vi/YzkzIesPabQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBjve1v_oIFE0ILUFWwCn149c0ywQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Ay_Kabke_Kheraman___Yasmina.mp4",
+      "publishedAt": "2026-08-10",
+      "durationSec": 237
     }
   ]
 }
