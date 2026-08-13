@@ -2,7 +2,7 @@
   "id": "a_golibjon_yusupov",
   "name": "Golibjon Yusupov",
   "image_url": "https://yt3.googleusercontent.com/PKrY-0IaKEZ5MTIIgWXL6ASmRh4ekGawHT-JAfwlCIGhN17_L9h1mvpQVLI48QlWgMDVoODq=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 4,
+  "videosCount": 5,
   "videos": [
     {
       "id": "1",
@@ -43,6 +43,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Golibjon_Yusupov_I_lost_you.mp4",
       "publishedAt": "2026-08-13",
       "durationSec": 350
+    },
+    {
+      "id": "5",
+      "artistId": "a_golibjon_yusupov",
+      "title": "Golibjon Yusupov - Aspsavor",
+      "description": "Golibjon Yusupov - Aspsavor",
+      "image_url": "https://i.ytimg.com/vi/ewpfWfwj_j0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBb74mKllpwShLetFupDvGJzKaMmA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Golibjon_Yusupov_Aspsavor.mp4",
+      "publishedAt": "2026-08-13",
+      "durationSec": 182
     }
   ]
 }
