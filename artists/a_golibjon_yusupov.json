@@ -2,7 +2,7 @@
   "id": "a_golibjon_yusupov",
   "name": "Golibjon Yusupov",
   "image_url": "https://yt3.googleusercontent.com/PKrY-0IaKEZ5MTIIgWXL6ASmRh4ekGawHT-JAfwlCIGhN17_L9h1mvpQVLI48QlWgMDVoODq=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 5,
+  "videosCount": 6,
   "videos": [
     {
       "id": "1",
@@ -53,6 +53,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Golibjon_Yusupov_Aspsavor.mp4",
       "publishedAt": "2026-08-13",
       "durationSec": 182
+    },
+    {
+      "id": "6",
+      "artistId": "a_golibjon_yusupov",
+      "title": "Голибчон Юсупов Панди падар 2014",
+      "description": "Голибчон Юсупов Панди падар 2014",
+      "image_url": "https://i.ytimg.com/vi/yIW4uJwka1Q/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGEggQihyMA8=&rs=AOn4CLBPSKgddD5g5KrWsFTBqSJrADYIZQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Golibjon_Yusupov_Pandi_Padar_2014.mp4",
+      "publishedAt": "2026-08-13",
+      "durationSec": 234
     }
   ]
 }
