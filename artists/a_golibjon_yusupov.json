@@ -2,7 +2,7 @@
   "id": "a_golibjon_yusupov",
   "name": "Golibjon Yusupov",
   "image_url": "https://yt3.googleusercontent.com/PKrY-0IaKEZ5MTIIgWXL6ASmRh4ekGawHT-JAfwlCIGhN17_L9h1mvpQVLI48QlWgMDVoODq=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 2,
+  "videosCount": 3,
   "videos": [
     {
       "id": "1",
@@ -23,6 +23,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/group_ehson_xola_xola_archive.mp4",
       "publishedAt": "2026-08-13",
       "durationSec": 266
+    },
+    {
+      "id": "3",
+      "artistId": "a_golibjon_yusupov",
+      "title": "Гул ба даст - гр. Эхсон",
+      "description": "Гул ба даст - гр. Эхсон",
+      "image_url": "https://i.ytimg.com/vi/IIVrmiqaU_E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_PiGRRCaym_WgWs3hYlbQANN5bQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/group_ehson_gul_ba_dast_archive.mp4",
+      "publishedAt": "2026-08-13",
+      "durationSec": 281
     }
   ]
 }
