@@ -2,7 +2,7 @@
   "id": "a_golibjon_yusupov",
   "name": "Golibjon Yusupov",
   "image_url": "https://yt3.googleusercontent.com/PKrY-0IaKEZ5MTIIgWXL6ASmRh4ekGawHT-JAfwlCIGhN17_L9h1mvpQVLI48QlWgMDVoODq=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Golibjon_Yusupov_Diya_Oshiqatam_Concert_2023.mp4",
       "publishedAt": "2026-08-13",
       "durationSec": 211
+    },
+    {
+      "id": "2",
+      "artistId": "a_golibjon_yusupov",
+      "title": "гр. Эхсон - Хола - Хола",
+      "description": "гр. Эхсон - Хола - Хола",
+      "image_url": "https://i.ytimg.com/vi/52MJrJ2Z6lc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFxMTwDtKFlw_ra03t3l2v74cM9A",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/group_ehson_xola_xola_archive.mp4",
+      "publishedAt": "2026-08-13",
+      "durationSec": 266
     }
   ]
 }
