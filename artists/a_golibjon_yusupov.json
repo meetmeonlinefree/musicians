@@ -2,7 +2,7 @@
   "id": "a_golibjon_yusupov",
   "name": "Golibjon Yusupov",
   "image_url": "https://yt3.googleusercontent.com/PKrY-0IaKEZ5MTIIgWXL6ASmRh4ekGawHT-JAfwlCIGhN17_L9h1mvpQVLI48QlWgMDVoODq=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 6,
+  "videosCount": 7,
   "videos": [
     {
       "id": "1",
@@ -63,6 +63,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Golibjon_Yusupov_Pandi_Padar_2014.mp4",
       "publishedAt": "2026-08-13",
       "durationSec": 234
+    },
+    {
+      "id": "7",
+      "artistId": "a_golibjon_yusupov",
+      "title": "Golibjon Yusupov - Khudo doram - Concert - 2020",
+      "description": "Golibjon Yusupov - Khudo doram - Concert - 2020",
+      "image_url": "https://i.ytimg.com/vi/AIfLPiBxqPg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTcmwYl80tCS-iQuLRt1BDQm9HoA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Golibjon_Yusupov_Khudo_doram_Concert_2020.mp4",
+      "publishedAt": "2026-08-13",
+      "durationSec": 413
     }
   ]
 }
