@@ -2,7 +2,7 @@
   "id": "a_golibjon_yusupov",
   "name": "Golibjon Yusupov",
   "image_url": "https://yt3.googleusercontent.com/PKrY-0IaKEZ5MTIIgWXL6ASmRh4ekGawHT-JAfwlCIGhN17_L9h1mvpQVLI48QlWgMDVoODq=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 7,
+  "videosCount": 8,
   "videos": [
     {
       "id": "1",
@@ -73,6 +73,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Golibjon_Yusupov_Khudo_doram_Concert_2020.mp4",
       "publishedAt": "2026-08-13",
       "durationSec": 413
+    },
+    {
+      "id": "8",
+      "artistId": "a_golibjon_yusupov",
+      "title": "Ситорахои Хучанд - Муборак",
+      "description": "Ситорахои Хучанд - Муборак",
+      "image_url": "https://i.ytimg.com/vi/5zjsNIx5TFE/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgWyg8MA8=&rs=AOn4CLDQ8dfE_Vx3MPFtac6fLcyigqUIEg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Gholibjon_Yusupov_Khujand_Stars_Muborak.mp4",
+      "publishedAt": "2026-08-17",
+      "durationSec": 320
     }
   ]
 }
