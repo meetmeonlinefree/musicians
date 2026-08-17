@@ -2,6 +2,17 @@
   "id": "a_tobish_hiloli",
   "name": "Tobish Hiloli",
   "image_url": "https://i.ytimg.com/vi/OtM2_WMvQq0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbey0dYvApgVaGhThBiKuIoNdqKg",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_tobish_hiloli",
+      "title": "Jafar - Tobish - Dubora mesozamat VATAN",
+      "description": "Jafar - Tobish - Dubora mesozamat VATAN",
+      "image_url": "https://i.ytimg.com/vi/0a_xsh9LUgc/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBBvmrINv881x90agbG1jxhLNqdHw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Tobish_Hiloli_Dubora_mesozamat_VATAN.mp4",
+      "publishedAt": "2026-08-17",
+      "durationSec": 281
+    }
+  ]
 }
