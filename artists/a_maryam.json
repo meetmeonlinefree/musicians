@@ -2,7 +2,7 @@
   "id": "a_maryam",
   "name": "Maryam",
   "image_url": "https://i.ytimg.com/vi/KsHNRcijvxE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBIsnonxqNowP5e2xvDtiU69DTDtg",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Maryam_Usto.mp4",
       "publishedAt": "2026-08-17",
       "durationSec": 324
+    },
+    {
+      "id": "2",
+      "artistId": "a_maryam",
+      "title": "Марям - Бибирайхон",
+      "description": "Марям - Бибирайхон",
+      "image_url": "https://i.ytimg.com/vi/VARfHt3TIjE/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gPygUMA8=&rs=AOn4CLAI2M5JTJUAtdXFYS8Di96Z5uddcg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Maryam_BibiRayhon.mp4",
+      "publishedAt": "2026-08-17",
+      "durationSec": 235
     }
   ]
 }
