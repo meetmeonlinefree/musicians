@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T12:40:47.722Z",
+  "updatedAt": "2026-08-17T10:17:50.836Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -226,6 +226,11 @@
       "id": "a_golibjon_yusupov",
       "name": "Golibjon Yusupov",
       "image_url": "https://yt3.googleusercontent.com/PKrY-0IaKEZ5MTIIgWXL6ASmRh4ekGawHT-JAfwlCIGhN17_L9h1mvpQVLI48QlWgMDVoODq=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "a_zakiya",
+      "name": "Zakiya",
+      "image_url": "https://i.ytimg.com/vi/0Xj91Y3APJg/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAgaGJEZLYVNmp25JF7ROwtTG4PLA"
     }
   ]
 }
