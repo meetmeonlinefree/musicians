@@ -2,7 +2,7 @@
   "id": "a_tobish_hiloli",
   "name": "Tobish Hiloli",
   "image_url": "https://i.ytimg.com/vi/OtM2_WMvQq0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbey0dYvApgVaGhThBiKuIoNdqKg",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Tobish_Hiloli_Dubora_mesozamat_VATAN.mp4",
       "publishedAt": "2026-08-17",
       "durationSec": 281
+    },
+    {
+      "id": "2",
+      "artistId": "a_tobish_hiloli",
+      "title": "Tobish Hiloli -  Sarsupurdai Vatan",
+      "description": "Tobish Hiloli -  Sarsupurdai Vatan",
+      "image_url": "https://i.ytimg.com/vi/OtM2_WMvQq0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbey0dYvApgVaGhThBiKuIoNdqKg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Tobish_Hiloli_Sarsupurdai_Vatan.mp4",
+      "publishedAt": "2026-08-17",
+      "durationSec": 262
     }
   ]
 }
