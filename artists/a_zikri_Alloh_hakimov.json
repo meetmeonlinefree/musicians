@@ -2,6 +2,17 @@
   "id": "a_zikri_Alloh_hakimov",
   "name": "Zikriolloh Hakimov",
   "image_url": "https://i.ytimg.com/vi/QgumOYUPbVA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCFeWGYoZX4WZqt01NR8YMkd-zKRA",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_zikri_Alloh_hakimov",
+      "title": "Zikriolloh Hakimov - Vatan",
+      "description": "Zikriolloh Hakimov - Vatan",
+      "image_url": "https://i.ytimg.com/vi/qnnFGXNrFvo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBli6_2GMT-11DfaPA0PPlAtg0-NA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Zikriolloh_Hakimov_Vatan2.mp4",
+      "publishedAt": "2026-08-17",
+      "durationSec": 315
+    }
+  ]
 }
