@@ -2,6 +2,17 @@
   "id": "a_nozimi_yusufzod",
   "name": "Nozimi Yusufzod",
   "image_url": "https://yt3.ggpht.com/Hq1w2h2qfEE0BpimiIFJBziHlw-apWz71QGn_lfEPokoN6XP1_PZNbn-hOqCPCHB9SFDLZjANmc=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_nozimi_yusufzod",
+      "title": "Нозими Юсуфзод - MAKTAБ - 2023",
+      "description": "Нозими Юсуфзод - MAKTAБ - 2023",
+      "image_url": "https://i.ytimg.com/vi/FJ8LIJUhTPI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDxOehhEv3HXIj0E8u9IJfzFS2Jrw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nozimi_Yusufzod_maktab_23.mp4",
+      "publishedAt": "2026-08-17",
+      "durationSec": 293
+    }
+  ]
 }
