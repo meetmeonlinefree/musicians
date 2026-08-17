@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-17T10:25:09.965Z",
+  "updatedAt": "2026-08-17T10:33:10.980Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -236,6 +236,11 @@
       "id": "a_zikri_Alloh_hakimov",
       "name": "Zikriolloh Hakimov",
       "image_url": "https://i.ytimg.com/vi/QgumOYUPbVA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCFeWGYoZX4WZqt01NR8YMkd-zKRA"
+    },
+    {
+      "id": "a_tobish_hiloli",
+      "name": "Tobish Hiloli",
+      "image_url": "https://i.ytimg.com/vi/OtM2_WMvQq0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbey0dYvApgVaGhThBiKuIoNdqKg"
     }
   ]
 }
