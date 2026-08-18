@@ -2,7 +2,7 @@
   "id": "a_maryam",
   "name": "Maryam",
   "image_url": "https://i.ytimg.com/vi/KsHNRcijvxE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBIsnonxqNowP5e2xvDtiU69DTDtg",
-  "videosCount": 2,
+  "videosCount": 3,
   "videos": [
     {
       "id": "1",
@@ -23,6 +23,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Maryam_BibiRayhon.mp4",
       "publishedAt": "2026-08-17",
       "durationSec": 235
+    },
+    {
+      "id": "3",
+      "artistId": "a_maryam",
+      "title": "Марям - Анори дона",
+      "description": "Марям - Анори дона",
+      "image_url": "https://i.ytimg.com/vi/Q-Wb5ipzy5s/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgWyheMA8=&rs=AOn4CLAu5lWPvrf23xGtk95ZFNweFLGm2w",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Maryam_Anori_dona_dona.mp4",
+      "publishedAt": "2026-08-18",
+      "durationSec": 229
     }
   ]
 }
