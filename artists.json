@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-17T11:58:56.617Z",
+  "updatedAt": "2026-08-18T06:13:11.302Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -251,6 +251,11 @@
       "id": "a_nozimi_yusufzod",
       "name": "Nozimi Yusufzod",
       "image_url": "https://yt3.ggpht.com/Hq1w2h2qfEE0BpimiIFJBziHlw-apWz71QGn_lfEPokoN6XP1_PZNbn-hOqCPCHB9SFDLZjANmc=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "id": "a_gulasal_pulotova",
+      "name": "Gulasal Pulatova",
+      "image_url": "https://yt3.googleusercontent.com/X9FbTnW7MgyoCPuY-dozuGWlDpBA4tS-TGswIh7zLqNiiQPz8yyW-PN0vDLi00d_66vdFTKS=s160-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
