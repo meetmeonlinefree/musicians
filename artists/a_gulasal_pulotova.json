@@ -2,7 +2,7 @@
   "id": "a_gulasal_pulotova",
   "name": "Gulasal Pulatova",
   "image_url": "https://yt3.googleusercontent.com/X9FbTnW7MgyoCPuY-dozuGWlDpBA4tS-TGswIh7zLqNiiQPz8yyW-PN0vDLi00d_66vdFTKS=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Gulasal_Pulotova_Birav.mp4",
       "publishedAt": "2026-08-18",
       "durationSec": 217
+    },
+    {
+      "id": "2",
+      "artistId": "a_gulasal_pulotova",
+      "title": "Gulasal Pulotovа - INTIZORI",
+      "description": "Gulasal Pulotovа - INTIZORI",
+      "image_url": "https://i.ytimg.com/vi/-5IGHSN3ZOU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDaybunDJO_fcsrv0bILjKtlSp0DA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Gulasal_Pulotovа_INTIZORI.mp4",
+      "publishedAt": "2026-08-18",
+      "durationSec": 265
     }
   ]
 }
