@@ -2,6 +2,17 @@
   "id": "a_daleri_xayriddin",
   "name": "Daleri Khayriddin",
   "image_url": "https://yt3.googleusercontent.com/79reA9JbZ2okIK-gR_nxxbIXLNrMtMH9-1gkyRQeBDGIUy6P1EbPaBzmQIfGor2NTXx1e4WQMw=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_daleri_xayriddin",
+      "title": "Daleri Khayriddin Rezaboron",
+      "description": "Daleri Khayriddin Rezaboron",
+      "image_url": "https://i.ytimg.com/vi/JOBIE6HWQVY/hqdefault.jpg?sqp=-oaymwFBCOADEI4CSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-AoACoAKKAgwIABABGGUgXygqMA8=&rs=AOn4CLA1I9oid6K6dd6FZVQEDTYINBgCBA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Daleri_Khayriddin_Rezaboron.mp4",
+      "publishedAt": "2026-08-19",
+      "durationSec": 254
+    }
+  ]
 }
