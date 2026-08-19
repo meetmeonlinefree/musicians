@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T11:33:15.502Z",
+  "updatedAt": "2026-08-19T11:42:59.328Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -261,6 +261,11 @@
       "id": "a_daleri_xayriddin",
       "name": "Daleri Khayriddin",
       "image_url": "https://yt3.googleusercontent.com/79reA9JbZ2okIK-gR_nxxbIXLNrMtMH9-1gkyRQeBDGIUy6P1EbPaBzmQIfGor2NTXx1e4WQMw=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "id": "a_valijon_azizov",
+      "name": "Valijon Azizov",
+      "image_url": "https://yt3.googleusercontent.com/pP12bojSZI6s_1s9TWPDRvP-dmR9tBYAmMlll7yXzzp7DJ1W8e13EKTa9PTD3hfluetjqIteog=s160-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
