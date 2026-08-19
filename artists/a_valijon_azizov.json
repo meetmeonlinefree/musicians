@@ -2,6 +2,17 @@
   "id": "a_valijon_azizov",
   "name": "Valijon Azizov",
   "image_url": "https://yt3.googleusercontent.com/pP12bojSZI6s_1s9TWPDRvP-dmR9tBYAmMlll7yXzzp7DJ1W8e13EKTa9PTD3hfluetjqIteog=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_valijon_azizov",
+      "title": "Valijon Azizov - Man Oshiqi Tu Hastam",
+      "description": "Valijon Azizov - Man Oshiqi Tu Hastam",
+      "image_url": "https://i.ytimg.com/vi/tHKlKHZncJs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBwc4yCeA4wPyRbP2_VmZj3OTRabg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Valijon_Azizov_Oshiqi_tu_hastam.mp4",
+      "publishedAt": "2026-08-19",
+      "durationSec": 239
+    }
+  ]
 }
