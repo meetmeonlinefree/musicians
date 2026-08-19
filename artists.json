@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-18T06:37:44.933Z",
+  "updatedAt": "2026-08-19T11:26:57.967Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -256,6 +256,11 @@
       "id": "a_gulasal_pulotova",
       "name": "Gulasal Pulatova",
       "image_url": "https://yt3.googleusercontent.com/X9FbTnW7MgyoCPuY-dozuGWlDpBA4tS-TGswIh7zLqNiiQPz8yyW-PN0vDLi00d_66vdFTKS=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "a_daleri_xayriddin",
+      "name": "Daleri Khayriddin",
+      "image_url": "https://yt3.googleusercontent.com/79reA9JbZ2okIK-gR_nxxbIXLNrMtMH9-1gkyRQeBDGIUy6P1EbPaBzmQIfGor2NTXx1e4WQMw=s176-c-k-c0x00ffffff-no-rj-mo"
     }
   ]
 }
