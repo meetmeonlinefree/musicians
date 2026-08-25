@@ -2,7 +2,7 @@
   "id": "a_manija_davlatova",
   "name": "Manija Davlatova",
   "image_url": "https://i.ytimg.com/vi/CAh9cL9f_dU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC9Nn3wkmgexmybJiuygeqLzpJxBA",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Manija_Davlatova_Ozor_bigzarad.mp4",
       "publishedAt": "2026-08-25",
       "durationSec": 350
+    },
+    {
+      "id": "2",
+      "artistId": "a_manija_davlatova",
+      "title": "Manizha Davlatova - Boz omadi",
+      "description": "Manizha Davlatova - Boz omadi",
+      "image_url": "https://i.ytimg.com/vi/BgqRJyUPEgQ/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGEMgZSgSMA8=&rs=AOn4CLBaxTDqazA_5n5IGHBYYzJGCGE04Q",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Manizha_Davlatova_Boz_omadi_mp3_Version.mp4",
+      "publishedAt": "2026-08-25",
+      "durationSec": 258
     }
   ]
 }
