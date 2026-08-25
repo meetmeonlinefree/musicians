@@ -2,6 +2,17 @@
   "id": "a_manija_davlatova",
   "name": "Manija Davlatova",
   "image_url": "https://i.ytimg.com/vi/CAh9cL9f_dU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC9Nn3wkmgexmybJiuygeqLzpJxBA",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_manija_davlatova",
+      "title": "Manija Davlatova - Ozor bigzarad",
+      "description": "Manija Davlatova - Ozor bigzarad",
+      "image_url": "https://i.ytimg.com/vi/CAh9cL9f_dU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC9Nn3wkmgexmybJiuygeqLzpJxBA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Manija_Davlatova_Ozor_bigzarad.mp4",
+      "publishedAt": "2026-08-25",
+      "durationSec": 350
+    }
+  ]
 }
