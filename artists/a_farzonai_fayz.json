@@ -2,6 +2,17 @@
   "id": "a_farzonai_fayz",
   "name": "Farzonai Fayz",
   "image_url": "https://i.ytimg.com/vi/KwSw9wfdp7E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_AHC2-n1GIE4DQT7iE9HcV9nGqA",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_farzonai_fayz",
+      "title": "Farzonai Fayz - Dilum dard megira",
+      "description": "Farzonai Fayz - Dilum dard megira",
+      "image_url": "https://i.ytimg.com/vi/KwSw9wfdp7E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_AHC2-n1GIE4DQT7iE9HcV9nGqA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Farzonai_Fayz_Dilum_dard_megira.mp4",
+      "publishedAt": "2026-08-25",
+      "durationSec": 258
+    }
+  ]
 }
