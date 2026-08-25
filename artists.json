@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T11:52:36.120Z",
+  "updatedAt": "2026-08-25T05:41:36.896Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -271,6 +271,11 @@
       "id": "a_tolibjon_ismoilov",
       "name": "Tolibjon_Ismoilov",
       "image_url": "https://i.ytimg.com/vi/VsvVp2kNNN4/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgWihKMA8=&rs=AOn4CLCYhemDhqBZlkteuwSOX5xJUVgtCQ"
+    },
+    {
+      "id": "a_shahlo_hafizova",
+      "name": "Shahlo Hafizova",
+      "image_url": "https://yt3.googleusercontent.com/WbCCzzVBhcArhD6Rq7PdDuSi0YfggBBztzZ0ugF6G8bMtUR-GjmW6DxSbd_skJPpn1Bz52J6=s176-c-k-c0x00ffffff-no-rj-mo"
     }
   ]
 }
