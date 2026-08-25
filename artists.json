@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T05:52:50.334Z",
+  "updatedAt": "2026-08-25T06:01:25.136Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -276,6 +276,11 @@
       "id": "a_shahlo_hafizova",
       "name": "Shahlo Hafizova",
       "image_url": "https://yt3.googleusercontent.com/WbCCzzVBhcArhD6Rq7PdDuSi0YfggBBztzZ0ugF6G8bMtUR-GjmW6DxSbd_skJPpn1Bz52J6=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "id": "a_shahlo_davlatova",
+      "name": "Shahlo Davlatova",
+      "image_url": "https://i.ytimg.com/vi/ApRVoO-_AG8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrIUo0gRluIGT2vF0xHTiF2Un4HQ"
     }
   ]
 }
