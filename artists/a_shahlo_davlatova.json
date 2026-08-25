@@ -2,6 +2,17 @@
   "id": "a_shahlo_davlatova",
   "name": "Shahlo Davlatova",
   "image_url": "https://i.ytimg.com/vi/ApRVoO-_AG8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrIUo0gRluIGT2vF0xHTiF2Un4HQ",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_shahlo_davlatova",
+      "title": "SHAHLO DAVLATA - DAR MULKI TOJIK",
+      "description": "SHAHLO DAVLATA - DAR MULKI TOJIK",
+      "image_url": "https://i.ytimg.com/vi/-1TH0ZeVsa4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC5nOxKbq89QUUt-D5ypfvWelVXcw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/SHAHLO_DAVLATA_DAR_MULKI_TOJIK.mp4",
+      "publishedAt": "2026-08-25",
+      "durationSec": 276
+    }
+  ]
 }
