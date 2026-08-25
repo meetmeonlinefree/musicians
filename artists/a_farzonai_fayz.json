@@ -2,7 +2,7 @@
   "id": "a_farzonai_fayz",
   "name": "Farzonai Fayz",
   "image_url": "https://i.ytimg.com/vi/KwSw9wfdp7E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_AHC2-n1GIE4DQT7iE9HcV9nGqA",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Farzonai_Fayz_Dilum_dard_megira.mp4",
       "publishedAt": "2026-08-25",
       "durationSec": 258
+    },
+    {
+      "id": "2",
+      "artistId": "a_farzonai_fayz",
+      "title": "Farzonai Fayz - Behuda khoram mekuni 2006",
+      "description": "Farzonai Fayz - Behuda khoram mekuni 2006",
+      "image_url": "https://i.ytimg.com/vi/oQkuRKaW7k4/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CIAC0AWKAgwIABABGGUgXShUMA8=&rs=AOn4CLD--LgKeRsIglLcpOvhECfJZ6RBkw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Farzonai_Fayz_Behuda_xoram_mekuni_2006.mp4",
+      "publishedAt": "2026-08-25",
+      "durationSec": 311
     }
   ]
 }
