@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T06:03:29.806Z",
+  "updatedAt": "2026-08-25T06:18:23.624Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -281,6 +281,11 @@
       "id": "a_shahlo_davlatova",
       "name": "Shahlo Davlatova",
       "image_url": "https://i.ytimg.com/vi/ApRVoO-_AG8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrIUo0gRluIGT2vF0xHTiF2Un4HQ"
+    },
+    {
+      "id": "a_farzonai_fayz",
+      "name": "Farzonai Fayz",
+      "image_url": "https://i.ytimg.com/vi/KwSw9wfdp7E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_AHC2-n1GIE4DQT7iE9HcV9nGqA"
     }
   ]
 }
