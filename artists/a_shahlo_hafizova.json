@@ -2,7 +2,7 @@
   "id": "a_shahlo_hafizova",
   "name": "Shahlo Hafizova",
   "image_url": "https://yt3.googleusercontent.com/WbCCzzVBhcArhD6Rq7PdDuSi0YfggBBztzZ0ugF6G8bMtUR-GjmW6DxSbd_skJPpn1Bz52J6=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Shahlo_Hafizova_Bobo_joon.mp4",
       "publishedAt": "2026-08-25",
       "durationSec": 202
+    },
+    {
+      "id": "2",
+      "artistId": "a_shahlo_hafizova",
+      "title": "Shahlo Hafizova - Chovandoz",
+      "description": "Shahlo Hafizova - Chovandoz",
+      "image_url": "https://i.ytimg.com/vi/fy2k012cJ2M/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBIv3lxI33lF3meHYtef1AzEPtVOQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Shahlo_Hafizova_Chovandoz.mp4",
+      "publishedAt": "2026-08-25",
+      "durationSec": 212
     }
   ]
 }
