@@ -2,7 +2,7 @@
   "id": "a_shahlo_davlatova",
   "name": "Shahlo Davlatova",
   "image_url": "https://i.ytimg.com/vi/ApRVoO-_AG8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrIUo0gRluIGT2vF0xHTiF2Un4HQ",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/SHAHLO_DAVLATA_DAR_MULKI_TOJIK.mp4",
       "publishedAt": "2026-08-25",
       "durationSec": 276
+    },
+    {
+      "id": "2",
+      "artistId": "a_shahlo_davlatova",
+      "title": "Shahlo Davlatova - SHALALA",
+      "description": "Shahlo Davlatova - SHALALA",
+      "image_url": "https://i.ytimg.com/vi/Fzf-dPSVLY4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD11IteI9wglxd56TnxBtAZWUWN3A",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Shahlo_Davlatova_SHALALA.mp4",
+      "publishedAt": "2026-08-25",
+      "durationSec": 202
     }
   ]
 }
