@@ -2,7 +2,7 @@
   "id": "a_nozimi_yusufzod",
   "name": "Nozimi Yusufzod",
   "image_url": "https://yt3.ggpht.com/Hq1w2h2qfEE0BpimiIFJBziHlw-apWz71QGn_lfEPokoN6XP1_PZNbn-hOqCPCHB9SFDLZjANmc=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nozimi_Yusufzod_maktab_23.mp4",
       "publishedAt": "2026-08-17",
       "durationSec": 293
+    },
+    {
+      "id": "2",
+      "artistId": "a_nozimi_yusufzod",
+      "title": "Nozimi Yusufzod - Dustoni Joni - 2024",
+      "description": "Nozimi Yusufzod - Dustoni Joni - 2024",
+      "image_url": "https://i.ytimg.com/vi/QqakZM1o5Hg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAJ_YoUFImHWfin2bWIUs4moKb8iA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nozimi_Yusufzod_Dustoni_Joni_2024.mp4",
+      "publishedAt": "2026-08-28",
+      "durationSec": 421
     }
   ]
 }
