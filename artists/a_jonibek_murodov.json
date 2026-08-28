@@ -2,6 +2,17 @@
   "id": "a_jonibek_murodov",
   "name": "Jonibek Murodov",
   "image_url": "https://i.ytimg.com/vi/NnolgvvjMlA/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAdGASAw-ejQrX1YqFNogCQFFUZXA&usqp=CCk",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_jonibek_murodov",
+      "title": "Jonibek Murodov - Yulduz Turdiyeva - Azizi dilam in Samarqand 2021",
+      "description": "Jonibek Murodov - Yulduz Turdiyeva - Azizi dilam in Samarqand 2021",
+      "image_url": "https://i.ytimg.com/vi/3lNlDpLq5JU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZzcbo9U9alWJfqJ1QGyn6b0bJPw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Jonibek_Murodov_Azizi_Dilam.mp4",
+      "publishedAt": "2026-08-28",
+      "durationSec": 288
+    }
+  ]
 }
