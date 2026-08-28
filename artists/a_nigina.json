@@ -2,7 +2,7 @@
   "id": "a_nigina",
   "name": "Nigina Amonqulova",
   "image_url": "https://i.ytimg.com/vi/jlzWSeGetyE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD-8nRtOSlvGU9FxTNW0Ho1yhIgVw",
-  "videosCount": 7,
+  "videosCount": 8,
   "videos": [
     {
       "id": "1",
@@ -73,6 +73,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nigina_Amonqulova_Otash.mp4",
       "publishedAt": "2026-08-07",
       "durationSec": 278
+    },
+    {
+      "id": "8",
+      "artistId": "a_nigina",
+      "title": "Nigina Amonqulova - Dilnoma",
+      "description": "Nigina Amonqulova - Dilnoma",
+      "image_url": "https://i.ytimg.com/vi/S43aFhexmEY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAqOSpAyhEPRJhIVpWF9DckdJCgUA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nigina_Amonqulova_Dilnoma.mp4",
+      "publishedAt": "2026-08-28",
+      "durationSec": 199
     }
   ]
 }
