@@ -2,6 +2,17 @@
   "id": "a_mehrafruz",
   "name": "Mehrafruz",
   "image_url": "https://yt3.ggpht.com/ymmhA7IAF2EITJ2lEiBqbMID_dipT3fz0IRrhdBifz2FsB-ffnU2xEPCx3L7G1LkX8wHL8k8hw=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_mehrafruz",
+      "title": "Challa ovardi - Mehrafruz",
+      "description": "Challa ovardi - Mehrafruz",
+      "image_url": "https://i.ytimg.com/vi/aTAT2SWYvSg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDH-rlIU3jdfKwgt9BNcf6qOlffdw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Challa_ovardi_Mehrafruz_2026.mp4",
+      "publishedAt": "2026-08-28",
+      "durationSec": 250
+    }
+  ]
 }
