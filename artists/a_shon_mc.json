@@ -2,6 +2,17 @@
   "id": "a_shon_mc",
   "name": "Shon MC",
   "image_url": "https://i.ytimg.com/vi/gqlz_Y4vzm8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBJbOHQitt6OqrNuktfNbxjOYkkxA",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_shon_mc",
+      "title": "Shon mc - Takmina - Bevafo",
+      "description": "Shon mc - Takmina - Bevafo",
+      "image_url": "https://i.ytimg.com/vi/b7ZlCeOQ2nc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDeNCG6FS407t_QLLpnoPY3jNsC0A",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Shon_mc_Takmina_Bevafo.mp4",
+      "publishedAt": "2026-08-28",
+      "durationSec": 209
+    }
+  ]
 }
