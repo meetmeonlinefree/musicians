@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T10:53:04.448Z",
+  "updatedAt": "2026-08-28T10:56:40.041Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -301,6 +301,11 @@
       "id": "a_fariduni_khurshed",
       "name": "Fariduni Khurshed",
       "image_url": "https://yt3.googleusercontent.com/8PFIn_YM3F4H8vsuhLRKGJFzXbpy-6Wb2Q_ZOW8S_lgDNcVLCllU5HASNaqJOKaJil58K0Mb=s72-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "a_shon_mc",
+      "name": "Shon MC",
+      "image_url": "https://i.ytimg.com/vi/gqlz_Y4vzm8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBJbOHQitt6OqrNuktfNbxjOYkkxA"
     }
   ]
 }
