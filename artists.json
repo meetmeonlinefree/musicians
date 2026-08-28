@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T10:59:14.245Z",
+  "updatedAt": "2026-08-28T11:09:51.728Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -306,6 +306,11 @@
       "id": "a_shon_mc",
       "name": "Shon MC",
       "image_url": "https://i.ytimg.com/vi/gqlz_Y4vzm8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBJbOHQitt6OqrNuktfNbxjOYkkxA"
+    },
+    {
+      "id": "a_mehrafruz",
+      "name": "Mehrafruz",
+      "image_url": "https://yt3.ggpht.com/ymmhA7IAF2EITJ2lEiBqbMID_dipT3fz0IRrhdBifz2FsB-ffnU2xEPCx3L7G1LkX8wHL8k8hw=s176-c-k-c0x00ffffff-no-rj-mo"
     }
   ]
 }
