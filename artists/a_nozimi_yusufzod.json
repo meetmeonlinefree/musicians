@@ -2,7 +2,7 @@
   "id": "a_nozimi_yusufzod",
   "name": "Nozimi Yusufzod",
   "image_url": "https://yt3.ggpht.com/Hq1w2h2qfEE0BpimiIFJBziHlw-apWz71QGn_lfEPokoN6XP1_PZNbn-hOqCPCHB9SFDLZjANmc=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 3,
+  "videosCount": 4,
   "videos": [
     {
       "id": "1",
@@ -33,6 +33,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nozimi_Yusufzod_Dilorom_2026.mp4",
       "publishedAt": "2026-08-28",
       "durationSec": 452
+    },
+    {
+      "id": "4",
+      "artistId": "a_nozimi_yusufzod",
+      "title": "Nozimi Yusufzod - TAMOM",
+      "description": "Nozimi Yusufzod - TAMOM",
+      "image_url": "https://i.ytimg.com/vi/N8fIayuonIA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBE8a63Movks1MyjG6IBrzRLEVilQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nozimi_Yusufzod_Tamom.mp4",
+      "publishedAt": "2026-08-28",
+      "durationSec": 179
     }
   ]
 }
