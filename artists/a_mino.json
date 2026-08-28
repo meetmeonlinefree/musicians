@@ -2,7 +2,7 @@
   "id": "a_mino",
   "name": "MINO",
   "image_url": "https://i.ytimg.com/vi/4RAUxeFsImA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDk9mSRZ7cj5JBcaGinsL8LYhVbQ",
-  "videosCount": 3,
+  "videosCount": 4,
   "videos": [
     {
       "id": "1",
@@ -33,6 +33,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Mino_Popuri_Afghoni.mp4",
       "publishedAt": "2026-08-28",
       "durationSec": 342
+    },
+    {
+      "id": "4",
+      "artistId": "a_mino",
+      "title": "Mino - Ajab Naghmagari",
+      "description": "Mino - Ajab Naghmagari",
+      "image_url": "https://i.ytimg.com/vi/1jlCceddGfw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB_uXA8DII-ZY0uNYk43MCQMvrKkA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Mino_Ajab_Naghmagari.mp4",
+      "publishedAt": "2026-08-28",
+      "durationSec": 425
     }
   ]
 }
