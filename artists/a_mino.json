@@ -2,7 +2,7 @@
   "id": "a_mino",
   "name": "MINO",
   "image_url": "https://i.ytimg.com/vi/4RAUxeFsImA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDk9mSRZ7cj5JBcaGinsL8LYhVbQ",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/musicians/refs/heads/main/videos/mino_bale_bale.mp4",
       "publishedAt": "2025-05-11",
       "durationSec": 130
+    },
+    {
+      "id": "2",
+      "artistId": "a_mino",
+      "title": "Mino - Umirayu - Qadami Qurbon",
+      "description": "Mino - Umirayu - Qadami Qurbon",
+      "image_url": "https://i.ytimg.com/vi/H1DlUXhr1hE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCHyojR6be0XHgfDzwbLUnev3pl4A",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Mino_Umirayu_Qadami_Qurbon.mp4",
+      "publishedAt": "2026-08-28",
+      "durationSec": 236
     }
   ]
 }
