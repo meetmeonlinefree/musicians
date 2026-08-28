@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T10:16:44.985Z",
+  "updatedAt": "2026-08-28T10:23:48.778Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -296,6 +296,11 @@
       "id": "a_jonibek_murodov",
       "name": "Jonibek Murodov",
       "image_url": "https://i.ytimg.com/vi/NnolgvvjMlA/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAdGASAw-ejQrX1YqFNogCQFFUZXA&usqp=CCk"
+    },
+    {
+      "id": "a_fariduni_khurshed",
+      "name": "Fariduni Khurshed",
+      "image_url": "https://yt3.googleusercontent.com/8PFIn_YM3F4H8vsuhLRKGJFzXbpy-6Wb2Q_ZOW8S_lgDNcVLCllU5HASNaqJOKaJil58K0Mb=s72-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
