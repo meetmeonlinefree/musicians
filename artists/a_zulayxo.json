@@ -2,7 +2,7 @@
   "id": "a_zulayxo",
   "name": "Зулайхо",
   "image_url": "https://i.ytimg.com/vi/PmEW8vxGCKI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC0AA0wuwWHJ_F4QrdwhK67ZklXiQ",
-  "videosCount": 13,
+  "videosCount": 14,
   "videos": [
     {
       "id": "1",
@@ -133,6 +133,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Ay_Kabke_Kheraman___Yasmina.mp4",
       "publishedAt": "2026-08-10",
       "durationSec": 237
+    },
+    {
+      "id": "14",
+      "artistId": "a_zulayxo",
+      "title": "Zulaykho Mahmadshoeva - Bom-Bom",
+      "description": "Zulaykho Mahmadshoeva - Bom-Bom",
+      "image_url": "https://i.ytimg.com/vi/UyzAkriW4dk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJdEmDa1ohLw2Gm4KN4ZzcqLthLA",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Zulaykho_Mahmadshoeva_Bom_Bom_2023.mp4",
+      "publishedAt": "2026-08-28",
+      "durationSec": 298
     }
   ]
 }
