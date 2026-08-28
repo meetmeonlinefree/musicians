@@ -2,7 +2,7 @@
   "id": "a_jonibek_murodov",
   "name": "Jonibek Murodov",
   "image_url": "https://i.ytimg.com/vi/NnolgvvjMlA/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAdGASAw-ejQrX1YqFNogCQFFUZXA&usqp=CCk",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Jonibek_Murodov_Azizi_Dilam.mp4",
       "publishedAt": "2026-08-28",
       "durationSec": 288
+    },
+    {
+      "id": "2",
+      "artistId": "a_jonibek_murodov",
+      "title": "Jonibek - Zulaykho - Юсуф ва Зулайхо",
+      "description": "Jonibek - Zulaykho - Юсуф ва Зулайхо",
+      "image_url": "https://i.ytimg.com/vi/KtNsbsQXJgQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA91-SHftpL062pTEIA_ZsUweM2Tw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Jonibek_and_Zulaykho_Yusuf_va_Zulayxo.mp4",
+      "publishedAt": "2026-08-28",
+      "durationSec": 352
     }
   ]
 }
