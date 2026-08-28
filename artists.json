@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T06:55:18.999Z",
+  "updatedAt": "2026-08-28T08:50:34.164Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -291,6 +291,11 @@
       "id": "a_manija_davlatova",
       "name": "Manija Davlatova",
       "image_url": "https://i.ytimg.com/vi/CAh9cL9f_dU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC9Nn3wkmgexmybJiuygeqLzpJxBA"
+    },
+    {
+      "id": "a_jonibek_murodov",
+      "name": "Jonibek Murodov",
+      "image_url": "https://i.ytimg.com/vi/NnolgvvjMlA/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLAdGASAw-ejQrX1YqFNogCQFFUZXA&usqp=CCk"
     }
   ]
 }
