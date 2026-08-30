@@ -2,7 +2,7 @@
   "id": "a_shabnam",
   "name": "Shabnam Surayo",
   "image_url": "https://i.ytimg.com/vi/0iVHCiJc9JI/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARhlIFooSjAP&rs=AOn4CLDwbgC-w9SuiKp32u8pB4LCFghtSw",
-  "videosCount": 4,
+  "videosCount": 5,
   "videos": [
     {
       "id": "1",
@@ -43,6 +43,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Shabnam_Surayo_Bebaht_2026 Remix.mp4",
       "publishedAt": "2026-07-29",
       "durationSec": 238
+    },
+    {
+      "id": "5",
+      "artistId": "a_shabnam",
+      "title": "SHABNAMI SURAYO XIT 2006 2007",
+      "description": "SHABNAMI SURAYO XIT 2006 2007",
+      "image_url": "https://i.ytimg.com/vi/WDLQZNwIFLY/hqdefault.jpg?sqp=-oaymwFBCOADEI4CSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHeAoAC3AGKAgwIABABGGUgWyg_MA8=&rs=AOn4CLD6bSe0bHzR36ttRXCtvgBTuVqNXw",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/SHABNAMI_SURAYO_XIT_2006_2007.mp4",
+      "publishedAt": "2026-08-30",
+      "durationSec": 241
     }
   ]
 }
