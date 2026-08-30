@@ -2,6 +2,17 @@
   "id": "a_cheys",
   "name": "Cheys",
   "image_url": "https://yt3.googleusercontent.com/-kz8kmfnUgVWkxKTQaJvYoZD4WdbG0Z96Xwd0FxrAhH1gFYSMAHONRjjAGS2V7dC8KKq2nzBjFA=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_cheys",
+      "title": "Cheys - Духтари Точик",
+      "description": "Cheys - Духтари Точик",
+      "image_url": "https://i.ytimg.com/vi/kva0daAChYE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDehkdoH02i9TslDrcZhqqchMCe0Q",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Cheys_Tajik_Girl.mp4",
+      "publishedAt": "2026-08-30",
+      "durationSec": 169
+    }
+  ]
 }
