@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T11:33:17.020Z",
+  "updatedAt": "2026-08-30T11:13:25.146Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -311,6 +311,11 @@
       "id": "a_mehrafruz",
       "name": "Mehrafruz",
       "image_url": "https://yt3.ggpht.com/ymmhA7IAF2EITJ2lEiBqbMID_dipT3fz0IRrhdBifz2FsB-ffnU2xEPCx3L7G1LkX8wHL8k8hw=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "id": "a_cheys",
+      "name": "Cheys",
+      "image_url": "https://yt3.googleusercontent.com/-kz8kmfnUgVWkxKTQaJvYoZD4WdbG0Z96Xwd0FxrAhH1gFYSMAHONRjjAGS2V7dC8KKq2nzBjFA=s160-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
