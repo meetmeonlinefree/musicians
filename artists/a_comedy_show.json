@@ -2,7 +2,7 @@
   "id": "a_comedy_show",
   "name": "Comedy Show",
   "image_url": "https://yt3.ggpht.com/OokrlDPfcUuV8-z5SVpoAir2Gd4RVr5axhNzK7SDcRlWbex3jDJaAKhgZlTJKrjmvbDgcq1y=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 2,
+  "videosCount": 3,
   "videos": [
     {
       "id": "1",
@@ -23,6 +23,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Comedy_Show_Sabzina.mp4",
       "publishedAt": "2026-09-03",
       "durationSec": 303
+    },
+    {
+      "id": "3",
+      "artistId": "a_comedy_show",
+      "title": "Камеди шоу - Чойхона",
+      "description": "Ахрор Сиддиков - Камеди шоу - Чойхона",
+      "image_url": "https://i.ytimg.com/vi/clJgPUQkd38/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgRyhAMA8=&rs=AOn4CLANozT3q__DuCEtbGs190MDbZIFtQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Comedy_Show_Choyxona.mp4",
+      "publishedAt": "2026-09-03",
+      "durationSec": 241
     }
   ]
 }
