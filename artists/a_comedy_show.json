@@ -2,7 +2,7 @@
   "id": "a_comedy_show",
   "name": "Comedy Show",
   "image_url": "https://yt3.ggpht.com/k4S42eL7H8AGV5dn48WkIl6_x-gS5fmrVZgvL8i5cxHd5Yqz0u9Aq-CZXxtmuhk6GPAxTf31Gw=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 3,
+  "videosCount": 4,
   "videos": [
     {
       "id": "1",
@@ -33,6 +33,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Comedy_Show_Choyxona.mp4",
       "publishedAt": "2026-09-03",
       "durationSec": 241
+    },
+    {
+      "id": "4",
+      "artistId": "a_comedy_show",
+      "title": "Ахрор Сиддиков ва Камеди шоу - Зумба",
+      "description": "Ахрор Сиддиков ва Камеди шоу - Зумба",
+      "image_url": "https://i.ytimg.com/vi/KZcVBK5f0a0/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgTyhDMA8=&rs=AOn4CLD3n4u5_KZmDQ3AXgumbCzdRnEW9w",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Comedy_Show_Zumba_2019.mp4",
+      "publishedAt": "2026-09-03",
+      "durationSec": 450
     }
   ]
 }
