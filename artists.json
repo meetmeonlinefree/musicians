@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T16:46:35.531Z",
+  "updatedAt": "2026-09-03T09:05:26.678Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -316,6 +316,11 @@
       "id": "a_cheys",
       "name": "Cheys",
       "image_url": "https://yt3.googleusercontent.com/-kz8kmfnUgVWkxKTQaJvYoZD4WdbG0Z96Xwd0FxrAhH1gFYSMAHONRjjAGS2V7dC8KKq2nzBjFA=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "a_comedy_show",
+      "name": "Comedy Show",
+      "image_url": "https://yt3.ggpht.com/OokrlDPfcUuV8-z5SVpoAir2Gd4RVr5axhNzK7SDcRlWbex3jDJaAKhgZlTJKrjmvbDgcq1y=s176-c-k-c0x00ffffff-no-rj-mo"
     }
   ]
 }
