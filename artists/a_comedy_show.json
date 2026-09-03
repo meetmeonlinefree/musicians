@@ -2,6 +2,17 @@
   "id": "a_comedy_show",
   "name": "Comedy Show",
   "image_url": "https://yt3.ggpht.com/OokrlDPfcUuV8-z5SVpoAir2Gd4RVr5axhNzK7SDcRlWbex3jDJaAKhgZlTJKrjmvbDgcq1y=s176-c-k-c0x00ffffff-no-rj-mo",
-  "videosCount": 0,
-  "videos": []
+  "videosCount": 1,
+  "videos": [
+    {
+      "id": "1",
+      "artistId": "a_comedy_show",
+      "title": "Камеди шоу - Фотимагул",
+      "description": "Камеди шоу - Фотимагул",
+      "image_url": "https://i.ytimg.com/vi/STIdBG70950/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGEcgVShlMA8=&rs=AOn4CLAQHzDLNvoxZk26n4qw5u9WwHvomg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Comedy_Show_FotimaGul.mp4",
+      "publishedAt": "2026-09-03",
+      "durationSec": 293
+    }
+  ]
 }
