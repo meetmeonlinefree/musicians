@@ -2,7 +2,7 @@
   "id": "a_nigina",
   "name": "Nigina Amonqulova",
   "image_url": "https://i.ytimg.com/vi/jlzWSeGetyE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD-8nRtOSlvGU9FxTNW0Ho1yhIgVw",
-  "videosCount": 8,
+  "videosCount": 9,
   "videos": [
     {
       "id": "1",
@@ -83,6 +83,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nigina_Amonqulova_Dilnoma.mp4",
       "publishedAt": "2026-08-28",
       "durationSec": 199
+    },
+    {
+      "id": "9",
+      "artistId": "a_nigina",
+      "title": "Nigina Amonqulova - Tanhoi",
+      "description": "Nigina Amonqulova - Tanhoi",
+      "image_url": "https://i.ytimg.com/vi/JhDseURS4kM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAgiP3kP0I0ceA4NEyk5pkl6icKkQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Nigina_Amonqulova_Tanhoi.mp4",
+      "publishedAt": "2026-10-28",
+      "durationSec": 215
     }
   ]
 }
