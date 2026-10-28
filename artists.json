@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T03:55:32.313Z",
+  "updatedAt": "2026-10-28T04:03:37.446Z",
   "artists": [
     {
       "id": "a_sadriddin",
@@ -321,6 +321,11 @@
       "id": "a_comedy_show",
       "name": "Comedy Show",
       "image_url": "https://yt3.ggpht.com/k4S42eL7H8AGV5dn48WkIl6_x-gS5fmrVZgvL8i5cxHd5Yqz0u9Aq-CZXxtmuhk6GPAxTf31Gw=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "id": "a_jahongir_zaripov",
+      "name": "Jahongir Zaripov",
+      "image_url": "https://yt3.ggpht.com/schdxa8gZyvCvdyOzQuK1w99VH5oFYdOC7UzfHS0gTR3J-_kJvl4R_fwmxQ4E9SusOgCow61=s176-c-k-c0x00ffffff-no-rj-mo"
     }
   ]
 }
