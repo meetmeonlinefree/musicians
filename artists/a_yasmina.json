@@ -2,7 +2,7 @@
   "id": "a_yasmina",
   "name": "Yasmina",
   "image_url": "https://yt3.googleusercontent.com/Zn-7DBlGgDY9oLO1IEmPZMiVGAozKAsoMUePdBsZ1Ld8ugl_OdhVes2OQorIN7ef9fGRjJHZ7A=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 8,
+  "videosCount": 9,
   "videos": [
     {
       "id": "1",
@@ -83,6 +83,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Yasmina_Khazon_dida_Fayzigul_Yusupova.mp4",
       "publishedAt": "2026-08-10",
       "durationSec": 268
+    },
+    {
+      "id": "9",
+      "artistId": "a_yasmina",
+      "title": "Yasmina - TOJIKONA",
+      "description": "Yasmina - TOJIKONA",
+      "image_url": "https://i.ytimg.com/vi/4uQhxesPJos/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTLGtm-FjqcOm7pxd319MzEw-zqg",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/TOJIKONA_Yasmina_Moonlight.mp4",
+      "publishedAt": "2026-10-28",
+      "durationSec": 220
     }
   ]
 }
