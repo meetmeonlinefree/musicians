@@ -2,7 +2,7 @@
   "id": "a_valijon_azizov",
   "name": "Valijon Azizov",
   "image_url": "https://yt3.googleusercontent.com/pP12bojSZI6s_1s9TWPDRvP-dmR9tBYAmMlll7yXzzp7DJ1W8e13EKTa9PTD3hfluetjqIteog=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 1,
+  "videosCount": 2,
   "videos": [
     {
       "id": "1",
@@ -13,6 +13,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Valijon_Azizov_Oshiqi_tu_hastam.mp4",
       "publishedAt": "2026-08-19",
       "durationSec": 239
+    },
+    {
+      "id": "2",
+      "artistId": "a_valijon_azizov",
+      "title": "Valijon Azizov - Mehrubonam 2026",
+      "description": "Valijon Azizov - Mehrubonam 2026",
+      "image_url": "https://i.ytimg.com/vi/3ck0CBj1nLA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAMO4oZpaoaRojo-jmw-zXchSzj2Q",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Valijon_Azizov_Mehrubonam_2026.mp4",
+      "publishedAt": "2026-10-28",
+      "durationSec": 215
     }
   ]
 }
