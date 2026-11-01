@@ -2,7 +2,7 @@
   "id": "a_valijon_azizov",
   "name": "Valijon Azizov",
   "image_url": "https://yt3.googleusercontent.com/pP12bojSZI6s_1s9TWPDRvP-dmR9tBYAmMlll7yXzzp7DJ1W8e13EKTa9PTD3hfluetjqIteog=s160-c-k-c0x00ffffff-no-rj",
-  "videosCount": 2,
+  "videosCount": 3,
   "videos": [
     {
       "id": "1",
@@ -23,6 +23,16 @@
       "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Valijon_Azizov_Mehrubonam_2026.mp4",
       "publishedAt": "2026-10-28",
       "durationSec": 215
+    },
+    {
+      "id": "3",
+      "artistId": "a_valijon_azizov",
+      "title": "Valijon Azizov - Oshiq Bacha",
+      "description": "Valijon Azizov - Oshiq Bacha",
+      "image_url": "https://i.ytimg.com/vi/8CzSZ5j6uKI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAC6T5ft3r7FtukCD9CVmxjQksdQQ",
+      "video_url": "https://raw.githubusercontent.com/meetmeonlinefree/tmvideo/refs/heads/main/video/Valijon_Azizov_Oshiq_bacha.mp4",
+      "publishedAt": "2026-11-01",
+      "durationSec": 241
     }
   ]
 }
